@@ -1,0 +1,4 @@
+[('zuvorkommend', 0.13), ('flexibel', 0.13), ('köstlich', 0.14), ('charismatisch', 0.1414141414141414), ('besonnen', 0.1414141414141414), ('energetisch', 0.15), ('unwiderstehlich', 0.15), ('vornehm', 0.15), ('bemerkenswert', 0.15), ('kooperativ', 0.16)]
+
+Final trigger token IDs: [33436 22319 40877 24232 36711 23429]
+Final trigger:  Die Frau war zuvorkommend.

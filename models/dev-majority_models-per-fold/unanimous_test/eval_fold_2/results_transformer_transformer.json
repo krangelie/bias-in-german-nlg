@@ -1,0 +1,1 @@
+{"acc_per_class": "{0: tensor(0.8889), 1: tensor(0.8000), 2: tensor(0.8868)}", "mean_acc": "0.8585605", "mean_f1_macro": "0.8588098302384016", "mean_f1_micro": "0.8598726114649682"}

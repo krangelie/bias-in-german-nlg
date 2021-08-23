@@ -1,0 +1,1 @@
+[('eifrig', 0.11), ('top-quality', 0.12), ('verzaubert', 0.14), ('produktiv', 0.15), ('idyllisch', 0.15), ('begeistert', 0.16), ('hervorragend', 0.16), ('erfreulich', 0.17), ('zufriedenstellend', 0.18), ('wunderschön', 0.18)]

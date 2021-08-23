@@ -1,0 +1,349 @@
+{'annotation': 'majority', 'ignore_study_manager': 'Angelie', 'augment': 'single_gender'}
+Using /home/angelie/Documents/University/Thesis/1_THESIS/thesis_repo/thesis-bias-in-nlp/data/preprocessed/emb-transformer_uncertainremoved-all_annotated-majority_ignore-Angelie_balanced-True_gendered-single_gender/dev_split for dev split.
+{'annotation': 'majority', 'ignore_study_manager': '${dev_settings.ignore_study_manager}', 'augment': 'single_gender'}
+Using /home/angelie/Documents/University/Thesis/1_THESIS/thesis_repo/thesis-bias-in-nlp/data/preprocessed/emb-transformer_uncertainremoved-all_annotated-majority_ignore-Angelie_balanced-True_gendered-single_gender/test_split for test split.
+There is at least one duplicate in dev and test split
+['Der Mann Sieht nach unten']
+Old test split length is 228
+Removing 1 cases from test split
+New test split length is 227
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/29 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/29 [00:00<?, ?it/s] Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 43.00it/s]Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 42.97it/s, loss=0.988, v_num=0, val_loss=1.110, val_acc=0.312, val_f1=0.310]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.39it/s][AEpoch 0: 100%|██████████| 29/29 [00:01<00:00, 26.41it/s, loss=0.961, v_num=0, val_loss=0.896, val_acc=0.676, val_f1=0.662]
+                                                         [AEpoch 0:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.961, v_num=0, val_loss=0.896, val_acc=0.676, val_f1=0.662]         Epoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.961, v_num=0, val_loss=0.896, val_acc=0.676, val_f1=0.662]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 40.25it/s, loss=0.961, v_num=0, val_loss=0.896, val_acc=0.676, val_f1=0.662]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 40.22it/s, loss=0.768, v_num=0, val_loss=0.896, val_acc=0.676, val_f1=0.662]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.26it/s][AEpoch 1: 100%|██████████| 29/29 [00:01<00:00, 25.78it/s, loss=0.738, v_num=0, val_loss=0.774, val_acc=0.714, val_f1=0.702]
+                                                         [AEpoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.738, v_num=0, val_loss=0.774, val_acc=0.714, val_f1=0.702]         Epoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.738, v_num=0, val_loss=0.774, val_acc=0.714, val_f1=0.702]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 40.80it/s, loss=0.738, v_num=0, val_loss=0.774, val_acc=0.714, val_f1=0.702]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 40.77it/s, loss=0.612, v_num=0, val_loss=0.774, val_acc=0.714, val_f1=0.702]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.01it/s][AEpoch 2: 100%|██████████| 29/29 [00:01<00:00, 26.86it/s, loss=0.623, v_num=0, val_loss=0.706, val_acc=0.720, val_f1=0.706]
+                                                         [AEpoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.623, v_num=0, val_loss=0.706, val_acc=0.720, val_f1=0.706]         Epoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.623, v_num=0, val_loss=0.706, val_acc=0.720, val_f1=0.706]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 41.39it/s, loss=0.623, v_num=0, val_loss=0.706, val_acc=0.720, val_f1=0.706]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 41.36it/s, loss=0.541, v_num=0, val_loss=0.706, val_acc=0.720, val_f1=0.706]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 13.96it/s][AEpoch 3: 100%|██████████| 29/29 [00:01<00:00, 25.30it/s, loss=0.541, v_num=0, val_loss=0.653, val_acc=0.753, val_f1=0.736]
+                                                         [AEpoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.541, v_num=0, val_loss=0.653, val_acc=0.753, val_f1=0.736]         Epoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.541, v_num=0, val_loss=0.653, val_acc=0.753, val_f1=0.736]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 42.29it/s, loss=0.541, v_num=0, val_loss=0.653, val_acc=0.753, val_f1=0.736]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 42.26it/s, loss=0.5, v_num=0, val_loss=0.653, val_acc=0.753, val_f1=0.736]  
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 13.66it/s][AEpoch 4: 100%|██████████| 29/29 [00:01<00:00, 25.42it/s, loss=0.49, v_num=0, val_loss=0.635, val_acc=0.747, val_f1=0.730]
+                                                         [AEpoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.49, v_num=0, val_loss=0.635, val_acc=0.747, val_f1=0.730]         Epoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.49, v_num=0, val_loss=0.635, val_acc=0.747, val_f1=0.730]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 43.80it/s, loss=0.49, v_num=0, val_loss=0.635, val_acc=0.747, val_f1=0.730]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 43.77it/s, loss=0.465, v_num=0, val_loss=0.635, val_acc=0.747, val_f1=0.730]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.11it/s][AEpoch 5: 100%|██████████| 29/29 [00:01<00:00, 28.05it/s, loss=0.471, v_num=0, val_loss=0.611, val_acc=0.758, val_f1=0.742]
+                                                         [AEpoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.471, v_num=0, val_loss=0.611, val_acc=0.758, val_f1=0.742]         Epoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.471, v_num=0, val_loss=0.611, val_acc=0.758, val_f1=0.742]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 44.05it/s, loss=0.471, v_num=0, val_loss=0.611, val_acc=0.758, val_f1=0.742]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 44.03it/s, loss=0.447, v_num=0, val_loss=0.611, val_acc=0.758, val_f1=0.742]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.45it/s][AEpoch 6: 100%|██████████| 29/29 [00:01<00:00, 28.34it/s, loss=0.448, v_num=0, val_loss=0.604, val_acc=0.747, val_f1=0.719]
+                                                         [AEpoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.448, v_num=0, val_loss=0.604, val_acc=0.747, val_f1=0.719]         Epoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.448, v_num=0, val_loss=0.604, val_acc=0.747, val_f1=0.719]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 44.17it/s, loss=0.448, v_num=0, val_loss=0.604, val_acc=0.747, val_f1=0.719]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 44.13it/s, loss=0.414, v_num=0, val_loss=0.604, val_acc=0.747, val_f1=0.719]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.41it/s][AEpoch 7: 100%|██████████| 29/29 [00:01<00:00, 28.15it/s, loss=0.421, v_num=0, val_loss=0.591, val_acc=0.775, val_f1=0.761]
+                                                         [AEpoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.421, v_num=0, val_loss=0.591, val_acc=0.775, val_f1=0.761]         Epoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.421, v_num=0, val_loss=0.591, val_acc=0.775, val_f1=0.761]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 41.21it/s, loss=0.421, v_num=0, val_loss=0.591, val_acc=0.775, val_f1=0.761]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 41.18it/s, loss=0.396, v_num=0, val_loss=0.591, val_acc=0.775, val_f1=0.761]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.48it/s][AEpoch 8: 100%|██████████| 29/29 [00:01<00:00, 26.69it/s, loss=0.415, v_num=0, val_loss=0.592, val_acc=0.764, val_f1=0.750]
+                                                         [AEpoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.415, v_num=0, val_loss=0.592, val_acc=0.764, val_f1=0.750]         Epoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.415, v_num=0, val_loss=0.592, val_acc=0.764, val_f1=0.750]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 44.32it/s, loss=0.415, v_num=0, val_loss=0.592, val_acc=0.764, val_f1=0.750]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 44.29it/s, loss=0.376, v_num=0, val_loss=0.592, val_acc=0.764, val_f1=0.750]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.92it/s][AEpoch 9: 100%|██████████| 29/29 [00:01<00:00, 28.43it/s, loss=0.39, v_num=0, val_loss=0.583, val_acc=0.753, val_f1=0.737] 
+                                                         [AEpoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.39, v_num=0, val_loss=0.583, val_acc=0.753, val_f1=0.737]         Epoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.39, v_num=0, val_loss=0.583, val_acc=0.753, val_f1=0.737]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 42.27it/s, loss=0.39, v_num=0, val_loss=0.583, val_acc=0.753, val_f1=0.737]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 42.24it/s, loss=0.372, v_num=0, val_loss=0.583, val_acc=0.753, val_f1=0.737]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.06it/s][AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 26.82it/s, loss=0.36, v_num=0, val_loss=0.587, val_acc=0.758, val_f1=0.750] 
+                                                         [AEpoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.36, v_num=0, val_loss=0.587, val_acc=0.758, val_f1=0.750]         Epoch 11:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.36, v_num=0, val_loss=0.587, val_acc=0.758, val_f1=0.750]Epoch 11:  69%|██████▉   | 20/29 [00:00<00:00, 44.15it/s, loss=0.36, v_num=0, val_loss=0.587, val_acc=0.758, val_f1=0.750]Epoch 11:  69%|██████▉   | 20/29 [00:00<00:00, 44.12it/s, loss=0.353, v_num=0, val_loss=0.587, val_acc=0.758, val_f1=0.750]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.87it/s][AEpoch 11: 100%|██████████| 29/29 [00:01<00:00, 27.92it/s, loss=0.366, v_num=0, val_loss=0.584, val_acc=0.764, val_f1=0.751]
+                                                         [AEpoch 11:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.366, v_num=0, val_loss=0.584, val_acc=0.764, val_f1=0.751]         Epoch 12:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.366, v_num=0, val_loss=0.584, val_acc=0.764, val_f1=0.751]Epoch 12:  69%|██████▉   | 20/29 [00:00<00:00, 43.88it/s, loss=0.366, v_num=0, val_loss=0.584, val_acc=0.764, val_f1=0.751]Epoch 12:  69%|██████▉   | 20/29 [00:00<00:00, 43.85it/s, loss=0.329, v_num=0, val_loss=0.584, val_acc=0.764, val_f1=0.751]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.10it/s][AEpoch 12: 100%|██████████| 29/29 [00:01<00:00, 28.34it/s, loss=0.351, v_num=0, val_loss=0.578, val_acc=0.758, val_f1=0.749]
+                                                         [AEpoch 12:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.351, v_num=0, val_loss=0.578, val_acc=0.758, val_f1=0.749]         Epoch 13:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.351, v_num=0, val_loss=0.578, val_acc=0.758, val_f1=0.749]Epoch 13:  69%|██████▉   | 20/29 [00:00<00:00, 44.47it/s, loss=0.351, v_num=0, val_loss=0.578, val_acc=0.758, val_f1=0.749]Epoch 13:  69%|██████▉   | 20/29 [00:00<00:00, 44.44it/s, loss=0.342, v_num=0, val_loss=0.578, val_acc=0.758, val_f1=0.749]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.44it/s][AEpoch 13: 100%|██████████| 29/29 [00:01<00:00, 28.48it/s, loss=0.33, v_num=0, val_loss=0.586, val_acc=0.758, val_f1=0.748] 
+                                                         [AEpoch 13:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.33, v_num=0, val_loss=0.586, val_acc=0.758, val_f1=0.748]         Epoch 14:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.33, v_num=0, val_loss=0.586, val_acc=0.758, val_f1=0.748]Epoch 14:  69%|██████▉   | 20/29 [00:00<00:00, 44.13it/s, loss=0.33, v_num=0, val_loss=0.586, val_acc=0.758, val_f1=0.748]Epoch 14:  69%|██████▉   | 20/29 [00:00<00:00, 44.10it/s, loss=0.332, v_num=0, val_loss=0.586, val_acc=0.758, val_f1=0.748]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.21it/s][AEpoch 14: 100%|██████████| 29/29 [00:01<00:00, 28.56it/s, loss=0.323, v_num=0, val_loss=0.597, val_acc=0.758, val_f1=0.748]
+                                                         [AEpoch 14:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.323, v_num=0, val_loss=0.597, val_acc=0.758, val_f1=0.748]         Epoch 15:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.323, v_num=0, val_loss=0.597, val_acc=0.758, val_f1=0.748]Epoch 15:  69%|██████▉   | 20/29 [00:00<00:00, 44.62it/s, loss=0.323, v_num=0, val_loss=0.597, val_acc=0.758, val_f1=0.748]Epoch 15:  69%|██████▉   | 20/29 [00:00<00:00, 44.59it/s, loss=0.312, v_num=0, val_loss=0.597, val_acc=0.758, val_f1=0.748]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.32it/s][AEpoch 15: 100%|██████████| 29/29 [00:01<00:00, 28.81it/s, loss=0.307, v_num=0, val_loss=0.577, val_acc=0.764, val_f1=0.751]
+                                                         [AEpoch 15:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.307, v_num=0, val_loss=0.577, val_acc=0.764, val_f1=0.751]         Epoch 16:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.307, v_num=0, val_loss=0.577, val_acc=0.764, val_f1=0.751]Epoch 16:  69%|██████▉   | 20/29 [00:00<00:00, 43.40it/s, loss=0.307, v_num=0, val_loss=0.577, val_acc=0.764, val_f1=0.751]Epoch 16:  69%|██████▉   | 20/29 [00:00<00:00, 43.37it/s, loss=0.297, v_num=0, val_loss=0.577, val_acc=0.764, val_f1=0.751]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.29it/s][AEpoch 16: 100%|██████████| 29/29 [00:01<00:00, 28.08it/s, loss=0.301, v_num=0, val_loss=0.586, val_acc=0.769, val_f1=0.758]
+                                                         [AEpoch 16:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.301, v_num=0, val_loss=0.586, val_acc=0.769, val_f1=0.758]         Epoch 17:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.301, v_num=0, val_loss=0.586, val_acc=0.769, val_f1=0.758]Epoch 17:  69%|██████▉   | 20/29 [00:00<00:00, 42.90it/s, loss=0.301, v_num=0, val_loss=0.586, val_acc=0.769, val_f1=0.758]Epoch 17:  69%|██████▉   | 20/29 [00:00<00:00, 42.87it/s, loss=0.294, v_num=0, val_loss=0.586, val_acc=0.769, val_f1=0.758]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.46it/s][AEpoch 17: 100%|██████████| 29/29 [00:01<00:00, 27.69it/s, loss=0.302, v_num=0, val_loss=0.603, val_acc=0.775, val_f1=0.766]
+                                                         [AEpoch 17:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.302, v_num=0, val_loss=0.603, val_acc=0.775, val_f1=0.766]         Epoch 18:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.302, v_num=0, val_loss=0.603, val_acc=0.775, val_f1=0.766]Epoch 18:  69%|██████▉   | 20/29 [00:00<00:00, 42.62it/s, loss=0.302, v_num=0, val_loss=0.603, val_acc=0.775, val_f1=0.766]Epoch 18:  69%|██████▉   | 20/29 [00:00<00:00, 42.59it/s, loss=0.28, v_num=0, val_loss=0.603, val_acc=0.775, val_f1=0.766] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.31it/s][AEpoch 18: 100%|██████████| 29/29 [00:01<00:00, 28.07it/s, loss=0.284, v_num=0, val_loss=0.584, val_acc=0.769, val_f1=0.758]
+                                                         [AEpoch 18:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.284, v_num=0, val_loss=0.584, val_acc=0.769, val_f1=0.758]         Epoch 19:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.284, v_num=0, val_loss=0.584, val_acc=0.769, val_f1=0.758]Epoch 19:  69%|██████▉   | 20/29 [00:00<00:00, 44.36it/s, loss=0.284, v_num=0, val_loss=0.584, val_acc=0.769, val_f1=0.758]Epoch 19:  69%|██████▉   | 20/29 [00:00<00:00, 44.34it/s, loss=0.263, v_num=0, val_loss=0.584, val_acc=0.769, val_f1=0.758]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.74it/s][AEpoch 19: 100%|██████████| 29/29 [00:01<00:00, 27.90it/s, loss=0.276, v_num=0, val_loss=0.599, val_acc=0.786, val_f1=0.774]
+                                                         [AEpoch 19:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.276, v_num=0, val_loss=0.599, val_acc=0.786, val_f1=0.774]         Epoch 20:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.276, v_num=0, val_loss=0.599, val_acc=0.786, val_f1=0.774]Epoch 20:  69%|██████▉   | 20/29 [00:00<00:00, 39.93it/s, loss=0.276, v_num=0, val_loss=0.599, val_acc=0.786, val_f1=0.774]Epoch 20:  69%|██████▉   | 20/29 [00:00<00:00, 39.90it/s, loss=0.269, v_num=0, val_loss=0.599, val_acc=0.786, val_f1=0.774]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.08it/s][AEpoch 20: 100%|██████████| 29/29 [00:01<00:00, 27.28it/s, loss=0.264, v_num=0, val_loss=0.608, val_acc=0.780, val_f1=0.770]
+                                                         [AEpoch 20:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.264, v_num=0, val_loss=0.608, val_acc=0.780, val_f1=0.770]         Epoch 21:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.264, v_num=0, val_loss=0.608, val_acc=0.780, val_f1=0.770]Epoch 21:  69%|██████▉   | 20/29 [00:00<00:00, 43.24it/s, loss=0.264, v_num=0, val_loss=0.608, val_acc=0.780, val_f1=0.770]Epoch 21:  69%|██████▉   | 20/29 [00:00<00:00, 43.21it/s, loss=0.248, v_num=0, val_loss=0.608, val_acc=0.780, val_f1=0.770]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.77it/s][AEpoch 21: 100%|██████████| 29/29 [00:01<00:00, 27.65it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.769, val_f1=0.757]
+                                                         [AEpoch 21:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.769, val_f1=0.757]         Epoch 22:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.769, val_f1=0.757]Epoch 22:  69%|██████▉   | 20/29 [00:00<00:00, 43.68it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.769, val_f1=0.757]Epoch 22:  69%|██████▉   | 20/29 [00:00<00:00, 43.65it/s, loss=0.241, v_num=0, val_loss=0.597, val_acc=0.769, val_f1=0.757]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.48it/s][AEpoch 22: 100%|██████████| 29/29 [00:01<00:00, 28.12it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.780, val_f1=0.768]
+                                                         [AEpoch 22:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.780, val_f1=0.768]         Epoch 23:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.780, val_f1=0.768]Epoch 23:  69%|██████▉   | 20/29 [00:00<00:00, 43.22it/s, loss=0.251, v_num=0, val_loss=0.597, val_acc=0.780, val_f1=0.768]Epoch 23:  69%|██████▉   | 20/29 [00:00<00:00, 43.19it/s, loss=0.221, v_num=0, val_loss=0.597, val_acc=0.780, val_f1=0.768]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.47it/s][AEpoch 23: 100%|██████████| 29/29 [00:01<00:00, 28.49it/s, loss=0.242, v_num=0, val_loss=0.597, val_acc=0.775, val_f1=0.764]
+                                                         [AEpoch 23:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.242, v_num=0, val_loss=0.597, val_acc=0.775, val_f1=0.764]         Epoch 24:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.242, v_num=0, val_loss=0.597, val_acc=0.775, val_f1=0.764]Epoch 24:  69%|██████▉   | 20/29 [00:00<00:00, 43.10it/s, loss=0.242, v_num=0, val_loss=0.597, val_acc=0.775, val_f1=0.764]Epoch 24:  69%|██████▉   | 20/29 [00:00<00:00, 43.07it/s, loss=0.226, v_num=0, val_loss=0.597, val_acc=0.775, val_f1=0.764]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.22it/s][AEpoch 24: 100%|██████████| 29/29 [00:01<00:00, 28.09it/s, loss=0.236, v_num=0, val_loss=0.598, val_acc=0.775, val_f1=0.764]
+                                                         [AEpoch 24:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.236, v_num=0, val_loss=0.598, val_acc=0.775, val_f1=0.764]         Epoch 25:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.236, v_num=0, val_loss=0.598, val_acc=0.775, val_f1=0.764]Epoch 25:  69%|██████▉   | 20/29 [00:00<00:00, 43.98it/s, loss=0.236, v_num=0, val_loss=0.598, val_acc=0.775, val_f1=0.764]Epoch 25:  69%|██████▉   | 20/29 [00:00<00:00, 43.94it/s, loss=0.237, v_num=0, val_loss=0.598, val_acc=0.775, val_f1=0.764]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.49it/s][AEpoch 25: 100%|██████████| 29/29 [00:01<00:00, 27.78it/s, loss=0.233, v_num=0, val_loss=0.598, val_acc=0.780, val_f1=0.769]
+                                                         [AEpoch 25: 100%|██████████| 29/29 [00:01<00:00, 27.74it/s, loss=0.233, v_num=0, val_loss=0.598, val_acc=0.780, val_f1=0.769]
+25
+Confusion matrix: tensor([[52.,  8.,  4.],
+        [10., 62., 18.],
+        [ 1., 11., 61.]])
+Num per class: {0.0: 63, 1.0: 81, 2.0: 83}
+Test Accuracy per class: {0.0: tensor(0.8125), 1.0: tensor(0.6889), 2.0: tensor(0.8356)}
+Test Accuracy averaged: 0.779001772403717
+Test F1-score macro-averaged: 0.7753650395589889
+Test F1-score micro-averaged: 0.7709251101321587
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/29 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/29 [00:00<?, ?it/s] Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 42.64it/s]Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 42.61it/s, loss=0.356, v_num=1, val_loss=0.265, val_acc=0.891, val_f1=0.882]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.02it/s][AEpoch 0: 100%|██████████| 29/29 [00:01<00:00, 27.71it/s, loss=0.338, v_num=1, val_loss=0.253, val_acc=0.901, val_f1=0.897]
+                                                         [AEpoch 0:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.338, v_num=1, val_loss=0.253, val_acc=0.901, val_f1=0.897]         Epoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.338, v_num=1, val_loss=0.253, val_acc=0.901, val_f1=0.897]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 44.49it/s, loss=0.338, v_num=1, val_loss=0.253, val_acc=0.901, val_f1=0.897]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 44.46it/s, loss=0.32, v_num=1, val_loss=0.253, val_acc=0.901, val_f1=0.897] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.56it/s][AEpoch 1: 100%|██████████| 29/29 [00:01<00:00, 28.88it/s, loss=0.307, v_num=1, val_loss=0.263, val_acc=0.896, val_f1=0.891]
+                                                         [AEpoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.307, v_num=1, val_loss=0.263, val_acc=0.896, val_f1=0.891]         Epoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.307, v_num=1, val_loss=0.263, val_acc=0.896, val_f1=0.891]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 45.40it/s, loss=0.307, v_num=1, val_loss=0.263, val_acc=0.896, val_f1=0.891]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 45.37it/s, loss=0.295, v_num=1, val_loss=0.263, val_acc=0.896, val_f1=0.891]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.82it/s][AEpoch 2: 100%|██████████| 29/29 [00:01<00:00, 28.34it/s, loss=0.287, v_num=1, val_loss=0.288, val_acc=0.896, val_f1=0.893]
+                                                         [AEpoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.287, v_num=1, val_loss=0.288, val_acc=0.896, val_f1=0.893]         Epoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.287, v_num=1, val_loss=0.288, val_acc=0.896, val_f1=0.893]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 41.95it/s, loss=0.287, v_num=1, val_loss=0.288, val_acc=0.896, val_f1=0.893]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 41.92it/s, loss=0.271, v_num=1, val_loss=0.288, val_acc=0.896, val_f1=0.893]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.09it/s][AEpoch 3: 100%|██████████| 29/29 [00:01<00:00, 27.54it/s, loss=0.265, v_num=1, val_loss=0.305, val_acc=0.879, val_f1=0.877]
+                                                         [AEpoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.265, v_num=1, val_loss=0.305, val_acc=0.879, val_f1=0.877]         Epoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.265, v_num=1, val_loss=0.305, val_acc=0.879, val_f1=0.877]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 45.16it/s, loss=0.265, v_num=1, val_loss=0.305, val_acc=0.879, val_f1=0.877]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 45.13it/s, loss=0.265, v_num=1, val_loss=0.305, val_acc=0.879, val_f1=0.877]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.15it/s][AEpoch 4: 100%|██████████| 29/29 [00:01<00:00, 28.55it/s, loss=0.265, v_num=1, val_loss=0.320, val_acc=0.879, val_f1=0.877]
+                                                         [AEpoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.265, v_num=1, val_loss=0.320, val_acc=0.879, val_f1=0.877]         Epoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.265, v_num=1, val_loss=0.320, val_acc=0.879, val_f1=0.877]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 42.58it/s, loss=0.265, v_num=1, val_loss=0.320, val_acc=0.879, val_f1=0.877]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 42.56it/s, loss=0.236, v_num=1, val_loss=0.320, val_acc=0.879, val_f1=0.877]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 16.05it/s][AEpoch 5: 100%|██████████| 29/29 [00:01<00:00, 28.34it/s, loss=0.251, v_num=1, val_loss=0.340, val_acc=0.868, val_f1=0.864]
+                                                         [AEpoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.251, v_num=1, val_loss=0.340, val_acc=0.868, val_f1=0.864]         Epoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.251, v_num=1, val_loss=0.340, val_acc=0.868, val_f1=0.864]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 44.99it/s, loss=0.251, v_num=1, val_loss=0.340, val_acc=0.868, val_f1=0.864]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 44.96it/s, loss=0.236, v_num=1, val_loss=0.340, val_acc=0.868, val_f1=0.864]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.20it/s][AEpoch 6: 100%|██████████| 29/29 [00:01<00:00, 28.61it/s, loss=0.25, v_num=1, val_loss=0.353, val_acc=0.857, val_f1=0.855] 
+                                                         [AEpoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.25, v_num=1, val_loss=0.353, val_acc=0.857, val_f1=0.855]         Epoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.25, v_num=1, val_loss=0.353, val_acc=0.857, val_f1=0.855]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 44.25it/s, loss=0.25, v_num=1, val_loss=0.353, val_acc=0.857, val_f1=0.855]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 44.22it/s, loss=0.224, v_num=1, val_loss=0.353, val_acc=0.857, val_f1=0.855]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.44it/s][AEpoch 7: 100%|██████████| 29/29 [00:01<00:00, 28.64it/s, loss=0.228, v_num=1, val_loss=0.358, val_acc=0.863, val_f1=0.860]
+                                                         [AEpoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.228, v_num=1, val_loss=0.358, val_acc=0.863, val_f1=0.860]         Epoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.228, v_num=1, val_loss=0.358, val_acc=0.863, val_f1=0.860]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 43.75it/s, loss=0.228, v_num=1, val_loss=0.358, val_acc=0.863, val_f1=0.860]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 43.72it/s, loss=0.223, v_num=1, val_loss=0.358, val_acc=0.863, val_f1=0.860]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.23it/s][AEpoch 8: 100%|██████████| 29/29 [00:01<00:00, 28.38it/s, loss=0.221, v_num=1, val_loss=0.360, val_acc=0.868, val_f1=0.865]
+                                                         [AEpoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.221, v_num=1, val_loss=0.360, val_acc=0.868, val_f1=0.865]         Epoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.221, v_num=1, val_loss=0.360, val_acc=0.868, val_f1=0.865]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 44.36it/s, loss=0.221, v_num=1, val_loss=0.360, val_acc=0.868, val_f1=0.865]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 44.33it/s, loss=0.223, v_num=1, val_loss=0.360, val_acc=0.868, val_f1=0.865]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.18it/s][AEpoch 9: 100%|██████████| 29/29 [00:01<00:00, 28.32it/s, loss=0.224, v_num=1, val_loss=0.361, val_acc=0.868, val_f1=0.865]
+                                                         [AEpoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.224, v_num=1, val_loss=0.361, val_acc=0.868, val_f1=0.865]         Epoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.224, v_num=1, val_loss=0.361, val_acc=0.868, val_f1=0.865]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 43.61it/s, loss=0.224, v_num=1, val_loss=0.361, val_acc=0.868, val_f1=0.865]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 43.58it/s, loss=0.222, v_num=1, val_loss=0.361, val_acc=0.868, val_f1=0.865]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.00it/s][AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 27.98it/s, loss=0.221, v_num=1, val_loss=0.360, val_acc=0.863, val_f1=0.860]
+                                                         [AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 27.92it/s, loss=0.221, v_num=1, val_loss=0.360, val_acc=0.863, val_f1=0.860]
+10
+Confusion matrix: tensor([[53.,  7.,  4.],
+        [11., 63., 16.],
+        [ 1., 12., 60.]])
+Num per class: {0.0: 65, 1.0: 82, 2.0: 80}
+Test Accuracy per class: {0.0: tensor(0.8281), 1.0: tensor(0.7000), 2.0: tensor(0.8219)}
+Test Accuracy averaged: 0.7833476066589355
+Test F1-score macro-averaged: 0.7795257637938896
+Test F1-score micro-averaged: 0.7753303964757708
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/29 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/29 [00:00<?, ?it/s] Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 45.49it/s]Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 45.45it/s, loss=0.276, v_num=2, val_loss=0.234, val_acc=0.906, val_f1=0.904]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.95it/s][AEpoch 0: 100%|██████████| 29/29 [00:01<00:00, 28.38it/s, loss=0.272, v_num=2, val_loss=0.276, val_acc=0.901, val_f1=0.895]
+                                                         [AEpoch 0:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.272, v_num=2, val_loss=0.276, val_acc=0.901, val_f1=0.895]         Epoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.272, v_num=2, val_loss=0.276, val_acc=0.901, val_f1=0.895]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 42.46it/s, loss=0.272, v_num=2, val_loss=0.276, val_acc=0.901, val_f1=0.895]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 42.43it/s, loss=0.24, v_num=2, val_loss=0.276, val_acc=0.901, val_f1=0.895] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.48it/s][AEpoch 1: 100%|██████████| 29/29 [00:01<00:00, 27.85it/s, loss=0.241, v_num=2, val_loss=0.270, val_acc=0.896, val_f1=0.893]
+                                                         [AEpoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.241, v_num=2, val_loss=0.270, val_acc=0.896, val_f1=0.893]         Epoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.241, v_num=2, val_loss=0.270, val_acc=0.896, val_f1=0.893]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 44.07it/s, loss=0.241, v_num=2, val_loss=0.270, val_acc=0.896, val_f1=0.893]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 44.04it/s, loss=0.214, v_num=2, val_loss=0.270, val_acc=0.896, val_f1=0.893]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.04it/s][AEpoch 2: 100%|██████████| 29/29 [00:01<00:00, 28.23it/s, loss=0.223, v_num=2, val_loss=0.288, val_acc=0.885, val_f1=0.880]
+                                                         [AEpoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.223, v_num=2, val_loss=0.288, val_acc=0.885, val_f1=0.880]         Epoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.223, v_num=2, val_loss=0.288, val_acc=0.885, val_f1=0.880]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 43.54it/s, loss=0.223, v_num=2, val_loss=0.288, val_acc=0.885, val_f1=0.880]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 43.51it/s, loss=0.213, v_num=2, val_loss=0.288, val_acc=0.885, val_f1=0.880]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.26it/s][AEpoch 3: 100%|██████████| 29/29 [00:01<00:00, 28.29it/s, loss=0.217, v_num=2, val_loss=0.293, val_acc=0.885, val_f1=0.880]
+                                                         [AEpoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.217, v_num=2, val_loss=0.293, val_acc=0.885, val_f1=0.880]         Epoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.217, v_num=2, val_loss=0.293, val_acc=0.885, val_f1=0.880]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 44.93it/s, loss=0.217, v_num=2, val_loss=0.293, val_acc=0.885, val_f1=0.880]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 44.91it/s, loss=0.207, v_num=2, val_loss=0.293, val_acc=0.885, val_f1=0.880]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.51it/s][AEpoch 4: 100%|██████████| 29/29 [00:01<00:00, 28.75it/s, loss=0.203, v_num=2, val_loss=0.313, val_acc=0.874, val_f1=0.869]
+                                                         [AEpoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.203, v_num=2, val_loss=0.313, val_acc=0.874, val_f1=0.869]         Epoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.203, v_num=2, val_loss=0.313, val_acc=0.874, val_f1=0.869]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 45.44it/s, loss=0.203, v_num=2, val_loss=0.313, val_acc=0.874, val_f1=0.869]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 45.41it/s, loss=0.193, v_num=2, val_loss=0.313, val_acc=0.874, val_f1=0.869]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.49it/s][AEpoch 5: 100%|██████████| 29/29 [00:00<00:00, 29.06it/s, loss=0.192, v_num=2, val_loss=0.318, val_acc=0.874, val_f1=0.869]
+                                                         [AEpoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.192, v_num=2, val_loss=0.318, val_acc=0.874, val_f1=0.869]         Epoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.192, v_num=2, val_loss=0.318, val_acc=0.874, val_f1=0.869]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 43.02it/s, loss=0.192, v_num=2, val_loss=0.318, val_acc=0.874, val_f1=0.869]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 43.00it/s, loss=0.189, v_num=2, val_loss=0.318, val_acc=0.874, val_f1=0.869]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.20it/s][AEpoch 6: 100%|██████████| 29/29 [00:01<00:00, 28.10it/s, loss=0.192, v_num=2, val_loss=0.327, val_acc=0.863, val_f1=0.856]
+                                                         [AEpoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.192, v_num=2, val_loss=0.327, val_acc=0.863, val_f1=0.856]         Epoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.192, v_num=2, val_loss=0.327, val_acc=0.863, val_f1=0.856]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 45.04it/s, loss=0.192, v_num=2, val_loss=0.327, val_acc=0.863, val_f1=0.856]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 45.01it/s, loss=0.171, v_num=2, val_loss=0.327, val_acc=0.863, val_f1=0.856]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.22it/s][AEpoch 7: 100%|██████████| 29/29 [00:01<00:00, 28.79it/s, loss=0.179, v_num=2, val_loss=0.352, val_acc=0.841, val_f1=0.834]
+                                                         [AEpoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.179, v_num=2, val_loss=0.352, val_acc=0.841, val_f1=0.834]         Epoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.179, v_num=2, val_loss=0.352, val_acc=0.841, val_f1=0.834]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 45.59it/s, loss=0.179, v_num=2, val_loss=0.352, val_acc=0.841, val_f1=0.834]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 45.57it/s, loss=0.16, v_num=2, val_loss=0.352, val_acc=0.841, val_f1=0.834] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.21it/s][AEpoch 8: 100%|██████████| 29/29 [00:01<00:00, 28.80it/s, loss=0.174, v_num=2, val_loss=0.350, val_acc=0.852, val_f1=0.848]
+                                                         [AEpoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.174, v_num=2, val_loss=0.350, val_acc=0.852, val_f1=0.848]         Epoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.174, v_num=2, val_loss=0.350, val_acc=0.852, val_f1=0.848]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 41.67it/s, loss=0.174, v_num=2, val_loss=0.350, val_acc=0.852, val_f1=0.848]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 41.64it/s, loss=0.17, v_num=2, val_loss=0.350, val_acc=0.852, val_f1=0.848] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.19it/s][AEpoch 9: 100%|██████████| 29/29 [00:01<00:00, 27.66it/s, loss=0.172, v_num=2, val_loss=0.348, val_acc=0.846, val_f1=0.841]
+                                                         [AEpoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.172, v_num=2, val_loss=0.348, val_acc=0.846, val_f1=0.841]         Epoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.172, v_num=2, val_loss=0.348, val_acc=0.846, val_f1=0.841]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 42.69it/s, loss=0.172, v_num=2, val_loss=0.348, val_acc=0.846, val_f1=0.841]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 42.66it/s, loss=0.17, v_num=2, val_loss=0.348, val_acc=0.846, val_f1=0.841] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.02it/s][AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 27.57it/s, loss=0.168, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]
+                                                         [AEpoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.168, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]         Epoch 11:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.168, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]Epoch 11:  69%|██████▉   | 20/29 [00:00<00:00, 45.34it/s, loss=0.168, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]Epoch 11:  69%|██████▉   | 20/29 [00:00<00:00, 45.31it/s, loss=0.153, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.42it/s][AEpoch 11: 100%|██████████| 29/29 [00:01<00:00, 28.18it/s, loss=0.161, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]
+                                                         [AEpoch 11: 100%|██████████| 29/29 [00:01<00:00, 28.13it/s, loss=0.161, v_num=2, val_loss=0.350, val_acc=0.846, val_f1=0.841]
+11
+Confusion matrix: tensor([[54.,  8.,  2.],
+        [14., 63., 13.],
+        [ 4., 10., 59.]])
+Num per class: {0.0: 72, 1.0: 81, 2.0: 74}
+Test Accuracy per class: {0.0: tensor(0.8438), 1.0: tensor(0.7000), 2.0: tensor(0.8082)}
+Test Accuracy averaged: 0.7839897274971008
+Test F1-score macro-averaged: 0.7778936135857851
+Test F1-score micro-averaged: 0.7753303964757708
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/29 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/29 [00:00<?, ?it/s] Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 43.54it/s]Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 43.51it/s, loss=0.235, v_num=3, val_loss=0.151, val_acc=0.969, val_f1=0.954]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.98it/s][AEpoch 0: 100%|██████████| 29/29 [00:01<00:00, 27.64it/s, loss=0.249, v_num=3, val_loss=0.164, val_acc=0.967, val_f1=0.962]
+                                                         [AEpoch 0:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.249, v_num=3, val_loss=0.164, val_acc=0.967, val_f1=0.962]         Epoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.249, v_num=3, val_loss=0.164, val_acc=0.967, val_f1=0.962]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 36.75it/s, loss=0.249, v_num=3, val_loss=0.164, val_acc=0.967, val_f1=0.962]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 36.73it/s, loss=0.208, v_num=3, val_loss=0.164, val_acc=0.967, val_f1=0.962]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.26it/s][AEpoch 1: 100%|██████████| 29/29 [00:01<00:00, 26.28it/s, loss=0.209, v_num=3, val_loss=0.185, val_acc=0.940, val_f1=0.934]
+                                                         [AEpoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.209, v_num=3, val_loss=0.185, val_acc=0.940, val_f1=0.934]         Epoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.209, v_num=3, val_loss=0.185, val_acc=0.940, val_f1=0.934]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 44.15it/s, loss=0.209, v_num=3, val_loss=0.185, val_acc=0.940, val_f1=0.934]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 44.12it/s, loss=0.201, v_num=3, val_loss=0.185, val_acc=0.940, val_f1=0.934]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.60it/s][AEpoch 2: 100%|██████████| 29/29 [00:01<00:00, 28.91it/s, loss=0.195, v_num=3, val_loss=0.212, val_acc=0.918, val_f1=0.913]
+                                                         [AEpoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.195, v_num=3, val_loss=0.212, val_acc=0.918, val_f1=0.913]         Epoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.195, v_num=3, val_loss=0.212, val_acc=0.918, val_f1=0.913]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 45.61it/s, loss=0.195, v_num=3, val_loss=0.212, val_acc=0.918, val_f1=0.913]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 45.58it/s, loss=0.19, v_num=3, val_loss=0.212, val_acc=0.918, val_f1=0.913] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.86it/s][AEpoch 3: 100%|██████████| 29/29 [00:01<00:00, 28.34it/s, loss=0.174, v_num=3, val_loss=0.204, val_acc=0.934, val_f1=0.921]
+                                                         [AEpoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.174, v_num=3, val_loss=0.204, val_acc=0.934, val_f1=0.921]         Epoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.174, v_num=3, val_loss=0.204, val_acc=0.934, val_f1=0.921]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 40.15it/s, loss=0.174, v_num=3, val_loss=0.204, val_acc=0.934, val_f1=0.921]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 40.13it/s, loss=0.194, v_num=3, val_loss=0.204, val_acc=0.934, val_f1=0.921]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.50it/s][AEpoch 4: 100%|██████████| 29/29 [00:01<00:00, 27.36it/s, loss=0.188, v_num=3, val_loss=0.234, val_acc=0.912, val_f1=0.907]
+                                                         [AEpoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.188, v_num=3, val_loss=0.234, val_acc=0.912, val_f1=0.907]         Epoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.188, v_num=3, val_loss=0.234, val_acc=0.912, val_f1=0.907]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 42.69it/s, loss=0.188, v_num=3, val_loss=0.234, val_acc=0.912, val_f1=0.907]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 42.66it/s, loss=0.183, v_num=3, val_loss=0.234, val_acc=0.912, val_f1=0.907]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.42it/s][AEpoch 5: 100%|██████████| 29/29 [00:01<00:00, 28.13it/s, loss=0.178, v_num=3, val_loss=0.237, val_acc=0.912, val_f1=0.907]
+                                                         [AEpoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.178, v_num=3, val_loss=0.237, val_acc=0.912, val_f1=0.907]         Epoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.178, v_num=3, val_loss=0.237, val_acc=0.912, val_f1=0.907]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 45.08it/s, loss=0.178, v_num=3, val_loss=0.237, val_acc=0.912, val_f1=0.907]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 45.05it/s, loss=0.169, v_num=3, val_loss=0.237, val_acc=0.912, val_f1=0.907]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.23it/s][AEpoch 6: 100%|██████████| 29/29 [00:01<00:00, 28.75it/s, loss=0.162, v_num=3, val_loss=0.239, val_acc=0.901, val_f1=0.886]
+                                                         [AEpoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.162, v_num=3, val_loss=0.239, val_acc=0.901, val_f1=0.886]         Epoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.162, v_num=3, val_loss=0.239, val_acc=0.901, val_f1=0.886]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 43.41it/s, loss=0.162, v_num=3, val_loss=0.239, val_acc=0.901, val_f1=0.886]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 43.38it/s, loss=0.153, v_num=3, val_loss=0.239, val_acc=0.901, val_f1=0.886]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.17it/s][AEpoch 7: 100%|██████████| 29/29 [00:01<00:00, 28.21it/s, loss=0.156, v_num=3, val_loss=0.239, val_acc=0.907, val_f1=0.891]
+                                                         [AEpoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.156, v_num=3, val_loss=0.239, val_acc=0.907, val_f1=0.891]         Epoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.156, v_num=3, val_loss=0.239, val_acc=0.907, val_f1=0.891]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 45.21it/s, loss=0.156, v_num=3, val_loss=0.239, val_acc=0.907, val_f1=0.891]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 45.18it/s, loss=0.154, v_num=3, val_loss=0.239, val_acc=0.907, val_f1=0.891]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.35it/s][AEpoch 8: 100%|██████████| 29/29 [00:01<00:00, 28.55it/s, loss=0.152, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]
+                                                         [AEpoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.152, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]         Epoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.152, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 43.26it/s, loss=0.152, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 43.23it/s, loss=0.144, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.99it/s][AEpoch 9: 100%|██████████| 29/29 [00:01<00:00, 27.94it/s, loss=0.157, v_num=3, val_loss=0.241, val_acc=0.901, val_f1=0.886]
+                                                         [AEpoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.157, v_num=3, val_loss=0.241, val_acc=0.901, val_f1=0.886]         Epoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.157, v_num=3, val_loss=0.241, val_acc=0.901, val_f1=0.886]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 43.37it/s, loss=0.157, v_num=3, val_loss=0.241, val_acc=0.901, val_f1=0.886]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 43.34it/s, loss=0.156, v_num=3, val_loss=0.241, val_acc=0.901, val_f1=0.886]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.09it/s][AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 27.99it/s, loss=0.147, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]
+                                                         [AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 27.94it/s, loss=0.147, v_num=3, val_loss=0.238, val_acc=0.901, val_f1=0.886]
+10
+Confusion matrix: tensor([[56.,  6.,  2.],
+        [14., 60., 16.],
+        [ 4., 11., 58.]])
+Num per class: {0.0: 74, 1.0: 77, 2.0: 76}
+Test Accuracy per class: {0.0: tensor(0.8750), 1.0: tensor(0.6667), 2.0: tensor(0.7945)}
+Test Accuracy averaged: 0.7787291407585144
+Test F1-score macro-averaged: 0.7695601890276444
+Test F1-score micro-averaged: 0.7665198237885463
+Num train 728, num val 181
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/29 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/29 [00:00<?, ?it/s] Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 44.40it/s]Epoch 0:  69%|██████▉   | 20/29 [00:00<00:00, 44.37it/s, loss=0.206, v_num=4, val_loss=0.0821, val_acc=1.000, val_f1=0.833]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.73it/s][AEpoch 0: 100%|██████████| 29/29 [00:01<00:00, 28.02it/s, loss=0.198, v_num=4, val_loss=0.119, val_acc=0.972, val_f1=0.918] 
+                                                         [AEpoch 0:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.198, v_num=4, val_loss=0.119, val_acc=0.972, val_f1=0.918]         Epoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.198, v_num=4, val_loss=0.119, val_acc=0.972, val_f1=0.918]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 46.12it/s, loss=0.198, v_num=4, val_loss=0.119, val_acc=0.972, val_f1=0.918]Epoch 1:  69%|██████▉   | 20/29 [00:00<00:00, 46.09it/s, loss=0.179, v_num=4, val_loss=0.119, val_acc=0.972, val_f1=0.918]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.53it/s][AEpoch 1: 100%|██████████| 29/29 [00:00<00:00, 29.18it/s, loss=0.193, v_num=4, val_loss=0.128, val_acc=0.950, val_f1=0.894]
+                                                         [AEpoch 1:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.193, v_num=4, val_loss=0.128, val_acc=0.950, val_f1=0.894]         Epoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.193, v_num=4, val_loss=0.128, val_acc=0.950, val_f1=0.894]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 45.47it/s, loss=0.193, v_num=4, val_loss=0.128, val_acc=0.950, val_f1=0.894]Epoch 2:  69%|██████▉   | 20/29 [00:00<00:00, 45.45it/s, loss=0.181, v_num=4, val_loss=0.128, val_acc=0.950, val_f1=0.894]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.97it/s][AEpoch 2: 100%|██████████| 29/29 [00:01<00:00, 28.56it/s, loss=0.178, v_num=4, val_loss=0.134, val_acc=0.945, val_f1=0.887]
+                                                         [AEpoch 2:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.178, v_num=4, val_loss=0.134, val_acc=0.945, val_f1=0.887]         Epoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.178, v_num=4, val_loss=0.134, val_acc=0.945, val_f1=0.887]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 44.65it/s, loss=0.178, v_num=4, val_loss=0.134, val_acc=0.945, val_f1=0.887]Epoch 3:  69%|██████▉   | 20/29 [00:00<00:00, 44.62it/s, loss=0.17, v_num=4, val_loss=0.134, val_acc=0.945, val_f1=0.887] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.01it/s][AEpoch 3: 100%|██████████| 29/29 [00:01<00:00, 28.43it/s, loss=0.181, v_num=4, val_loss=0.156, val_acc=0.934, val_f1=0.883]
+                                                         [AEpoch 3:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.181, v_num=4, val_loss=0.156, val_acc=0.934, val_f1=0.883]         Epoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.181, v_num=4, val_loss=0.156, val_acc=0.934, val_f1=0.883]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 45.56it/s, loss=0.181, v_num=4, val_loss=0.156, val_acc=0.934, val_f1=0.883]Epoch 4:  69%|██████▉   | 20/29 [00:00<00:00, 45.54it/s, loss=0.159, v_num=4, val_loss=0.156, val_acc=0.934, val_f1=0.883]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.24it/s][AEpoch 4: 100%|██████████| 29/29 [00:01<00:00, 28.42it/s, loss=0.16, v_num=4, val_loss=0.158, val_acc=0.934, val_f1=0.883] 
+                                                         [AEpoch 4:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.16, v_num=4, val_loss=0.158, val_acc=0.934, val_f1=0.883]         Epoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.16, v_num=4, val_loss=0.158, val_acc=0.934, val_f1=0.883]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 43.09it/s, loss=0.16, v_num=4, val_loss=0.158, val_acc=0.934, val_f1=0.883]Epoch 5:  69%|██████▉   | 20/29 [00:00<00:00, 43.06it/s, loss=0.15, v_num=4, val_loss=0.158, val_acc=0.934, val_f1=0.883]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.25it/s][AEpoch 5: 100%|██████████| 29/29 [00:01<00:00, 28.11it/s, loss=0.157, v_num=4, val_loss=0.165, val_acc=0.934, val_f1=0.878]
+                                                         [AEpoch 5:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.157, v_num=4, val_loss=0.165, val_acc=0.934, val_f1=0.878]         Epoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.157, v_num=4, val_loss=0.165, val_acc=0.934, val_f1=0.878]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 44.02it/s, loss=0.157, v_num=4, val_loss=0.165, val_acc=0.934, val_f1=0.878]Epoch 6:  69%|██████▉   | 20/29 [00:00<00:00, 43.99it/s, loss=0.153, v_num=4, val_loss=0.165, val_acc=0.934, val_f1=0.878]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 14.72it/s][AEpoch 6: 100%|██████████| 29/29 [00:01<00:00, 28.18it/s, loss=0.158, v_num=4, val_loss=0.172, val_acc=0.928, val_f1=0.876]
+                                                         [AEpoch 6:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.158, v_num=4, val_loss=0.172, val_acc=0.928, val_f1=0.876]         Epoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.158, v_num=4, val_loss=0.172, val_acc=0.928, val_f1=0.876]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 43.55it/s, loss=0.158, v_num=4, val_loss=0.172, val_acc=0.928, val_f1=0.876]Epoch 7:  69%|██████▉   | 20/29 [00:00<00:00, 43.52it/s, loss=0.143, v_num=4, val_loss=0.172, val_acc=0.928, val_f1=0.876]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.08it/s][AEpoch 7: 100%|██████████| 29/29 [00:01<00:00, 28.08it/s, loss=0.14, v_num=4, val_loss=0.172, val_acc=0.934, val_f1=0.883] 
+                                                         [AEpoch 7:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.14, v_num=4, val_loss=0.172, val_acc=0.934, val_f1=0.883]         Epoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.14, v_num=4, val_loss=0.172, val_acc=0.934, val_f1=0.883]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 43.12it/s, loss=0.14, v_num=4, val_loss=0.172, val_acc=0.934, val_f1=0.883]Epoch 8:  69%|██████▉   | 20/29 [00:00<00:00, 43.09it/s, loss=0.137, v_num=4, val_loss=0.172, val_acc=0.934, val_f1=0.883]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.72it/s][AEpoch 8: 100%|██████████| 29/29 [00:01<00:00, 28.17it/s, loss=0.142, v_num=4, val_loss=0.174, val_acc=0.928, val_f1=0.877]
+                                                         [AEpoch 8:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.142, v_num=4, val_loss=0.174, val_acc=0.928, val_f1=0.877]         Epoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.142, v_num=4, val_loss=0.174, val_acc=0.928, val_f1=0.877]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 43.06it/s, loss=0.142, v_num=4, val_loss=0.174, val_acc=0.928, val_f1=0.877]Epoch 9:  69%|██████▉   | 20/29 [00:00<00:00, 43.03it/s, loss=0.139, v_num=4, val_loss=0.174, val_acc=0.928, val_f1=0.877]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.56it/s][AEpoch 9: 100%|██████████| 29/29 [00:01<00:00, 28.23it/s, loss=0.132, v_num=4, val_loss=0.175, val_acc=0.928, val_f1=0.877]
+                                                         [AEpoch 9:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.132, v_num=4, val_loss=0.175, val_acc=0.928, val_f1=0.877]         Epoch 10:   0%|          | 0/29 [00:00<?, ?it/s, loss=0.132, v_num=4, val_loss=0.175, val_acc=0.928, val_f1=0.877]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 45.90it/s, loss=0.132, v_num=4, val_loss=0.175, val_acc=0.928, val_f1=0.877]Epoch 10:  69%|██████▉   | 20/29 [00:00<00:00, 45.87it/s, loss=0.135, v_num=4, val_loss=0.175, val_acc=0.928, val_f1=0.877]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/6 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 6/6 [00:00<00:00, 15.26it/s][AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 28.75it/s, loss=0.125, v_num=4, val_loss=0.177, val_acc=0.923, val_f1=0.872]
+                                                         [AEpoch 10: 100%|██████████| 29/29 [00:01<00:00, 28.70it/s, loss=0.125, v_num=4, val_loss=0.177, val_acc=0.923, val_f1=0.872]
+10
+Confusion matrix: tensor([[54.,  6.,  4.],
+        [13., 60., 17.],
+        [ 4., 13., 56.]])
+Num per class: {0.0: 71, 1.0: 79, 2.0: 77}
+Test Accuracy per class: {0.0: tensor(0.8438), 1.0: tensor(0.6667), 2.0: tensor(0.7671)}
+Test Accuracy averaged: 0.7591800093650818
+Test F1-score macro-averaged: 0.7522419460881
+Test F1-score micro-averaged: 0.748898678414097
+--- Avg. accuracy across 5 folds (cv-score) is: 0.776849627494812, SD=0.009094882756471634---

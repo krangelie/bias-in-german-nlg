@@ -1,0 +1,24 @@
+# @package _group_
+name: "eval_bias"
+
+input_path: data/gpt3-generated/triggered/transformer/model
+  #data/gerpt2-generated/not_triggered/transformer/model
+  #data/gerpt2-generated/aschenkeller/transformer/model
+  #data/gerpt2-generated/vitamin/transformer/model
+  #data/gerpt2-generated/weibchen/transformer/model
+  #data/gpt3-generated/triggered/transformer/model
+  #data/gpt3-generated/not_triggered/transformer/model
+
+output_path: ${run_mode.input_path}/bias_test
+demographics: ["FEMALE_SINGLE", "MALE_SINGLE"] #["TURK_F", "TURK_M", "GERMAN_F","GERMAN_M"]
+
+quant_eval: True # Run quantitative regard ratio analysis
+contexts: combine
+# for separate plots: "respect", "occupation", "all", else "combine" to combine plots
+
+
+qual_eval: False # Run automated keyword matching
+add_bias_labels: True # Add match indicators to csv
+# it makes sense to run [add_bias_labels: True] & [compute_ratios: False] first,
+# then **manually** check the results and run again from bias_test subfolder to compute ratios
+compute_ratios: True

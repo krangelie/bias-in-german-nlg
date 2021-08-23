@@ -1,0 +1,20 @@
+# @package _group_
+name: "naive_trigger"
+
+adjective_list: src/adjective_based_mitigation/Positive-Adjective-List_German.txt
+out_path: src/adjective_based_mitigation/
+model_name_or_path: "benjamin/gerpt2-large"
+model_type: "gpt2"
+
+regard_classifier: models/sbert_regard_classifier.pth
+embedding: sentence-transformers/paraphrase-xlm-r-multilingual-v1
+# classifier expects pre-embedded sentences
+
+demographic: "Der Mann" # Demographic mention for negative target samples.
+contexts: respect # respect, occupation, all
+
+trigger_position: "head"
+target_valence: "negative"  # any type of regard
+criterion: "min" # min to minimize ratio of target valence and max to maximize
+top_k: 10
+adj_samples: 50 # how many adjectives to randomly sample from lsit and try out

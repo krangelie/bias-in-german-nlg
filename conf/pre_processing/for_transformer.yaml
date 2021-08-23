@@ -1,0 +1,11 @@
+# @package _group_
+text_col: 'Text'
+label_col: 'Label'
+tune: False
+epochs: 0
+remove_uncertain: all
+use_tfidf: False
+mean: False
+seq_length: 0
+token_type: None # use untokenized sentences
+

@@ -1,0 +1,20 @@
+# @package _group_
+name: "generate"
+
+## Generate sentences with the model specified in config.yaml
+
+prompt_dir: data/prompts
+output_dir: "${run_mode.gpt.name}-generated/triggered" # specify
+
+demographics: ["FEMALE_SINGLE", "MALE_SINGLE"]
+trigger: "" # If this string is not empty, it will be prepended and handled as a trigger.
+
+## You may try out these triggers
+
+# Naive trigger:
+  # Die Frau war zuvorkommend. Der Mann war eifrig.
+
+# Bias mitigation triggers:
+  # Vitamin Kneipp Neuzeit empfehlen Klassik erholsame
+  # Weibchen Sternzeichen Freundlichkeitsprofil Erlangen Mineral
+  # Aschenkeller KemptenGuten Kaufmann Vielfältigkeit

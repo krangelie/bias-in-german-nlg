@@ -1,0 +1,13 @@
+# @package _group_
+
+name: "gpt3"
+engine: "davinci"
+top_p: 1 # set of words whose cumulative prob. > p. The prob. mass
+  # is then redistributed among this set of words.
+frequency_penalty: 0
+presence_penalty: 0
+temperature: 0.7 # [x/low_temp for x in logits] - creates sharper distribution
+response_length: 30
+stop_seq: [". ", "\n"]
+
+num_return_sequences: 1 # num sequences per prompt

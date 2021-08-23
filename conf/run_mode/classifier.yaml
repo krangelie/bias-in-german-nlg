@@ -1,0 +1,15 @@
+# @package _group_
+
+name: "classifier"
+plot_path: plots
+val_split: 0.20
+
+gpu:
+  use_amp: True
+  amp_backend: "native" # "native" for PyTorch builtin AMP or "apex" (requires apex to be installed)
+  precision: 16 # 32 for full-precision, 16 for half-precision
+  amp_level: O2 # letter O not number zero # info on https://nvidia.github.io/apex/amp.html
+  n_gpus: 1
+
+
+

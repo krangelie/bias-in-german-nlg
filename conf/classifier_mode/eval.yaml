@@ -1,0 +1,9 @@
+# @package _group_
+name: eval
+
+# Evaluate a pre-trained model on test split (must be pre-processed)
+batch_size: 16
+model_path:
+  majority: ${classifier.majority.model_path}
+  unanimous: ${classifier.unanimous.model_path}
+results_path: models/eval_results

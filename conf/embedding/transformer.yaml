@@ -1,0 +1,5 @@
+# @package _group_
+name: 'transformer'
+path: sentence-transformers/paraphrase-xlm-r-multilingual-v1
+#'T-Systems-onsite/cross-en-de-roberta-sentence-transformer'
+n_embed: 768

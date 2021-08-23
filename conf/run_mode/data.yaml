@@ -1,0 +1,26 @@
+# @package _group_
+name: "data"
+
+paths:
+  raw_data_folder: data/annotated_data_raw/crowd_sourced_regard_w_annotations
+  dev_test_indcs: "${paths.preprocessed_path}/dev_test_indices"
+  plot_path: "${paths.preprocessed_path}/plots"
+  tfidf_weights: models/tf-idf # folder containing tf-idf weights and max idf value
+  # own TF-IDF weights can be finetuned via 'fit_tf_idf.ipynb'
+
+tokenize:
+  to_lower: True
+  remove_punctuation: True
+  lemmatize: False
+  stem: False
+
+
+annotation: "${dev_settings.annotation}"
+# "majority" (mode of annotations),
+# or "unanimous" (only annotations were all had the same idea)
+
+k_fold: "${k_fold}" # generate splits for nested k-fold (yields different dev-test splits)
+test_split: 0.20
+add_one_to_label: True # to avoid -1 label
+balance_on_majority: "${balance_on_majority}"
+augment: "${dev_settings.augment}"

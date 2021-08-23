@@ -1,0 +1,6 @@
+# @package _group_
+name: 'w2v'
+path: "" # Download German pretrained word2vec from https://www.deepset.ai/german-word-embeddings
+          # Provide path to vectors.txt
+no_header: False # set to True, if the file doesn't start with declaration of vocab & vector size
+n_embed: 300

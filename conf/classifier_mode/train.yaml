@@ -1,0 +1,8 @@
+# @package _group_
+name: train
+
+store_after_training: True
+out_path: models
+pretrained_model: ""
+mult_seeds: False # Train with five different seeds
+cv_folds: 5

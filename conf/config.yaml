@@ -1,0 +1,39 @@
+defaults:
+  - run_mode: ?? # data, classifier , generate, trigger, eval_bias
+  - classifier_mode: train # tune, train, incremental_train, predict, eval
+  - classifier: xgb # xgb, transformer, lstm
+  - gpt: gpt2 # gpt2, gpt3 or gpt-neo
+  - embedding: fastt # transformer, w2v, fastt_cc or fastt
+  - pre_processing: for_xgb  # for_transformer, for_lstm or for_xgb
+
+
+# You can customize the folder to which hydra stores logs and artifacts
+#hydra_run: "hydra_outputs/${run_mode.name}_${embedding.name}/${now:%Y-%m-%d}/${now:%H-%M-%S}"
+#hydra:
+#  run:
+#    dir: ${hydra_run}
+
+
+text_col: 'Text'
+label_col: 'Label'
+token_type: tokenized
+balance_on_majority: True # use majority label as proxy for split stratification
+
+# This is for nested k-fold only!
+# "normal" k-fold cross validation is specified within train.yaml and tune.yaml
+k_fold: False # for nested k-fold
+specific_fold: -1 #-1 for False # this is to use a specific "outer" fold
+
+paths:
+  preprocessed_path: data/preprocessed
+
+# Data preprocessing will be done on the dev_settings
+dev_settings:
+  annotation: majority
+  # majority = mode of annotations, unanimous = take only sentences with consensus
+  augment: single_gender
+
+# You can test a model on differently annotated data (indices stay mutually exclusive)
+test_settings:
+  annotation: majority
+  augment: single_gender

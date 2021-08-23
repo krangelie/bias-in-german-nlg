@@ -1,0 +1,51 @@
+# @package _group_
+name: 'transformer'
+
+# for tuning
+hyperparameters:
+  batch_size: 
+    name: "batch_size"
+    choices: [8, 16, 32, 64]
+
+  learning_rate: 
+    name: "lr"
+    lower: 0.00001
+    upper: 0.01
+
+  n_hidden_lin:
+    name: "n_hidden_lin"
+    choices: [64, 128, 256, 512]
+
+  n_hidden_lin_2:
+    name: "n_hidden_lin_2"
+    choices: [0, 64, 128, 256, 512]
+
+  dropout:
+    name: "dropout"
+    lower: 0.0
+    upper: 0.9
+    step: 0.1
+
+unanimous:
+  batch_size: 64
+  dropout: 0.30000000000000004
+  lr: 0.0004952563793931958
+  n_hidden_lin: 128
+  n_hidden_lin_2: 0
+  n_output: 3
+  n_epochs: 100
+  patience: 20
+  model_path: ""
+
+majority:
+  batch_size: 64
+  dropout: 0.1
+  lr: 4.2691773285581606e-05
+  n_hidden_lin: 256
+  n_hidden_lin_2: 128
+  n_output: 3
+  n_epochs: 100
+  patience: 20
+  model_path: models/sbert_regard_classifier.pth
+
+

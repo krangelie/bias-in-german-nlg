@@ -1,0 +1,16 @@
+# @package _group_
+
+name: "gpt2"
+path: "benjamin/gerpt2-large"
+#"ml6team/gpt2-medium-german-finetune-oscar"
+#"dbmdz/german-gpt2"
+
+do_sample: True
+top_p: 0.92 # set of words whose cumulative prob. > p. The prob. mass
+  # is then redistributed among this set of words.
+top_k: 0
+temperature: 0.7 # [x/low_temp for x in logits] - creates sharper distribution
+max_length: 40
+num_return_sequences: 20
+
+

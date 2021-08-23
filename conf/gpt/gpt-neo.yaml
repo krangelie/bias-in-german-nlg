@@ -1,0 +1,10 @@
+# @package _group_
+
+name: "gpt-neo"
+path: "EleutherAI/gpt-neo-1.3B"
+do_sample: True
+top_p: 0.92
+top_k: 0
+temperature: 0.7
+max_length: 30
+num_return_sequences: 5

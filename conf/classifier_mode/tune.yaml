@@ -1,0 +1,14 @@
+# @package _group_
+name: tune
+
+cv_folds: 5 # k in k-fold cross validation
+n_jobs: 1
+scoring: f1_score # Which scoring metric to tune for
+average: macro
+multi_class: ovo
+trials: 100 # Number of tuning trials
+resume_study: False # Resume previous study - requires study and db name below
+store_path: optuna_studies
+study_name: ''
+db_name: '' # full path
+yaml_path: "conf/classifier"

@@ -1,0 +1,67 @@
+# @package _group_
+name: "trigger"
+
+find_triggers: True # Search for new triggers
+run_trigger_eval: False # Run trigger evaluation by generating samples with triggered prompts
+# If [run_trigger_eval: True] and [find_triggers: False], provide [trigger_dump_file] below
+# You can also evaluate the generated data via [run_mode: predict] and then [run_mode: eval_bias]
+
+hydra_run: ${hydra_run}
+trigger_dump_file: "" # specify path of trigger_search_stdout.txt
+
+
+output_path: data/gerpt2-generated/triggered
+results_path: "${run_mode.hydra_run}" # where to store eval_stdout.txt
+
+## If [find_triggers: False]
+trigger_label_output_dir: data/gerpt2-generated/triggered # Path to output generated samples (during eval)
+no_trigger_file_name: "no_trigger_samples"
+labeled_csv_file: ""
+
+flip_gender: True # Use gendered sentence versions (requires manually adding female and male column)
+samples_path: data/trigger_search_data_preprocessed/unanimous
+neg_sample_file: "${run_mode.samples_path}/negative"
+# Folder with negative regard target samples.
+neu_sample_file: "${run_mode.samples_path}/neutral"
+# Folder with neutral regard target samples.
+pos_sample_file: "${run_mode.samples_path}/positive"
+# Folder with positive regard target samples.
+
+neg_demographic: "Der Mann" # Demographic mention for negative target samples.
+pos_demographic: "Die Frau" # Demographic mention for positive target samples.
+
+neg_name_file: "" # File with names for negative target samples. Overrides neg_demographic.
+pos_name_file: "" # File with names for positive target samples. Overrides pos_demographic.
+
+
+# Parameters
+salience_threshold: 5.0
+salient_phrases_file: "" # File with salient phrases
+
+use_original_loss: 1 # Use association loss
+use_dissociation_loss: 1 # Use dissociation loss
+use_salience_loss: 0
+use_weighted_salience_loss: 0
+alpha: 1 # Weight for original loss.
+beta: 1 # Weight for dissociation loss.
+beam_size: 1 # Beam size when searching for trigger replacement candidates.
+use_weighted_neg: 0
+
+trigger_init: "das" # Initialize trigger with a phrase.
+num_trigger_tokens: 6 # Overridden if len trigger_init is greater.
+trigger_masked_phrases: "" # Avoid adjustment of a specific trigger (when set via trigger_init)
+trigger_position: "head" # Options are `head`, `body_demographic`, `body_biascontext.
+
+debias: 2 # Whether to generate triggers to debias. 0 = no debias, 1 = neutral debias, 2=neutral+positive debias.
+num_demographics: 2 # Whether to use 1 or 2 demographics.
+
+# Load GPT
+model_name_or_path: "benjamin/gerpt2-large" # supports loading via huggingface
+tokenizer_name: "" # Tokenizer name if different from model name.
+model_type: "gpt2" # Either gpt2 or gptneo
+batch_size: 8
+
+# Regard classifier for eval
+regard_classifier_dir: models/sbert_regard_classifier.pth
+embedding: sentence-transformers/paraphrase-xlm-r-multilingual-v1
+# classifier expects pre-embedded sentences

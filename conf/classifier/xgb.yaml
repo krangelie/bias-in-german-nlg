@@ -1,0 +1,35 @@
+# @package _group_
+
+name: 'xgb'
+
+# for tuning
+hyperparameters:
+  n_estimators: 
+    name: "n_estimators"
+    lower: 100
+    upper: 1000
+    step: 10
+  learning_rate: 
+    name: "lr"
+    lower: 0.001
+    upper: 0.5
+  max_depth: 
+    name: "max_depth"
+    lower: 1
+    upper: 10
+    step: 1
+
+# for training
+unanimous:
+  lr: 0.1475149624069164
+  max_depth: 4
+  n_estimators: 350
+  model_path: ""
+  n_output: 3
+majority:
+  lr: 0.3988437135789669
+  max_depth: 6
+  n_estimators: 530
+  model_path: models/other_models/XGB/dev-majority/model.joblib
+  n_output: 3
+

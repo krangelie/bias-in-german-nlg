@@ -1,0 +1,8 @@
+# @package _group_
+name: incremental_train
+
+store_after_training: False
+percentage: 10 # Step size: Increase dataset by x percent at each step
+pretrained_model: ""
+mult_seeds: True # Run five times with different seeds
+cv_folds: 0

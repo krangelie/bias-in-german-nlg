@@ -1,0 +1,7 @@
+# @package _group_
+name: 'fastt'
+path: models/fasttext/model.bin # Download pre-trained fastText embeddings from
+        # https://www.deepset.ai/german-word-embeddings
+use_pretuned: False # means pretuned on your own data
+tuned_path: "" # specify
+n_embed: 100

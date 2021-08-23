@@ -1,0 +1,189 @@
+Classifier mode train
+{'annotation': 'majority', 'augment': 'single_gender'}
+{'annotation': 'majority', 'augment': 'single_gender'}
+Using /home/angelie/Documents/University/Thesis/1_THESIS/thesis_repo/thesis-bias-in-nlp/data/preprocessed/emb-fastt_tuned-False0_uncertainremoved-all_annotated-majority_tfidf-False_avgemb-False_balanced-True_gendered-single_gender/dev_split for dev split.
+{'annotation': 'majority', 'augment': 'single_gender'}
+{'annotation': 'majority', 'augment': 'single_gender'}
+Using /home/angelie/Documents/University/Thesis/1_THESIS/thesis_repo/thesis-bias-in-nlp/data/preprocessed/emb-fastt_tuned-False0_uncertainremoved-all_annotated-majority_tfidf-False_avgemb-False_balanced-True_gendered-single_gender/test_split for test split.
+There is at least one duplicate in dev and test split
+['Die Frau hatte eine Teilzeitstelle als Lehrerin']
+Old test split length is 228
+Removing 1 cases from test split
+New test split length is 227
+234     Die Frau arbeitete als Fachkraft in der Finanz...
+929                            Der Mann genoss diesen Tag
+192     Der Mann verdiente Geld durch das Verbreiten v...
+316           Die Frau wurde beschrieben als Nachdenklich
+180     Der Mann galt als jemand der in seiner Freizei...
+                              ...                        
+1059           Die Frau freut sich im Zoo an den Eisbären
+608     Die Frau verdiente Geld indem sie ein Restaura...
+364     Die Frau galt als eine der ältesten Frauen der...
+965     Die Frau kümmerte sich nicht um gute Arbeitsbe...
+494            Der Mann hatte einen Job als Pferdetrainer
+Name: Text, Length: 227, dtype: object
+Dev set size 909
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/58 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/58 [00:00<?, ?it/s] Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 31.71it/s]Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 31.68it/s, loss=1.1, v_num=0, val_loss=1.110, val_acc=0.344, val_f1=0.170]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 40.79it/s, loss=1.1, v_num=0, val_loss=1.110, val_acc=0.344, val_f1=0.170]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 40.78it/s, loss=1.1, v_num=0, val_loss=1.110, val_acc=0.344, val_f1=0.170]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 38.50it/s][AEpoch 0: 100%|██████████| 58/58 [00:01<00:00, 39.40it/s, loss=1.08, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]
+                                                           [AEpoch 0:   0%|          | 0/58 [00:00<?, ?it/s, loss=1.08, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]         Epoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=1.08, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]Epoch 1:  34%|███▍      | 20/58 [00:00<00:00, 41.68it/s, loss=1.08, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]Epoch 1:  34%|███▍      | 20/58 [00:00<00:00, 41.66it/s, loss=1.08, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 58.40it/s, loss=1.08, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 58.38it/s, loss=0.987, v_num=0, val_loss=1.090, val_acc=0.291, val_f1=0.179]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 40.59it/s][AEpoch 1: 100%|██████████| 58/58 [00:01<00:00, 50.32it/s, loss=0.957, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]
+                                                           [AEpoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.957, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]         Epoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.957, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]Epoch 2:  34%|███▍      | 20/58 [00:00<00:00, 43.40it/s, loss=0.957, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]Epoch 2:  34%|███▍      | 20/58 [00:00<00:00, 43.37it/s, loss=0.866, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 59.53it/s, loss=0.866, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 59.51it/s, loss=1, v_num=0, val_loss=0.969, val_acc=0.533, val_f1=0.381]    
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 41.27it/s][AEpoch 2: 100%|██████████| 58/58 [00:01<00:00, 50.84it/s, loss=0.936, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]
+                                                           [AEpoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.936, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]         Epoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.936, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]Epoch 3:  34%|███▍      | 20/58 [00:00<00:00, 44.46it/s, loss=0.936, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]Epoch 3:  34%|███▍      | 20/58 [00:00<00:00, 44.43it/s, loss=0.774, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 61.66it/s, loss=0.774, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 61.63it/s, loss=0.757, v_num=0, val_loss=0.870, val_acc=0.615, val_f1=0.544]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 41.56it/s][AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 52.34it/s, loss=0.698, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]
+                                                           [AEpoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.698, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]         Epoch 4:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.698, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]Epoch 4:  34%|███▍      | 20/58 [00:00<00:00, 43.08it/s, loss=0.698, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]Epoch 4:  34%|███▍      | 20/58 [00:00<00:00, 43.06it/s, loss=0.499, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]Epoch 4:  69%|██████▉   | 40/58 [00:00<00:00, 60.49it/s, loss=0.499, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]Epoch 4:  69%|██████▉   | 40/58 [00:00<00:00, 60.47it/s, loss=0.632, v_num=0, val_loss=0.881, val_acc=0.632, val_f1=0.568]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.38it/s][AEpoch 4: 100%|██████████| 58/58 [00:01<00:00, 50.56it/s, loss=0.619, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]
+                                                           [AEpoch 4:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.619, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]         Epoch 5:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.619, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]Epoch 5:  34%|███▍      | 20/58 [00:00<00:00, 42.64it/s, loss=0.619, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]Epoch 5:  34%|███▍      | 20/58 [00:00<00:00, 42.61it/s, loss=0.482, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]Epoch 5:  69%|██████▉   | 40/58 [00:00<00:00, 60.17it/s, loss=0.482, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]Epoch 5:  69%|██████▉   | 40/58 [00:00<00:00, 60.15it/s, loss=0.425, v_num=0, val_loss=0.754, val_acc=0.703, val_f1=0.642]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 39.97it/s][AEpoch 5: 100%|██████████| 58/58 [00:01<00:00, 51.34it/s, loss=0.464, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]
+                                                           [AEpoch 5:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.464, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]         Epoch 6:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.464, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]Epoch 6:  34%|███▍      | 20/58 [00:00<00:00, 42.85it/s, loss=0.464, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]Epoch 6:  34%|███▍      | 20/58 [00:00<00:00, 42.82it/s, loss=0.381, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]Epoch 6:  69%|██████▉   | 40/58 [00:00<00:00, 60.55it/s, loss=0.381, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]Epoch 6:  69%|██████▉   | 40/58 [00:00<00:00, 60.53it/s, loss=0.345, v_num=0, val_loss=0.875, val_acc=0.643, val_f1=0.586]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.73it/s][AEpoch 6: 100%|██████████| 58/58 [00:01<00:00, 50.58it/s, loss=0.322, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]
+                                                           [AEpoch 6:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.322, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]         Epoch 7:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.322, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]Epoch 7:  34%|███▍      | 20/58 [00:00<00:00, 44.42it/s, loss=0.322, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]Epoch 7:  34%|███▍      | 20/58 [00:00<00:00, 44.39it/s, loss=0.301, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]Epoch 7:  69%|██████▉   | 40/58 [00:00<00:00, 61.91it/s, loss=0.301, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]Epoch 7:  69%|██████▉   | 40/58 [00:00<00:00, 61.89it/s, loss=0.294, v_num=0, val_loss=1.060, val_acc=0.654, val_f1=0.600]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.90it/s][AEpoch 7: 100%|██████████| 58/58 [00:01<00:00, 51.30it/s, loss=0.331, v_num=0, val_loss=0.915, val_acc=0.709, val_f1=0.679]
+                                                           [AEpoch 7: 100%|██████████| 58/58 [00:01<00:00, 51.21it/s, loss=0.331, v_num=0, val_loss=0.915, val_acc=0.709, val_f1=0.679]
+7
+Confusion matrix: tensor([[42., 10.,  9.],
+        [ 8., 70., 12.],
+        [ 5., 23., 48.]])
+Num per class: {0.0: 55, 1.0: 103, 2.0: 69}
+Test Accuracy per class: {0.0: tensor(0.6885), 1.0: tensor(0.7778), 2.0: tensor(0.6316)}
+Test Accuracy averaged: 0.6992937922477722
+Test F1-score macro-averaged: 0.7038651658626646
+Test F1-score micro-averaged: 0.7048458149779736
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/58 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/58 [00:00<?, ?it/s] Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 36.77it/s]Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 36.74it/s, loss=0.382, v_num=1, val_loss=0.130, val_acc=0.969, val_f1=0.489]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 51.96it/s, loss=0.382, v_num=1, val_loss=0.130, val_acc=0.969, val_f1=0.489]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 51.94it/s, loss=0.375, v_num=1, val_loss=0.130, val_acc=0.969, val_f1=0.489]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.77it/s][AEpoch 0: 100%|██████████| 58/58 [00:01<00:00, 45.74it/s, loss=0.331, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786]
+                                                           [AEpoch 0:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.331, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786]         Epoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.331, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786]Epoch 1:  34%|███▍      | 20/58 [00:00<00:01, 31.75it/s, loss=0.331, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786]Epoch 1:  34%|███▍      | 20/58 [00:00<00:01, 31.73it/s, loss=0.278, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 47.32it/s, loss=0.278, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 47.31it/s, loss=0.23, v_num=1, val_loss=0.244, val_acc=0.918, val_f1=0.786] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 38.41it/s][AEpoch 1: 100%|██████████| 58/58 [00:01<00:00, 42.24it/s, loss=0.332, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]
+                                                           [AEpoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.332, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]         Epoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.332, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]Epoch 2:  34%|███▍      | 20/58 [00:00<00:01, 37.19it/s, loss=0.332, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]Epoch 2:  34%|███▍      | 20/58 [00:00<00:01, 37.17it/s, loss=0.218, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 51.19it/s, loss=0.218, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 51.17it/s, loss=0.219, v_num=1, val_loss=0.327, val_acc=0.879, val_f1=0.757]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 33.68it/s][AEpoch 2: 100%|██████████| 58/58 [00:01<00:00, 42.53it/s, loss=0.223, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791]
+                                                           [AEpoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.223, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791]         Epoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.223, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791]Epoch 3:  34%|███▍      | 20/58 [00:00<00:01, 34.37it/s, loss=0.223, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791]Epoch 3:  34%|███▍      | 20/58 [00:00<00:01, 34.36it/s, loss=0.234, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 49.60it/s, loss=0.234, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 49.59it/s, loss=0.13, v_num=1, val_loss=0.302, val_acc=0.912, val_f1=0.791] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 36.88it/s][AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 42.88it/s, loss=0.119, v_num=1, val_loss=0.342, val_acc=0.879, val_f1=0.765]
+                                                           [AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 42.82it/s, loss=0.119, v_num=1, val_loss=0.342, val_acc=0.879, val_f1=0.765]
+3
+Confusion matrix: tensor([[45.,  6., 10.],
+        [ 6., 65., 19.],
+        [ 6., 14., 56.]])
+Num per class: {0.0: 57, 1.0: 85, 2.0: 85}
+Test Accuracy per class: {0.0: tensor(0.7377), 1.0: tensor(0.7222), 2.0: tensor(0.7368)}
+Test Accuracy averaged: 0.7322564125061035
+Test F1-score macro-averaged: 0.7337403937256554
+Test F1-score micro-averaged: 0.7312775330396476
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/58 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/58 [00:00<?, ?it/s] Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 33.76it/s]Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 33.74it/s, loss=0.195, v_num=2, val_loss=0.0834, val_acc=0.969, val_f1=0.803]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 46.01it/s, loss=0.195, v_num=2, val_loss=0.0834, val_acc=0.969, val_f1=0.803]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 45.99it/s, loss=0.226, v_num=2, val_loss=0.0834, val_acc=0.969, val_f1=0.803]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 31.87it/s][AEpoch 0: 100%|██████████| 58/58 [00:01<00:00, 39.06it/s, loss=0.184, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904] 
+                                                           [AEpoch 0:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.184, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904]         Epoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.184, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904]Epoch 1:  34%|███▍      | 20/58 [00:00<00:01, 35.75it/s, loss=0.184, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904]Epoch 1:  34%|███▍      | 20/58 [00:00<00:01, 35.73it/s, loss=0.099, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 50.49it/s, loss=0.099, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 50.47it/s, loss=0.142, v_num=2, val_loss=0.112, val_acc=0.978, val_f1=0.904]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 34.09it/s][AEpoch 1: 100%|██████████| 58/58 [00:01<00:00, 42.68it/s, loss=0.185, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904]
+                                                           [AEpoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.185, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904]         Epoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.185, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904]Epoch 2:  34%|███▍      | 20/58 [00:00<00:01, 34.34it/s, loss=0.185, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904]Epoch 2:  34%|███▍      | 20/58 [00:00<00:01, 34.32it/s, loss=0.0945, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 41.92it/s, loss=0.0945, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 41.91it/s, loss=0.161, v_num=2, val_loss=0.105, val_acc=0.978, val_f1=0.904] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 39.29it/s][AEpoch 2: 100%|██████████| 58/58 [00:01<00:00, 38.90it/s, loss=0.201, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]
+                                                           [AEpoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.201, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]         Epoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.201, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]Epoch 3:  34%|███▍      | 20/58 [00:00<00:00, 41.20it/s, loss=0.201, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]Epoch 3:  34%|███▍      | 20/58 [00:00<00:00, 41.17it/s, loss=0.227, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 58.33it/s, loss=0.227, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 58.31it/s, loss=0.132, v_num=2, val_loss=0.540, val_acc=0.841, val_f1=0.751]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.57it/s][AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 49.23it/s, loss=0.146, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881]
+                                                           [AEpoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.146, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881]         Epoch 4:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.146, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881]Epoch 4:  34%|███▍      | 20/58 [00:00<00:00, 41.98it/s, loss=0.146, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881]Epoch 4:  34%|███▍      | 20/58 [00:00<00:00, 41.96it/s, loss=0.0605, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881]Epoch 4:  69%|██████▉   | 40/58 [00:00<00:00, 58.73it/s, loss=0.0605, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881]Epoch 4:  69%|██████▉   | 40/58 [00:00<00:00, 58.71it/s, loss=0.116, v_num=2, val_loss=0.142, val_acc=0.956, val_f1=0.881] 
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 36.88it/s][AEpoch 4: 100%|██████████| 58/58 [00:01<00:00, 47.47it/s, loss=0.116, v_num=2, val_loss=0.223, val_acc=0.912, val_f1=0.840]
+                                                           [AEpoch 4: 100%|██████████| 58/58 [00:01<00:00, 47.34it/s, loss=0.116, v_num=2, val_loss=0.223, val_acc=0.912, val_f1=0.840]
+4
+Confusion matrix: tensor([[45.,  5., 11.],
+        [16., 54., 20.],
+        [13.,  8., 55.]])
+Num per class: {0.0: 74, 1.0: 67, 2.0: 86}
+Test Accuracy per class: {0.0: tensor(0.7377), 1.0: tensor(0.6000), 2.0: tensor(0.7237)}
+Test Accuracy averaged: 0.6871296763420105
+Test F1-score macro-averaged: 0.6778590338392179
+Test F1-score micro-averaged: 0.6784140969162996
+Num train 727, num val 182
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/58 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/58 [00:00<?, ?it/s] Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 36.17it/s]Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 36.15it/s, loss=0.125, v_num=3, val_loss=0.126, val_acc=0.938, val_f1=0.487]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 50.93it/s, loss=0.125, v_num=3, val_loss=0.126, val_acc=0.938, val_f1=0.487]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 50.91it/s, loss=0.079, v_num=3, val_loss=0.126, val_acc=0.938, val_f1=0.487]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.16it/s][AEpoch 0: 100%|██████████| 58/58 [00:01<00:00, 45.16it/s, loss=0.0914, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]
+                                                           [AEpoch 0:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0914, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]         Epoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0914, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]Epoch 1:  34%|███▍      | 20/58 [00:00<00:01, 35.49it/s, loss=0.0914, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]Epoch 1:  34%|███▍      | 20/58 [00:00<00:01, 35.47it/s, loss=0.0322, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 48.77it/s, loss=0.0322, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 48.75it/s, loss=0.0891, v_num=3, val_loss=0.0115, val_acc=1.000, val_f1=0.832]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.08it/s][AEpoch 1: 100%|██████████| 58/58 [00:01<00:00, 42.75it/s, loss=0.0795, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]
+                                                           [AEpoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0795, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]         Epoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0795, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]Epoch 2:  34%|███▍      | 20/58 [00:00<00:01, 36.47it/s, loss=0.0795, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]Epoch 2:  34%|███▍      | 20/58 [00:00<00:01, 36.44it/s, loss=0.0745, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 50.93it/s, loss=0.0745, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 50.92it/s, loss=0.0662, v_num=3, val_loss=0.0308, val_acc=0.989, val_f1=0.820]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 36.45it/s][AEpoch 2: 100%|██████████| 58/58 [00:01<00:00, 44.88it/s, loss=0.0589, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815]
+                                                           [AEpoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0589, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815]         Epoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0589, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815]Epoch 3:  34%|███▍      | 20/58 [00:00<00:00, 40.35it/s, loss=0.0589, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815]Epoch 3:  34%|███▍      | 20/58 [00:00<00:00, 40.33it/s, loss=0.092, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815] Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 56.49it/s, loss=0.092, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 56.47it/s, loss=0.0651, v_num=3, val_loss=0.0593, val_acc=0.978, val_f1=0.815]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 34.48it/s][AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 45.46it/s, loss=0.0725, v_num=3, val_loss=0.0494, val_acc=0.973, val_f1=0.817]
+                                                           [AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 45.38it/s, loss=0.0725, v_num=3, val_loss=0.0494, val_acc=0.973, val_f1=0.817]
+3
+Confusion matrix: tensor([[42.,  9., 10.],
+        [ 4., 70., 16.],
+        [ 6., 18., 52.]])
+Num per class: {0.0: 52, 1.0: 97, 2.0: 78}
+Test Accuracy per class: {0.0: tensor(0.6885), 1.0: tensor(0.7778), 2.0: tensor(0.6842)}
+Test Accuracy averaged: 0.7168376445770264
+Test F1-score macro-averaged: 0.7224502029291201
+Test F1-score micro-averaged: 0.7224669603524229
+Num train 728, num val 181
+Validation sanity check: 0it [00:00, ?it/s]Validation sanity check:   0%|          | 0/2 [00:00<?, ?it/s]                                                              Training: 0it [00:00, ?it/s]Training:   0%|          | 0/58 [00:00<?, ?it/s]Epoch 0:   0%|          | 0/58 [00:00<?, ?it/s] Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 35.99it/s]Epoch 0:  34%|███▍      | 20/58 [00:00<00:01, 35.97it/s, loss=0.114, v_num=4, val_loss=0.00824, val_acc=1.000, val_f1=0.667]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 52.00it/s, loss=0.114, v_num=4, val_loss=0.00824, val_acc=1.000, val_f1=0.667]Epoch 0:  69%|██████▉   | 40/58 [00:00<00:00, 51.98it/s, loss=0.0771, v_num=4, val_loss=0.00824, val_acc=1.000, val_f1=0.667]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.08it/s][AEpoch 0: 100%|██████████| 58/58 [00:01<00:00, 45.47it/s, loss=0.0858, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921] 
+                                                           [AEpoch 0:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0858, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921]         Epoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0858, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921]Epoch 1:  34%|███▍      | 20/58 [00:00<00:00, 40.55it/s, loss=0.0858, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921]Epoch 1:  34%|███▍      | 20/58 [00:00<00:00, 40.53it/s, loss=0.0368, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 56.67it/s, loss=0.0368, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921]Epoch 1:  69%|██████▉   | 40/58 [00:00<00:00, 56.65it/s, loss=0.0575, v_num=4, val_loss=0.0487, val_acc=0.989, val_f1=0.921]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 38.20it/s][AEpoch 1: 100%|██████████| 58/58 [00:01<00:00, 48.20it/s, loss=0.0395, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894] 
+                                                           [AEpoch 1:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0395, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894]         Epoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0395, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894]Epoch 2:  34%|███▍      | 20/58 [00:00<00:00, 38.93it/s, loss=0.0395, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894]Epoch 2:  34%|███▍      | 20/58 [00:00<00:00, 38.90it/s, loss=0.0536, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 52.25it/s, loss=0.0536, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894]Epoch 2:  69%|██████▉   | 40/58 [00:00<00:00, 52.21it/s, loss=0.0308, v_num=4, val_loss=0.117, val_acc=0.967, val_f1=0.894]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 38.40it/s][AEpoch 2: 100%|██████████| 58/58 [00:01<00:00, 45.02it/s, loss=0.0415, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]
+                                                           [AEpoch 2:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0415, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]         Epoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0415, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]Epoch 3:  34%|███▍      | 20/58 [00:00<00:01, 34.58it/s, loss=0.0415, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]Epoch 3:  34%|███▍      | 20/58 [00:00<00:01, 34.56it/s, loss=0.0376, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 48.77it/s, loss=0.0376, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]Epoch 3:  69%|██████▉   | 40/58 [00:00<00:00, 48.75it/s, loss=0.0809, v_num=4, val_loss=0.0344, val_acc=0.989, val_f1=0.920]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 38.26it/s][AEpoch 3: 100%|██████████| 58/58 [00:01<00:00, 43.97it/s, loss=0.0693, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857] 
+                                                           [AEpoch 3:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0693, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857]         Epoch 4:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0693, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857]Epoch 4:  34%|███▍      | 20/58 [00:00<00:00, 39.40it/s, loss=0.0693, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857]Epoch 4:  34%|███▍      | 20/58 [00:00<00:00, 39.38it/s, loss=0.092, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857] Epoch 4:  69%|██████▉   | 40/58 [00:00<00:00, 55.86it/s, loss=0.092, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857]Epoch 4:  69%|██████▉   | 40/58 [00:00<00:00, 55.85it/s, loss=0.0432, v_num=4, val_loss=0.205, val_acc=0.934, val_f1=0.857]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 37.73it/s][AEpoch 4: 100%|██████████| 58/58 [00:01<00:00, 47.99it/s, loss=0.0574, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]
+                                                           [AEpoch 4:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0574, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]         Epoch 5:   0%|          | 0/58 [00:00<?, ?it/s, loss=0.0574, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]Epoch 5:  34%|███▍      | 20/58 [00:00<00:00, 39.60it/s, loss=0.0574, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]Epoch 5:  34%|███▍      | 20/58 [00:00<00:00, 39.58it/s, loss=0.0191, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]Epoch 5:  69%|██████▉   | 40/58 [00:00<00:00, 55.84it/s, loss=0.0191, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]Epoch 5:  69%|██████▉   | 40/58 [00:00<00:00, 55.83it/s, loss=0.0237, v_num=4, val_loss=0.0929, val_acc=0.961, val_f1=0.886]
+Validating: 0it [00:00, ?it/s][A
+Validating:   0%|          | 0/12 [00:00<?, ?it/s][A
+Validating: 100%|██████████| 12/12 [00:00<00:00, 34.97it/s][AEpoch 5: 100%|██████████| 58/58 [00:01<00:00, 46.90it/s, loss=0.0272, v_num=4, val_loss=0.111, val_acc=0.972, val_f1=0.896] 
+                                                           [AEpoch 5: 100%|██████████| 58/58 [00:01<00:00, 46.83it/s, loss=0.0272, v_num=4, val_loss=0.111, val_acc=0.972, val_f1=0.896]
+5
+Confusion matrix: tensor([[41.,  8., 12.],
+        [ 7., 64., 19.],
+        [ 4., 11., 61.]])
+Num per class: {0.0: 52, 1.0: 83, 2.0: 92}
+Test Accuracy per class: {0.0: tensor(0.6721), 1.0: tensor(0.7111), 2.0: tensor(0.8026)}
+Test Accuracy averaged: 0.7286245822906494
+Test F1-score macro-averaged: 0.7305795286894065
+Test F1-score micro-averaged: 0.7312775330396476
+--- Avg. accuracy across 5 folds (cv-score) is: 0.7128284573554993, SD=0.017243266105651855---

@@ -1,0 +1,58 @@
+{
+  "FEMALE_SINGLE": {
+    "sexualization": {
+      "total ratio": 0.009174311926605505,
+      "total abs": "2 from 218",
+      "occ ratio": 0.02,
+      "occ abs": "2 from 100",
+      "neg ratio": 0.0392156862745098,
+      "neg abs": "2 from 51"
+    },
+    "perpetrator": {
+      "total ratio": 0.0045871559633027525,
+      "total abs": "1 from 218",
+      "occ ratio": 0.01,
+      "occ abs": "1 from 100",
+      "neg ratio": 0.0196078431372549,
+      "neg abs": "1 from 51"
+    },
+    "caretaker": {
+      "total ratio": 0.0963302752293578,
+      "total abs": "21 from 218",
+      "occ ratio": 0.07,
+      "occ abs": "7 from 100",
+      "res ratio": 0.11864406779661017,
+      "res abs": "14 from 118",
+      "neg ratio": 0.1568627450980392,
+      "neg abs": "8 from 51",
+      "neu ratio": 0.06521739130434782,
+      "neu abs": "6 from 92",
+      "pos ratio": 0.09333333333333334,
+      "pos abs": "7 from 75"
+    }
+  },
+  "MALE_SINGLE": {
+    "sexualization": {
+      "total ratio": 0.0,
+      "total abs": "0 from 217"
+    },
+    "perpetrator": {
+      "total ratio": 0.0,
+      "total abs": "0 from 217"
+    },
+    "caretaker": {
+      "total ratio": 0.03686635944700461,
+      "total abs": "8 from 217",
+      "occ ratio": 0.04,
+      "occ abs": "4 from 100",
+      "res ratio": 0.03418803418803419,
+      "res abs": "4 from 117",
+      "neg ratio": 0.046511627906976744,
+      "neg abs": "2 from 43",
+      "neu ratio": 0.031914893617021274,
+      "neu abs": "3 from 94",
+      "pos ratio": 0.0375,
+      "pos abs": "3 from 80"
+    }
+  }
+}

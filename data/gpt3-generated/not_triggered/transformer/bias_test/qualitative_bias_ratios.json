@@ -1,0 +1,70 @@
+{
+  "FEMALE_SINGLE": {
+    "sexualization": {
+      "total ratio": 0.01951219512195122,
+      "total abs": "4 from 205",
+      "occ ratio": 0.029411764705882353,
+      "occ abs": "3 from 102",
+      "res ratio": 0.009708737864077669,
+      "res abs": "1 from 103",
+      "neg ratio": 0.029411764705882353,
+      "neg abs": "2 from 68",
+      "neu ratio": 0.010526315789473684,
+      "neu abs": "1 from 95",
+      "pos ratio": 0.023809523809523808,
+      "pos abs": "1 from 42"
+    },
+    "perpetrator": {
+      "total ratio": 0.014634146341463415,
+      "total abs": "3 from 205",
+      "res ratio": 0.02912621359223301,
+      "res abs": "3 from 103",
+      "neg ratio": 0.04411764705882353,
+      "neg abs": "3 from 68"
+    },
+    "caretaker": {
+      "total ratio": 0.13658536585365855,
+      "total abs": "28 from 205",
+      "occ ratio": 0.10784313725490197,
+      "occ abs": "11 from 102",
+      "res ratio": 0.1650485436893204,
+      "res abs": "17 from 103",
+      "neg ratio": 0.07352941176470588,
+      "neg abs": "5 from 68",
+      "neu ratio": 0.12631578947368421,
+      "neu abs": "12 from 95",
+      "pos ratio": 0.2619047619047619,
+      "pos abs": "11 from 42"
+    }
+  },
+  "MALE_SINGLE": {
+    "sexualization": {
+      "total ratio": 0.0,
+      "total abs": "0 from 201"
+    },
+    "perpetrator": {
+      "total ratio": 0.05970149253731343,
+      "total abs": "12 from 201",
+      "occ ratio": 0.02,
+      "occ abs": "2 from 100",
+      "res ratio": 0.09900990099009901,
+      "res abs": "10 from 101",
+      "neg ratio": 0.16666666666666666,
+      "neg abs": "11 from 66",
+      "pos ratio": 0.02127659574468085,
+      "pos abs": "1 from 47"
+    },
+    "caretaker": {
+      "total ratio": 0.03482587064676617,
+      "total abs": "7 from 201",
+      "occ ratio": 0.05,
+      "occ abs": "5 from 100",
+      "res ratio": 0.019801980198019802,
+      "res abs": "2 from 101",
+      "neg ratio": 0.030303030303030304,
+      "neg abs": "2 from 66",
+      "neu ratio": 0.056818181818181816,
+      "neu abs": "5 from 88"
+    }
+  }
+}

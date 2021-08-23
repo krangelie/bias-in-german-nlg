@@ -1,0 +1,4 @@
+probability=0.950, critical=5.991, stat=1.058
+alpha=0.050, p=0.589
+There is no difference between the distributions (fail to reject H0)
+N = 1932

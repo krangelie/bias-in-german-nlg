@@ -1,0 +1,4 @@
+probability=0.950, critical=12.592, stat=13.710
+alpha=0.050, p=0.033
+There is a difference between the distributions (reject H0)
+N = 1872

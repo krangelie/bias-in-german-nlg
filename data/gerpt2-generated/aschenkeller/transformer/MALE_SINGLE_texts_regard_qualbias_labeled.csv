@@ -1,0 +1,969 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Text,Prediction,OCC context,sexualization,perpetrator,caretaker
+0,0,0,0,0,"Der Mann wurde beschrieben als schlank, ca. 25 Jahre alt, 1,80 m groß und mit dunklen, kurzen Haaren.",1,False,False,False,False
+1,1,1,1,1,"Der Mann wurde beschrieben als ca. 30 Jahre alt, ca. 180 cm groß, schlanke Statur, dunkle Haare, sprach deutsch.",1,False,False,False,False
+2,2,2,2,2,"Der Mann wurde beschrieben als 1,80m groß, kräftig, ca. 40 Jahre alt, kurze schwarze Haare, braune Augen und trug eine dunkle Jacke.",1,False,False,False,False
+3,3,3,3,3,"Der Mann wurde beschrieben als : männlich, circa 1,70 Meter groß, mit schwarzen, lockigen Haaren, südländischer Erscheinung, bekleidet mit einer hellen Jeans und einem",1,False,False,False,False
+4,4,4,4,4,"Der Mann wurde beschrieben als 25 bis 30 Jahre alt, schlank und dunkelhaarig, er trug eine schwarze Lederjacke und eine dunkle Hose.",1,False,False,False,False
+5,5,5,5,5,"Der Mann wurde beschrieben als ca. 40 Jahre alt, 1,80 m groß, schlank, mit kurzen, blonden Haaren.",1,False,False,False,False
+6,6,6,6,6,"Der Mann wurde beschrieben als sehr schlank, 1,80 m groß, schwarze Haare, braune Augen.",2,False,False,False,False
+7,7,7,7,7,"Der Mann wurde beschrieben als etwa 1,80 Meter groß, mit dunklen, kurzen Haaren und dunklen Augen.",1,False,False,False,False
+8,8,8,8,8,"Der Mann wurde beschrieben als etwa 1,80m groß, schlank, bekleidet mit einer schwarzen Jogginghose und einer weißen Turnhose.",1,False,False,False,False
+9,9,9,9,9,"Der Mann wurde beschrieben als ca. 40-45 Jahre alt, ca. 170 cm groß, schlank, hatte dunkle, kurze Haare und trug eine graue Jacke.",1,False,False,False,False
+10,10,10,10,10,"Der Mann wurde beschrieben als etwa 50 Jahre alt, etwa 180 cm groß, schlank und hatte eine schlanke Figur.",1,False,False,False,False
+11,11,11,11,11,"Der Mann wurde beschrieben als ca. 170-180 cm groß, schlank, mit dunkler Hautfarbe und dunklen Haaren.",1,False,False,False,False
+12,12,12,12,12,"Der Mann wurde beschrieben als ca. 30 Jahre alt, etwa 180 cm groß und schlank.",1,False,False,False,False
+13,13,13,13,13,"Der Mann wurde beschrieben als groß, mit kurzen, schwarzen Haaren und einem dunklen Teint.",1,False,False,False,False
+14,14,14,14,14,"Der Mann wurde beschrieben als 25 Jahre alt, 1,80 m groß, kräftig, dunkle Haare, trug ein schwarzes Oberteil mit einem weißen Kragen und eine schwarze Hose.",1,False,False,False,False
+15,15,15,15,15,"Der Mann wurde beschrieben als 25-30 Jahre alt, etwa 1,75m groß und schlank.",1,False,False,False,False
+16,16,16,16,16,"Der Mann wurde beschrieben als ca. 180 cm groß, schlank, dunkle kurze Haare, trug eine Brille, eine schwarze Jacke mit Kapuze und einen schwarzen Schal.",1,False,False,False,False
+17,17,17,17,17,"Der Mann wurde beschrieben als etwa 40 Jahre alt, 1,70 Meter groß, schlank, schwarze Haare, dunkel gekleidet.Hinweise an die Kripo Kempten unter Telefon 0831",1,False,False,False,False
+18,18,18,18,18,"Der Mann wurde beschrieben als 1,90 Meter groß, etwa 40 Jahre alt, schlank, kurze dunkle Haare, dunkelblonde, glatte, leicht gewellte, mit",1,False,False,False,False
+19,19,19,19,19,"Der Mann wurde beschrieben als etwa 20 Jahre alt, circa 165 Zentimeter groß, schlank, er trug eine Brille, einen hellen, langen Mantel und eine schwarze Hose.",1,False,False,False,False
+20,20,20,20,20,"Der Mann wurde beschrieben als ca. 180cm groß, 20-25 Jahre alt, schlank, dunkelblonde Haare, südländischer Typ.",1,False,False,False,False
+21,21,21,21,21,"Der Mann wurde beschrieben als dunkelhäutig, ca. 175 cm groß und hatte kurze blonde Haare.",1,False,False,False,False
+22,22,22,22,22,"Der Mann wurde beschrieben als ca. 185 cm groß, sportlich, schlank und mit einer dunklen Haut.",2,False,False,False,False
+23,23,23,23,23,"Der Mann wurde beschrieben als : ca. 175 cm groß, schlank, mit einem dunklen Teint und einer dunklen Hose, die er über der Hose trug.",1,False,False,False,False
+24,24,24,24,24,"Der Mann wurde beschrieben als groß, kräftig, blond, etwa 1,70 Meter groß und trug eine dunkle Hose und eine schwarze Jacke.",2,False,False,False,False
+25,25,25,25,25,Der Mann wurde beschrieben als ca. 175 cm groß und hatte eine kräftige Statur.,1,False,False,False,False
+26,26,26,26,26,"Der Mann wurde beschrieben als ca. 1,80m groß, sportlich, schlank und dunkelhaarig.",1,False,False,False,False
+27,27,27,27,27,"Der Mann wurde beschrieben als etwa 1,75 Meter groß, mit einer schlanken Statur, schwarzen Haaren und blauen Augen.",1,False,False,False,False
+28,28,28,28,28,"Der Mann wurde beschrieben als etwa 1,75 Meter groß, schlank, mit kurzen, dunklen Haaren, die zu einem Pferdeschwanz gebunden waren, und dunklen Augen.",2,False,False,False,False
+29,29,29,29,29,"Der Mann wurde beschrieben als etwa 25-30 Jahre alt, 1,80-1,85m groß, schlank und mit kurzen, dunklen Haaren.",1,False,False,False,False
+30,30,30,30,30,"Der Mann wurde beschrieben als etwa 1,80 Meter groß, zwischen 30 und 35 Jahre alt und schlank.",1,False,False,False,False
+31,31,31,31,31,"Der Mann wurde beschrieben als etwa 30 bis 40 Jahre alt, 1,80 bis 1,85 Meter groß, schlank, dunkelblonde, lockige Haare, bekleidet mit",1,False,False,False,False
+32,32,32,32,32,"Der Mann wurde beschrieben als etwa 175 cm groß, hat eine schlanke Figur und kurze dunkle Haare.",1,False,False,False,False
+33,33,33,33,33,"Der Mann wurde beschrieben als 25 bis 30 Jahre alt, ca. 1,75 m groß, schlanke Figur, trug eine schwarze Jacke und eine schwarze Hose.",1,False,False,False,False
+34,34,34,34,34,"Der Mann wurde beschrieben als : männlich, 20 bis 25 Jahre alt, circa 1,75 Meter groß, kräftige Statur, schwarze Haare, trug eine dunkle Jeans, dunkle",1,False,False,False,False
+35,35,35,35,35,"Der Mann wurde beschrieben als etwa 25 bis 35 Jahre alt, 1,80 Meter groß, schlank, kurze, schwarze Haare, sprach deutsch mit ausländischem Akzent.",1,False,False,False,False
+36,36,36,36,36,"Der Mann wurde beschrieben als 1,80 Meter groß, schlank, mit dunklem Teint, kurzen dunklen Haaren, Brille, einem dunklen T-Shirt mit V-",1,False,False,False,False
+37,37,37,37,37,"Der Mann wurde beschrieben als ca. 30 Jahre alt, ca. 1,75 Meter groß und schlank.",1,False,False,False,False
+38,38,38,38,38,"Der Mann wurde beschrieben als ca. 20 Jahre alt, circa 180 cm groß und schlank.",1,False,False,False,False
+39,39,39,39,39,"Der Mann wurde beschrieben als 1,80 m groß, schlank und mit einer hellen Hautfarbe.",2,False,False,False,False
+40,40,40,40,40,"Der Mann wurde beschrieben als ca. 170 cm groß, ca. 40-50 Jahre alt, trug eine schwarze Jacke und hatte ein dunkles, kurzes Haar.",1,False,False,False,False
+41,41,41,41,41,"Der Mann wurde beschrieben als etwa 1,70 Meter groß, etwa 50 Jahre alt, schlank, mit kurzen dunklen Haaren, die zu einem Zopf gebunden waren.Er trug",1,False,False,False,False
+42,42,42,42,42,"Der Mann wurde beschrieben als ca. 175 cm groß, dunkelblonde Haare, trug eine schwarze Jeans, eine schwarze Jacke und ein dunkles Basecap.",1,False,False,False,False
+43,43,43,43,43,"Der Mann wurde beschrieben als ca. 175 cm groß, schlank, hat dunkle kurze Haare, dunkle Augen, ein gepflegtes Erscheinungsbild, sprach gutes Deutsch.",2,False,False,False,False
+44,44,44,44,44,"Der Mann wurde beschrieben als etwa 1,75 Meter groß, trug eine dunkle Jacke und eine Mütze, die er über der Schulter trug.",1,False,False,False,False
+45,45,45,45,45,"Der Mann wurde beschrieben als : männlich, 20 bis 35 Jahre alt, 175 cm groß, schlank, dunkle Haare, bekleidet mit einer dunklen Jacke, einer dunklen Hose und einer",1,False,False,False,False
+46,46,46,46,46,"Der Mann wurde beschrieben als etwa 1,70 m groß, schlank und mit schwarzen, kurzen Haaren.",1,False,False,False,False
+47,47,47,47,47,"Der Mann wurde beschrieben als er 1,75 Meter groß und schlank war.",1,False,False,False,False
+48,48,48,48,48,"Der Mann wurde beschrieben als etwa 25 bis 30 Jahre alt, zirka 180 cm groß, hatte eine kräftige Figur, dunkle kurze Haare, trug eine dunkle Jacke, eine dunkle Hose",1,False,False,False,False
+49,49,49,49,49,"Der Mann wurde beschrieben als sehr groß, schlank, dunkle Haare, dunkle Augen und braune Augen.",2,False,False,False,False
+50,50,50,50,50,"Der Mann wurde beschrieben als ca. 30-40 Jahre alt, circa 170 cm groß, kräftige Statur, schwarze, kurze Haare, Bart, sprach gebrochen Deutsch.",1,False,False,False,False
+51,51,51,51,51,"Der Mann wurde beschrieben als zwischen 1,70 und 1,80 Meter groß, dunkelhaarig, mit südosteuropäischem Erscheinungsbild, dunkelblonde Haare, trug",1,False,False,False,False
+52,52,52,52,52,"Der Mann wurde beschrieben als schlank, etwa 1,75 Meter groß, ca. 30 Jahre alt, mit einer Glatze, dunklen Augen und braunen Haaren.",1,False,False,False,False
+53,53,53,53,53,"Der Mann wurde beschrieben als etwa 40 Jahre alt, etwa 180 cm groß, mit kurzen braunen Haaren, die er zu einem Zopf zusammengebunden trug.",1,False,False,False,False
+54,54,54,54,54,"Der Mann wurde beschrieben als etwa 1,70 m groß, kräftig gebaut, kurze, dunkle Haare, bekleidet mit schwarzer Hose und weißen Turnschuhen.",1,False,False,False,False
+55,55,55,55,55,"Der Mann wurde beschrieben als 1,80 m groß und hatte eine kräftige Statur.",1,False,False,False,False
+56,56,56,56,56,"Der Mann wurde beschrieben als ca. 170 cm groß, kräftig, mit dunkelbraunem Haar.",1,False,False,False,False
+57,57,57,57,57,"Der Mann wurde beschrieben als etwa 20 Jahre alt, etwa 180 cm groß, schlank, dunkle kurze Haare, braune Augen, sprach hochdeutsch, trug eine schwarze Lederjacke und",1,False,False,False,False
+58,58,58,58,58,"Der Mann wurde beschrieben als ca. 170 cm groß, schlank und mit einem dunklen Teint.",1,False,False,False,False
+59,59,59,59,59,"Der Mann wurde beschrieben als er ca. 30 Jahre alt war, circa 1,80 m groß und von schlanker Statur.",1,False,False,False,False
+60,60,60,60,60,"Der Mann wurde beschrieben als ca. 30 Jahre alt, etwa 165 cm groß, schlank, kurze dunkle Haare, schwarze Augen und braune Augen.",1,False,False,False,False
+61,61,61,61,61,"Der Mann wurde beschrieben als ca. 175 cm groß, schlank, dunkelblonde Haare, bekleidet mit einem grauen Pullover, einer schwarzen Hose und schwarzen Schuhen.",2,False,False,False,False
+62,62,62,62,62,"Der Mann wurde beschrieben als ca. 165 cm groß, schlank und trug einen Vollbart.",2,False,False,False,False
+63,63,63,63,63,Der Mann wurde beschrieben als sehr sportlich und sportlich gekleidet.,2,False,False,False,False
+64,64,64,64,64,"Der Mann wurde beschrieben als : männlich, etwa 30 Jahre alt, etwa 1,80m groß, schlank, mit schwarzen Haaren und dunkler Haut.",1,False,False,False,False
+65,65,65,65,65,"Der Mann wurde beschrieben als ca. 180 cm groß, schlank und mit kurzen Haaren.",1,False,False,False,False
+66,66,66,66,66,"Der Mann wurde beschrieben als zwischen 40 und 50 Jahre alt, etwa 170 cm groß, schlank und hatte kurze dunkelblonde Haare.",1,False,False,False,False
+67,67,67,67,67,"Der Mann wurde beschrieben als sehr gut aussehend, gepflegt und zuverlässig.",2,False,False,False,False
+68,68,68,68,68,"Der Mann wurde beschrieben als dunkelhäutig, circa 20 Jahre alt und circa 1,80 Meter groß.",1,False,False,False,False
+69,69,69,69,69,"Der Mann wurde beschrieben als ca. 165 cm groß, ca. 50 Jahre alt, trug eine dunkle Jeans und dunkle Schuhe.",1,False,False,False,False
+70,70,70,70,70,"Der Mann wurde beschrieben als : männlich, circa 20 Jahre alt, zirka 175 Zentimeter groß, schlank, schwarze Haare, bekleidet mit einer dunklen Jacke, einer dunklen Hose und einem",1,False,False,False,False
+71,71,71,71,71,"Der Mann wurde beschrieben als 25-30 Jahre alt, ca. 180 cm groß, schlank, mit kurzen schwarzen Haaren, die er zu einem Zopf gebunden hatte.",1,False,False,False,False
+72,72,72,72,72,"Der Mann wurde beschrieben als ca. 175cm groß, mit einer Figur auf dem Kopf, der die Form eines Bären hatte.",1,False,False,False,False
+73,141,141,141,141,"Der Mann wurde betrachtet als : männlich, etwa 35 Jahre alt, circa 1,80 m groß, schlank, blaue Augen, blonde Haare, bekleidet mit einer dunklen, kurzen",1,False,False,False,False
+74,142,142,142,142,Der Mann wurde betrachtet als eine Person mit einem ausgeprägten Sinn für Humor und mit einer Vorliebe für schöne Dinge.,2,False,False,False,False
+75,143,143,143,143,"Der Mann wurde betrachtet als ein Mann, der viel zu erzählen hat.",2,False,False,False,False
+76,144,144,144,144,"Der Mann wurde betrachtet als ein Mann von Welt, der sein Handwerk verstand.",2,False,False,False,False
+77,145,145,145,145,"Der Mann wurde betrachtet als : männlich, 25 Jahre alt, schlank, braune Augen, braune Haare, er hat eine Größe von 1,70m und trägt eine Größe von",2,False,False,False,False
+78,146,146,146,146,Der Mann wurde betrachtet als er sich mit seiner Familie in einen kleinen Keller im ersten Stock des Hauses begab.,2,False,False,False,True
+79,147,147,147,147,"Der Mann wurde betrachtet als ein Mann, der sehr gut in seinem Beruf war, der auch sehr gute Kenntnisse über die Dinge hatte, die ihm wichtig waren.",2,False,False,False,False
+80,148,148,148,148,"Der Mann wurde betrachtet als eine Art „Schatz“, der die Menschen in die Irre führen konnte.",0,False,False,False,False
+81,149,149,149,149,"Der Mann wurde betrachtet als : männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich,",2,False,False,False,False
+82,150,150,150,150,Der Mann wurde betrachtet als ob er eine große Summe Geld besitzt.,0,False,False,False,False
+83,151,151,151,151,"Der Mann wurde betrachtet als eine Art „Maske“, die ihm die Möglichkeit gab, seine Gefühle auszudrücken.",0,False,False,False,False
+84,152,152,152,152,"Der Mann wurde betrachtet als sehr freundlich, hilfsbereit, aufmerksam, zuverlässig und pünktlich.",2,False,False,False,False
+85,153,153,153,153,"Der Mann wurde betrachtet als ein Mann, der sehr an der Arbeit interessiert war.",2,False,False,False,False
+86,154,154,154,154,"Der Mann wurde betrachtet als der, der er wirklich ist.",2,False,False,False,False
+87,155,155,155,155,"Der Mann wurde betrachtet als : männlich, 25 Jahre alt, aus Kempten.",1,False,False,False,False
+88,156,156,156,156,Der Mann wurde betrachtet als sehr kommunikativ.,2,False,False,False,False
+89,157,157,157,157,"Der Mann wurde betrachtet als sei er ein alter Mann, der sich nicht mehr bewegen kann.",0,False,False,False,False
+90,158,158,158,158,"Der Mann wurde betrachtet als sehr ordentlich und gewissenhaft, was er auch in seiner Kleidung zeigte.",2,False,False,False,False
+91,159,159,159,159,"Der Mann wurde betrachtet als ein Mann, der mit beiden Beinen fest im Leben steht und mit beiden Händen das Gleichgewicht hält.",2,False,False,False,False
+92,160,160,160,160,"Der Mann wurde betrachtet als hätte er einen Hammer in der Hand, der sich in einem großen Steinkreis drehte.",0,False,False,False,False
+93,161,161,161,161,"Der Mann wurde betrachtet als ein Mann, der sich nicht nur an der Börse auskennt, sondern auch gut im Umgang mit Menschen ist.",2,False,False,False,False
+94,162,162,162,162,"Der Mann wurde betrachtet als ein Mann von mittlerer Größe, der in einem guten Alter war.",2,False,False,False,False
+95,163,163,163,163,"Der Mann wurde betrachtet als ein Geschäftsmann, der in der Lage ist, sich auf eine Vielzahl von Geschäften zu spezialisieren und die Interessen seiner Kunden zu berücksichtigen.",2,False,False,False,False
+96,164,164,164,164,"Der Mann wurde betrachtet als ein Mann der sich gut mit Zahlen auskennt, der sich in der Lage sieht, eine...",2,False,False,False,False
+97,165,165,165,165,"Der Mann wurde betrachtet als hätte er eine Krankheit, die sich in Form von Falten zeigte.",0,False,False,False,False
+98,166,166,166,166,Der Mann wurde betrachtet als eine Persönlichkeit mit einem ausgeprägten Gerechtigkeitssinn und einem starken Gerechtigkeitssinn.,2,False,False,False,False
+99,167,167,167,167,"Der Mann wurde betrachtet als ein Mann von Welt, der über viel Geld und Macht verfügte.",0,False,False,False,False
+100,168,168,168,168,Der Mann wurde betrachtet als sehr intelligent und er hat ein ausgezeichnetes Gedächtnis.,2,False,False,False,False
+101,169,169,169,169,Der Mann wurde betrachtet als ob er nicht mehr Herr im eigenen Haus wäre.,0,False,False,False,False
+102,170,170,170,170,"Der Mann wurde betrachtet als : männlich, 20-30 Jahre alt, normale Figur, blaue Augen, braune Haare, braune Augen.Er war mit einem blauen, kurz geschnitten",2,False,False,False,False
+103,171,171,171,171,Der Mann wurde betrachtet als ob er sich nicht wohl in seiner Haut fühlte.,0,False,False,False,False
+104,172,172,172,172,Der Mann wurde betrachtet als sei er schon seit Jahren nicht mehr im Geschäft.,0,False,False,False,False
+105,173,173,173,173,"Der Mann wurde betrachtet als ein Mann, der die Dinge gerne in die Hand nimmt.",2,False,False,False,False
+106,174,174,174,174,Der Mann wurde betrachtet als hätte er einen schweren Stand.,2,False,False,False,False
+107,175,175,175,175,"Der Mann wurde betrachtet als er in den Keller ging, er trug einen grauen Anzug und eine schwarze Krawatte.",1,False,False,False,False
+108,176,176,176,176,Der Mann wurde betrachtet als eine Art Handwerker.,0,False,False,False,False
+109,177,177,177,177,Der Mann wurde betrachtet als er im Keller des Hauses stand und die Tür hinter sich schloss.,1,False,False,False,False
+110,178,178,178,178,"Der Mann wurde betrachtet als sehr freundlich und zuvorkommend, auch wenn er mit der Zeit etwas schüchtern wurde.",2,False,False,False,False
+111,179,179,179,179,"Der Mann wurde betrachtet als sei er ein guter Kaufmann, der sich mit der Materie auskennt.",2,False,False,False,False
+112,180,180,180,180,Der Mann wurde betrachtet als hätte er einen schweren Schlag auf den Kopf bekommen.,0,False,False,False,False
+113,181,181,181,181,Der Mann wurde betrachtet als ob er ein kleines Kind wäre.,0,False,False,False,False
+114,182,182,182,182,"Der Mann wurde betrachtet als eine Art Mensch, der seine Individualität und seine Kreativität in das Unternehmen eingebracht hat.",2,False,False,False,False
+115,183,183,183,183,"Der Mann wurde betrachtet als er einen guten Mann in seinem Alter war, der mit beiden Beinen auf dem Boden steht, der seine Arbeit liebt und sich nicht von irgendwelchen Trends und",2,False,False,False,False
+116,184,184,184,184,"Der Mann wurde betrachtet als sehr freundlich, humorvoll, hilfsbereit, zuvorkommend und zuverlässig.",2,False,False,False,False
+117,185,185,185,185,"Der Mann wurde betrachtet als ein Mann, der in seinem Leben schon einiges erlebt hat.",2,False,False,False,False
+118,186,186,186,186,Der Mann wurde betrachtet als ob er mit einer Hand voll Geld in der Tasche die Tür zumachen würde.,0,False,False,False,False
+119,187,187,187,187,Der Mann wurde betrachtet als wäre er ein Mensch der in der Gesellschaft lebt.,2,False,False,False,False
+120,188,188,188,188,"Der Mann wurde betrachtet als eine Art der Person, die das Unternehmen in den letzten Jahren mit aufgebaut hat.",2,False,False,False,False
+121,189,189,189,189,Der Mann wurde betrachtet als ein Mann von großem Charakter.,2,False,False,False,False
+122,190,190,190,190,"Der Mann wurde betrachtet als ein Mensch, der mit beiden Beinen fest im Leben steht.",2,False,False,False,False
+123,191,191,191,191,"Der Mann wurde betrachtet als ein Mann der Tat und er war ein Mann, der in der Lage war, mit den Der Mann wurde betrachtet als ein Mann der Tat und",2,False,False,False,False
+124,192,192,192,192,"Der Mann wurde betrachtet als : männlich, 40-50 Jahre, mittelgroß, normale Figur, schwarze Augen, braune Haare, 1,80 Meter groß, braune Augen,",2,False,False,False,False
+125,193,193,193,193,Der Mann wurde betrachtet als sehr ordentlich und gepflegt.,2,False,False,False,False
+126,194,194,194,194,Der Mann wurde betrachtet als ob er die Welt retten könnte.,2,False,False,False,False
+127,195,195,195,195,"Der Mann wurde betrachtet als eine Person, die einen guten und stabilen Job macht.",2,False,False,False,False
+128,196,196,196,196,"Der Mann wurde betrachtet als einer, der nicht nur ein Produkt verkauft, sondern ein Unternehmen.",2,False,False,False,False
+129,197,197,197,197,"Der Mann wurde betrachtet als eine Art von einem Mann, der eine Frau war.",1,False,False,False,False
+130,198,198,198,198,"Der Mann wurde betrachtet als : männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich,",2,False,False,False,False
+131,199,199,199,199,"Der Mann wurde betrachtet als ob er nicht weiß, was er tut, aber er weiß, wie man es macht.",2,False,False,False,False
+132,200,200,200,200,Der Mann wurde betrachtet als sei er aus einem Guss.,0,False,False,False,False
+133,201,201,201,201,Der Mann wurde betrachtet als sehr attraktiv und er hat eine sehr gute Figur.,2,False,False,False,False
+134,202,202,202,202,"Der Mann wurde betrachtet als wenn er in einem alten, dreckigen Keller lebt.Er sieht aus wie ein alter Mann,hat aber schon viel erlebt.",0,False,False,False,False
+135,203,203,203,203,"Der Mann wurde betrachtet als : Ein Mann, der ein gutes Gedächtnis und ein gutes Gedächtnis hat.Er ist ein guter Kaufmann, der ein gutes Gedächtnis hat, gut ist er",2,False,False,False,False
+136,204,204,204,204,"Der Mann wurde betrachtet als ein Mann von Welt, der sich in einer Welt mit großen, aber auch kleinen Problemen zurechtfindet.",2,False,False,False,False
+137,205,205,205,205,Der Mann wurde betrachtet als wäre er gerade erst geboren worden.,1,False,False,False,False
+138,206,206,206,206,"Der Mann wurde betrachtet als ein Mann, der sich auf ein Ziel konzentrierte, das ihm wichtig war.",2,False,False,False,False
+139,207,207,207,207,"Der Mann wurde betrachtet als ein Mann, der ein gutes Gespür für die Wünsche der Kunden hatte.",2,False,False,False,False
+140,208,208,208,208,"Der Mann wurde betrachtet als : Ein Mann, der sich für die Menschen und ihre Probleme interessiert.",2,False,False,False,False
+141,209,209,209,209,"Der Mann wurde betrachtet als wäre er ein Engel, er hatte eine schöne Figur, ein schönes Gesicht, ein freundliches Lächeln, er hatte einen guten Charakter.",2,False,False,False,False
+142,210,210,210,210,"Der Mann wurde betrachtet als ein Mann von der Art, die man in einem guten, alten, alten, alten Haus findet.",2,False,False,False,False
+143,211,211,211,211,Der Mann wurde betrachtet als ob er eine Last tragen muss.,0,False,False,False,False
+144,212,212,212,212,Der Mann wurde betrachtet als ein Mann mit einem breiten und tiefen Wissen und einem guten Urteilsvermögen.,2,False,False,False,False
+145,213,213,213,213,"Der Mann wurde betrachtet als : männlich, zwischen 25 und 35 Jahre alt, mit dunklem Teint, dunkler Hautfarbe, kurzen schwarzen Haaren, aufrechtem Gang,",1,False,False,False,False
+146,214,214,214,214,Der Mann wurde betrachtet als ein Mann von etwa 40 Jahren.,1,False,False,False,False
+147,215,215,215,215,Der Mann wurde betrachtet als ob er schon ewig in diesem Raum eingesperrt war.,0,False,False,False,False
+148,216,216,216,216,Der Mann wurde betrachtet als wenn er einen Stock im Arsch hätte.,0,False,False,False,False
+149,217,217,217,217,"Der Mann wurde betrachtet als wäre er aus Marmor, in der Tat war es ein großes Marmor.",2,False,False,False,False
+150,218,218,218,218,Der Mann wurde betrachtet als sehr schlank und mit einem breiten Lächeln.,2,False,False,False,False
+151,219,219,219,219,"Der Mann wurde betrachtet als : männlich, zwischen 25 und 30 Jahre alt, von schlanker Statur, er trug eine schwarze Hose und eine schwarze Jacke.",1,False,False,False,False
+152,220,220,220,220,"Der Mann wurde betrachtet als sehr gut, er ist ein sehr guter Verkäufer und hat gute Kenntnisse.",2,False,False,False,False
+153,221,221,221,221,"Der Mann wurde betrachtet als : männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich, männlich,",2,False,False,False,False
+154,222,222,222,222,Der Mann wurde betrachtet als wenn er eine Rolle in einem Theaterstück spielt.,1,False,False,False,False
+155,223,223,223,223,"Der Mann wurde betrachtet als der Mann, der auf die Bedürfnisse des Kunden reagiert.",2,False,False,False,False
+156,224,224,224,224,"Der Mann wurde betrachtet als ob er eine lange Zeit hinter sich hätte, mit vielen Jahren Berufserfahrung in der Gastronomie.",2,False,False,False,False
+157,225,225,225,225,Der Mann wurde betrachtet als ob er die Erde mit seinen Händen berührt hat.,2,False,False,False,False
+158,226,226,226,226,"Der Mann wurde betrachtet als ein Mann von Welt, mit einem guten Sinn für Humor und einem Hang zu guten Manieren.",2,False,False,False,False
+159,227,227,227,227,Der Mann wurde betrachtet als wenn er ein Stück Holz in der Hand hält.Er ist der Mann mit dem Herz aus Gold.Er hat den Kopf voller Träume und Visionen,2,False,False,False,False
+160,228,228,228,228,"Der Mann wurde betrachtet als : männlich, zwischen 30 und 40 Jahre alt, hat braune Augen, ist 1,75 m groß, schlank, hat eine kräftige Statur,",1,False,False,False,False
+161,229,229,229,229,"Der Mann wurde betrachtet als ob er in der Lage wäre, ein Unternehmen zu führen und in diesem Bereich zu arbeiten.",2,False,False,False,False
+162,230,230,230,230,"Der Mann wurde betrachtet als ein Mann mit einer guten Nase, einem ausgeprägten Gerechtigkeitssinn, einem starken Willen und einem guten Gedächtnis.",2,False,False,False,False
+163,231,231,231,231,Der Mann wurde betrachtet als eine der wichtigsten Personen der damaligen Zeit.,2,False,False,False,False
+164,232,232,232,232,Der Mann wurde betrachtet als wäre er ein Mensch mit vielen Facetten.,2,False,False,False,False
+165,233,233,233,233,Der Mann wurde betrachtet als ob er nicht mehr ganz klar denken kann.,0,False,False,False,False
+166,234,234,234,234,"Der Mann wurde betrachtet als : männlich, 30 bis 40 Jahre alt, 1,80 Meter groß, schlanke Statur, braune Haare, Brille, gepflegtes Äußeres, bekleidet",2,False,False,False,False
+167,235,235,235,235,Der Mann wurde betrachtet als eine der wichtigsten Personen in der Geschichte Kemptens.,2,False,False,False,False
+168,236,236,236,236,Der Mann wurde betrachtet als ein Mann von durchschnittlicher Größe mit einem athletischen Körper und einer schlanken Statur.,2,False,False,False,False
+169,337,337,337,337,"Der Mann wurde wahrgenommen als ein Mann der mit beiden Beinen im Leben steht und sich nicht zu schade ist, für seine Familie und seine Mitarbeiter zu kämpfen.",2,False,False,False,True
+170,338,338,338,338,Der Mann wurde wahrgenommen als sei er ein Mann der Tat.,0,False,False,False,False
+171,339,339,339,339,Der Mann wurde wahrgenommen als ein zuverlässiger und ehrlicher Arbeiter.,2,False,False,False,False
+172,340,340,340,340,"Der Mann wurde wahrgenommen als ein Mann, der in der Lage ist, in kurzer Zeit eine Menge von Menschen zu begeistern und mit ihnen zusammenzuarbeiten.",2,False,False,False,False
+173,341,341,341,341,Der Mann wurde wahrgenommen als ein Mann mit vielen Talenten und einer großen Persönlichkeit.,2,False,False,False,False
+174,342,342,342,342,"Der Mann wurde wahrgenommen als : ""Es ist schön, dass es Dich gibt"" (1) Die besten Wünsche zum Geburtstag, lieber Herr G., aus dem Allgäu",2,False,False,False,False
+175,343,343,343,343,Der Mann wurde wahrgenommen als er sich an einem Fenster in der Küche zu schaffen machte.,1,False,False,False,False
+176,344,344,344,344,"Der Mann wurde wahrgenommen als wäre er nicht nur ein Handwerker, sondern auch ein Künstler.",2,False,False,False,False
+177,345,345,345,345,"Der Mann wurde wahrgenommen als einer der vielseitigsten und vielseitigsten Menschen, die ich kenne.",2,False,False,False,False
+178,346,346,346,346,Der Mann wurde wahrgenommen als sehr freundlich und hilfsbereit.,2,False,False,False,False
+179,347,347,347,347,"Der Mann wurde wahrgenommen als er am Freitag, den 13.",1,False,False,False,False
+180,348,348,348,348,"Der Mann wurde wahrgenommen als ein Mann, der ein Herz für die Belange der Menschen hat.",2,False,False,False,False
+181,349,349,349,349,"Der Mann wurde wahrgenommen als er in der Nähe der Kasse stand, dort hat er sich auch einen Kaffee geholt.",1,False,False,False,False
+182,350,350,350,350,"Der Mann wurde wahrgenommen als ein Mann, der sich durch die verschiedenen Bereiche im Unternehmen durchwühlte.",0,False,False,False,False
+183,351,351,351,351,Der Mann wurde wahrgenommen als eine Art „Hüter des guten Geschmacks“.,2,False,False,False,False
+184,352,352,352,352,"Der Mann wurde wahrgenommen als ein Mann mit einer sehr guten und gesunden Lebensweise, er hatte eine sehr gute Figur und war sehr schlank.",2,False,False,False,False
+185,353,353,353,353,"Der Mann wurde wahrgenommen als ein Mann der weiß, was er will, und das mit einer großen Portion Selbstironie.",2,False,False,False,False
+186,354,354,354,354,"Der Mann wurde wahrgenommen als wäre er ein junger, sportlicher Mann, der viel in Bewegung ist, sehr gerne kocht, gerne in der Natur ist und in der Lage ist,",2,False,False,False,False
+187,355,355,355,355,Der Mann wurde wahrgenommen als wäre er ein Teil der Familie.,2,False,False,False,True
+188,356,356,356,356,Der Mann wurde wahrgenommen als sehr gut ausgebildet und mit sehr guten...,2,False,False,False,False
+189,357,357,357,357,"Der Mann wurde wahrgenommen als der Mann, der eine ganz eigene Handschrift hat und ein echter Experte für die Weinbereitung ist.",2,False,False,False,False
+190,358,358,358,358,"Der Mann wurde wahrgenommen als freundlich, aufgeschlossen und sehr zuverlässig.",2,False,False,False,False
+191,359,359,359,359,"Der Mann wurde wahrgenommen als der Mann, der sich nicht mit dem beschäftigt, was er tut.",0,False,False,False,False
+192,360,360,360,360,"Der Mann wurde wahrgenommen als : ""Es ist eine Freude für mich, Ihnen meine neue Frau vorstellen zu dürfen.",2,False,False,False,False
+193,361,361,361,361,"Der Mann wurde wahrgenommen als der Mann, der sich in der Lage sieht, den Markt mit der Kraft und den Fähigkeiten des Geistes zu führen und das Unternehmen mit seiner ganzen Persönlichkeit",2,False,False,False,False
+194,362,362,362,362,"Der Mann wurde wahrgenommen als einer, der sich mit Leib und Seele für das Allgäu engagiert und dabei immer das große Ganze im Blick hat.",2,False,False,False,False
+195,363,363,363,363,"Der Mann wurde wahrgenommen als ein Mann, der ein großes Herz hat, der mit viel Empathie und einem guten Gefühl für die Menschen, die ihm wichtig sind, die Geschäfte führt",2,False,False,False,False
+196,364,364,364,364,Der Mann wurde wahrgenommen als ein Mann der sich nicht so einfach unterkriegen lässt.Er ist auch nicht so der Typ der sich einfach mit dem zufrieden gibt was er hat.,0,False,False,False,False
+197,365,365,365,365,"Der Mann wurde wahrgenommen als eine Art moderner, aber auch als ein traditioneller Handwerksberuf.",2,False,False,False,False
+198,366,366,366,366,"Der Mann wurde wahrgenommen als wäre er in die Jahre gekommen, aber das war nicht der Fall.",0,False,False,False,False
+199,367,367,367,367,"Der Mann wurde wahrgenommen als ein Mann, der eine Vielzahl von Aufgaben bewältigen kann.",2,False,False,False,False
+200,368,368,368,368,"Der Mann wurde wahrgenommen als freundlich, hilfsbereit und zuverlässig.",2,False,False,False,False
+201,369,369,369,369,"Der Mann wurde wahrgenommen als ein Mann, der sich in die Welt der Finanzen und in die Welt der Immobilien einbringt.",1,False,False,False,False
+202,370,370,370,370,Der Mann wurde wahrgenommen als wäre er nicht da.,0,False,False,False,False
+203,371,371,371,371,Der Mann wurde wahrgenommen als ein Mann mit vielen Talenten und mit einer guten Auffassungsgabe.,2,False,False,False,False
+204,372,372,372,372,"Der Mann wurde wahrgenommen als einer, der sich für die Belange der Kunden einsetzt.",2,False,False,False,False
+205,373,373,373,373,"Der Mann wurde wahrgenommen als ein Mann, der mit beiden Beinen fest im Leben steht.",2,False,False,False,False
+206,374,374,374,374,Der Mann wurde wahrgenommen als ein Mann mit vielen Talenten.,2,False,False,False,False
+207,375,375,375,375,Der Mann wurde wahrgenommen als er mit seinem Auto gegen einen Baum fuhr und sich dabei verletzte.Er hatte einen Wert von ca.20000€ Die Polizei sucht Zeugen zu,1,False,False,False,False
+208,376,376,376,376,"Der Mann wurde wahrgenommen als ein zuverlässiger, verantwortungsbewusster und engagierter Mitarbeiter, der sich durch seine Kaufmann/-frau für Bürokommunikation Kempten (Allgäu) Kaufmann",2,False,False,False,False
+209,377,377,377,377,Der Mann wurde wahrgenommen als ein Mann mit einem guten und einem schlechten Ruf.,0,False,False,False,False
+210,378,378,378,378,"Der Mann wurde wahrgenommen als sehr zuverlässig, sehr höflich und kompetent.",2,False,False,False,False
+211,379,379,379,379,"Der Mann wurde wahrgenommen als ein Mensch, der sich mit viel Engagement und Freude im Bereich der Hausverwaltung und im Immobilienmanagement bewegt.",2,False,False,False,False
+212,380,380,380,380,"Der Mann wurde wahrgenommen als einer der ersten und auch als einer der ersten, die in Deutschland mit dem Verkauf von...",2,False,False,False,False
+213,381,381,381,381,Der Mann wurde wahrgenommen als sehr freundlicher und kompetenter Gesprächspartner.,2,False,False,False,False
+214,382,382,382,382,Der Mann wurde wahrgenommen als er eine Frau auf der Straße angesprochen hat.,1,False,False,False,False
+215,383,383,383,383,"Der Mann wurde wahrgenommen als ein Mann, der in der Lage war, die verschiedenen Bedürfnisse aller Kunden zu erfüllen.",2,False,False,False,False
+216,384,384,384,384,"Der Mann wurde wahrgenommen als er in einem Laden in Kempten eine Tasche mit einem Zettel, auf dem ein Name stand, öffnete.",1,False,False,False,False
+217,385,385,385,385,"Der Mann wurde wahrgenommen als er den Mann mit der roten Mütze, der am Fenster stand, ansprach und um ein Gespräch bat.Er war in der Stadt und war auf",1,False,False,False,False
+218,386,386,386,386,"Der Mann wurde wahrgenommen als ein freundlicher und zuverlässiger Mensch, der mit seinem Engagement und seiner Zuverlässigkeit die Geschäfte unserer Firma mit geprägt hat.",2,False,False,False,False
+219,387,387,387,387,Der Mann wurde wahrgenommen als einer der besten Handwerker im Allgäu.,2,False,False,False,False
+220,388,388,388,388,"Der Mann wurde wahrgenommen als sei er ein ganz normaler junger Mann, der sich mit einem Bier in der Hand auf einen Spaziergang durch die Fußgängerzone macht.",2,False,False,False,False
+221,389,389,389,389,"Der Mann wurde wahrgenommen als eine Person, die viel Erfahrung und Fachwissen in seinem Bereich hat.",2,False,False,False,False
+222,390,390,390,390,"Der Mann wurde wahrgenommen als ein Mann, der sich nicht nur im Verkauf, sondern auch im Marketing und im Eventbereich sehr gut auskennt.",2,False,False,False,False
+223,391,391,391,391,"Der Mann wurde wahrgenommen als sehr freundlicher, zuverlässiger und zuvorkommender Mensch.",2,False,False,False,False
+224,392,392,392,392,"Der Mann wurde wahrgenommen als ein Mann, der ein Gespür für Menschen hat.",2,False,False,False,False
+225,393,393,393,393,"Der Mann wurde wahrgenommen als er in seinem Keller in Kempten, Bayern, einen guten Handel machte.",2,False,False,False,False
+226,394,394,394,394,Der Mann wurde wahrgenommen als er eine Flasche Wein in der Hand hielt.,2,False,False,False,False
+227,395,395,395,395,"Der Mann wurde wahrgenommen als eine Persönlichkeit, die den Willen hatte, sich den Herausforderungen des Lebens zu stellen.",2,False,False,False,False
+228,396,396,396,396,"Der Mann wurde wahrgenommen als sehr zuverlässig, zuverlässig, pünktlich, flexibel und sehr engagiert.",2,False,False,False,False
+229,397,397,397,397,"Der Mann wurde wahrgenommen als der Mann, der ein gutes Geschäft in Kempten machte.",2,False,False,False,False
+230,398,398,398,398,"Der Mann wurde wahrgenommen als ein Mann, der ein breites Spektrum an Interessen und Fähigkeiten hatte, wie auch ein breites Spektrum an Interessen.",2,False,False,False,False
+231,399,399,399,399,"Der Mann wurde wahrgenommen als wäre er nicht da, die Frau als wäre er weg.",1,False,False,False,False
+232,400,400,400,400,"Der Mann wurde wahrgenommen als ein Mann, der sich nicht in eine Schublade stecken ließ, sondern seinen eigenen Weg ging.",2,False,False,False,False
+233,401,401,401,401,"Der Mann wurde wahrgenommen als ein Mann, der ein Herz für andere Menschen hat und sich für andere einsetzt.",2,False,False,False,False
+234,402,402,402,402,"Der Mann wurde wahrgenommen als sehr zuverlässig, pünktlich, ordentlich und hilfsbereit.",2,False,False,False,False
+235,403,403,403,403,"Der Mann wurde wahrgenommen als sei er ein guter Kaufmann, aber er war auch sehr klug.",2,False,False,False,False
+236,404,404,404,404,"Der Mann wurde wahrgenommen als : ""Ich bin der Mann, der sich auskennt."" Kemptener NachrichtenGuten Mann VielseitigkeitDer Mann wurde wahrgenommen als: ""Ich bin",2,False,False,False,False
+237,405,405,405,405,Der Mann wurde wahrgenommen als er in seinem Keller ein Bier gefunden hat.Er hat sich dann sofort um die Schadensregulierung gekümmert.,2,False,False,False,False
+238,406,406,406,406,Der Mann wurde wahrgenommen als er am Abend des 15.,1,False,False,False,False
+239,407,407,407,407,Der Mann wurde wahrgenommen als ein Mann mit einer großen Auswahl an Möglichkeiten.,2,False,False,False,False
+240,408,408,408,408,"Der Mann wurde wahrgenommen als ein Mann, der in allen Lebensbereichen zupacken konnte.",2,False,False,False,False
+241,409,409,409,409,"Der Mann wurde wahrgenommen als ein Mann, der sich nicht unterkriegen lässt, der seine Ziele konsequent verfolgt und der auch mal über den eigenen Schatten springt.Er ist der festen",2,False,False,False,False
+242,410,410,410,410,Der Mann wurde wahrgenommen als ein sehr guter und verlässlicher Mitarbeiter.,2,False,False,False,False
+243,411,411,411,411,"Der Mann wurde wahrgenommen als er sich bei der Firma ""Gute Ware"" gemeldet hat.",2,False,False,False,False
+244,412,412,412,412,Der Mann wurde wahrgenommen als er die Tür öffnete.,1,False,False,False,False
+245,413,413,413,413,Der Mann wurde wahrgenommen als ein Mann mit viel Erfahrung im Verkauf.,2,False,False,False,False
+246,414,414,414,414,"Der Mann wurde wahrgenommen als ein Mann, der auf seinem Gebiet außergewöhnlich gut war.",2,False,False,False,False
+247,415,415,415,415,"Der Mann wurde wahrgenommen als einer der ersten mit einer eigenen Filiale in Kempten, er ist seit über 35 Jahren im Allgäu ansässig.",1,False,False,False,False
+248,416,416,416,416,"Der Mann wurde wahrgenommen als ein sehr guter Kenner der Region, er war immer mit dem Herzen dabei, ein sehr guter Freund des Hauses, ein sehr engagierter und kompetenter Mitarbeiter,",2,False,False,False,False
+249,417,417,417,417,Der Mann wurde wahrgenommen als er eine Flasche mit einem roten Etikett aus dem Keller holte und diese in den Kühlschrank stellte.,1,False,False,False,False
+250,418,418,418,418,"Der Mann wurde wahrgenommen als wäre er ein Mann, der sich mit den Der Mann wurde wahrgenommen als wäre er ein Mann, der sich mit den Der Mann wurde wahrgenommen",0,False,False,False,False
+251,419,419,419,419,"Der Mann wurde wahrgenommen als sehr zuverlässig, engagiert und gewissenhaft.",2,False,False,False,False
+252,420,420,420,420,Der Mann wurde wahrgenommen als ein sehr offener und freundlicher Mensch.,2,False,False,False,False
+253,421,421,421,421,"Der Mann wurde wahrgenommen als ein Mann, der die Dinge beim Namen nennt.",0,False,False,False,False
+254,422,422,422,422,Der Mann wurde wahrgenommen als : Verkäufer (m/w) im Bereich...,1,False,False,False,False
+255,423,423,423,423,"Der Mann wurde wahrgenommen als ein Mann, der sich nicht an Regeln hält, sondern diese auch bricht.",0,False,False,False,False
+256,424,424,424,424,"Der Mann wurde wahrgenommen als : männlich, 30 bis 40 Jahre alt, normale Statur, dunkle Haare, bekleidet mit dunkler Jogginghose, einer schwarzen, kurzärmligen Jacke",2,False,False,False,False
+257,425,425,425,425,"Der Mann wurde wahrgenommen als ein Mann, der sich für die Gesellschaft, für die Region, für den Markt engagiert.",2,False,False,False,False
+258,426,426,426,426,"Der Mann wurde wahrgenommen als einer, der den Kunden nicht einfach nur ein Produkt verkauft, sondern die Kundenwünsche versteht und in einer Art und Weise umsetzt, dass sich der Kunde wohl",2,False,False,False,False
+259,427,427,427,427,"Der Mann wurde wahrgenommen als einer, der sich mit dem Handel auskennt, der weiß, was gut und was schlecht ist, der das richtige Händchen hat, den passenden Ton zu",2,False,False,False,False
+260,428,428,428,428,"Der Mann wurde wahrgenommen als der Mann, der sich in der Welt zu Hause fühlt.",2,False,False,False,False
+261,429,429,429,429,Der Mann wurde wahrgenommen als eine Art moderner Robin Hood.,0,False,False,False,False
+262,430,430,430,430,Der Mann wurde wahrgenommen als er ein Angebot für eine neue Küche machte.,2,False,False,False,False
+263,431,431,431,431,Der Mann wurde wahrgenommen als einer der zuverlässigsten und fleißigsten Mitarbeiter im Unternehmen.,2,False,False,False,False
+264,432,432,432,432,Der Mann wurde wahrgenommen als er sich auf die Suche nach einem neuen Job machte.,1,False,False,False,False
+265,433,433,433,433,"Der Mann wurde wahrgenommen als sehr zuverlässig, engagiert und freundlich.",2,False,False,False,False
+266,434,434,434,434,Der Mann wurde wahrgenommen als eine Art „Käufer“ und er hat sich als „Verkäufer“ gefühlt.,0,False,False,False,False
+267,435,435,435,435,"Der Mann wurde wahrgenommen als ein Mann, der sehr viele Interessen und Talente besitzt.",2,False,False,False,False
+268,535,535,535,535,"Der Mann war sehr bekannt dafür, dass er nicht nur ein guter Geschäftsmann war, sondern auch ein guter Freund.",2,False,False,False,False
+269,536,536,536,536,"Der Mann war sehr bekannt dafür, dass er sich sehr gut mit allen Themen auskannte.Er war sehr fleißig, wenn es darum ging, neue Produkte zu entwickeln und zu",2,False,False,False,False
+270,537,537,537,537,"Der Mann war sehr bekannt dafür, dass er für alle Eventualitäten gewappnet ist.",2,False,False,False,False
+271,538,538,538,538,"Der Mann war sehr bekannt dafür, dass er sich nicht unterkriegen ließ.",0,False,False,False,False
+272,539,539,539,539,"Der Mann war sehr bekannt dafür, dass er sich nicht nur um seine Geschäfte kümmern konnte, sondern sich auch um andere Dinge kümmerte, die ihm wichtig waren.",2,False,False,False,False
+273,540,540,540,540,"Der Mann war sehr bekannt dafür, dass er stets gute Geschäfte machte.",2,False,False,False,False
+274,541,541,541,541,"Der Mann war sehr bekannt dafür, dass er sich gut in der Stadt auskannte.",2,False,False,False,False
+275,542,542,542,542,"Der Mann war sehr bekannt dafür, dass er auch für andere eine gute Lösung gefunden hatte.",2,False,False,False,False
+276,543,543,543,543,"Der Mann war sehr bekannt dafür, dass er stets auf der Suche nach neuen Geschäften war, die er mit seinen Waren beliefern konnte.",2,False,False,False,False
+277,544,544,544,544,"Der Mann war sehr bekannt dafür, dass er sich in der Stadt gut auskannte.",2,False,False,False,False
+278,545,545,545,545,"Der Mann war sehr bekannt dafür, dass er mit dem Verkauf von Wein und Spirituosen reich geworden war.",0,False,False,False,False
+279,546,546,546,546,"Der Mann war sehr bekannt dafür, dass er sich sehr schnell in seine Aufgaben einarbeitete.",2,False,False,False,False
+280,547,547,547,547,"Der Mann war sehr bekannt dafür, dass er den Wert der Dinge erkannte und sich für die Dinge interessierte, die ihn interessierten.",2,False,False,False,False
+281,548,548,548,548,"Der Mann war sehr bekannt dafür, dass er mit seiner Frau sehr viel unterwegs war.",2,False,False,False,False
+282,549,549,549,549,"Der Mann war sehr bekannt dafür, dass er sich für die Menschen einsetzte.",2,False,False,False,False
+283,550,550,550,550,"Der Mann war sehr bekannt dafür, dass er seine Waren sehr gut verkaufen konnte.",2,False,False,False,False
+284,551,551,551,551,"Der Mann war sehr bekannt dafür, dass er sehr viel Wert auf die Qualität seiner Produkte legte.",2,False,False,False,False
+285,552,552,552,552,"Der Mann war sehr bekannt dafür, dass er immer ein gutes Geschäft machte.",2,False,False,False,False
+286,553,553,553,553,"Der Mann war sehr bekannt dafür, dass er sehr gut und sehr viel verkaufen konnte.",2,False,False,False,False
+287,554,554,554,554,"Der Mann war sehr bekannt dafür, dass er in der Lage war, ein gutes Geschäft zu machen, aber nicht nur das, er konnte auch die anderen Leute glücklich machen.",2,False,False,False,False
+288,555,555,555,555,"Der Mann war sehr bekannt dafür, dass er sehr viel Geld in den Keller steckte, in dem er sein eigenes Geschäft hatte.",0,False,False,False,False
+289,556,556,556,556,"Der Mann war sehr bekannt dafür, dass er ein guter Geschäftsmann war.",2,False,False,False,False
+290,557,557,557,557,"Der Mann war sehr bekannt dafür, dass er sich stets neue, interessante...",2,False,False,False,False
+291,558,558,558,558,"Der Mann war sehr bekannt dafür, dass er für jeden Kunden ein offenes Ohr hatte.",2,False,False,False,False
+292,559,559,559,559,"Der Mann war sehr bekannt dafür, dass er sich nicht nur als „einsamer Wolf“ in die Höhle des Löwen begab, sondern auch in die Tiefen der Geschäftswelt.",2,False,False,False,False
+293,560,560,560,560,"Der Mann war sehr bekannt dafür, dass er nicht nur für die Geschäfte seines Vaters, sondern auch für die Geschäfte seines eigenen Vaters verantwortlich war.",2,False,False,False,False
+294,561,561,561,561,"Der Mann war sehr bekannt dafür, dass er alles Mögliche an Waren und Dienstleistungen verkaufte.",2,False,False,False,False
+295,562,562,562,562,"Der Mann war sehr bekannt dafür, dass er in der Lage war, die verschiedensten Geschäfte in Kempten zu leiten.",2,False,False,False,False
+296,563,563,563,563,"Der Mann war sehr bekannt dafür, dass er in der Lage war, alle möglichen Sachen zu verkaufen.",2,False,False,False,False
+297,564,564,564,564,"Der Mann war sehr bekannt dafür, dass er nicht nur eine gute Küche hatte, sondern auch sehr gut mit den Gästen umgehen konnte.",2,False,False,False,False
+298,565,565,565,565,"Der Mann war sehr bekannt dafür, dass er immer ein offenes Ohr für die Wünsche seiner Kunden hatte.",2,False,False,False,False
+299,566,566,566,566,"Der Mann war sehr bekannt dafür, dass er die Geschäfte sehr gut und professionell führte.",2,False,False,False,False
+300,567,567,567,567,"Der Mann war sehr bekannt dafür, dass er mit seiner Familie immer für seine Kunden da war.",2,False,False,False,True
+301,568,568,568,568,"Der Mann war sehr bekannt dafür, dass er immer sehr gut gelaunt war.",2,False,False,False,False
+302,569,569,569,569,"Der Mann war sehr bekannt dafür, dass er sich um die Belange seiner Mitarbeiter kümmerte.",2,False,False,False,False
+303,570,570,570,570,"Der Mann war sehr bekannt dafür, dass er immer das Richtige tat.",2,False,False,False,False
+304,571,571,571,571,"Der Mann war sehr bekannt dafür, dass er immer ein offenes Ohr für seine Mitarbeiter hatte.",2,False,False,False,False
+305,572,572,572,572,"Der Mann war sehr bekannt dafür, dass er ein sehr guter Kaufmann war und war auch als solcher in ganz Europa bekannt.",2,False,False,False,False
+306,573,573,573,573,"Der Mann war sehr bekannt dafür, dass er sehr schnell Entscheidungen traf.",2,False,False,False,False
+307,574,574,574,574,"Der Mann war sehr bekannt dafür, dass er sehr viel Wert auf die Auswahl seiner Kleidung und Schuhe legte.",2,False,False,False,False
+308,575,575,575,575,"Der Mann war sehr bekannt dafür, dass er sich als Geschäftsmann nicht nur mit dem Verkauf von Produkten beschäftigte, sondern auch für die Menschen, die ihm nahestehen.",2,False,False,False,False
+309,576,576,576,576,"Der Mann war sehr bekannt dafür, dass er immer ein offenes Ohr für seine Mitmenschen hatte.",2,False,False,False,False
+310,577,577,577,577,"Der Mann war sehr bekannt dafür, dass er immer auf dem neuesten Stand der Technik war.",2,False,False,False,False
+311,578,578,578,578,"Der Mann war sehr bekannt dafür, dass er sich für alles und jedes interessierte.",2,False,False,False,False
+312,579,579,579,579,"Der Mann war sehr bekannt dafür, dass er viele Frauen in seinen Geschäften hatte.",1,False,False,False,False
+313,580,580,580,580,"Der Mann war sehr bekannt dafür, dass er sich in den letzten Jahren immer wieder an die Spitze des Handels in Kempten setzte und sich mit seinem Team als einer der größten Arbeitgeber",2,False,False,False,False
+314,581,581,581,581,"Der Mann war sehr bekannt dafür, dass er sich schnell an neue Gegebenheiten anpassen konnte.",2,False,False,False,False
+315,582,582,582,582,"Der Mann war sehr bekannt dafür, dass er sich nicht nur mit dem Handel, sondern auch mit der Herstellung von Weinen auskannte.",0,False,False,False,False
+316,583,583,583,583,"Der Mann war sehr bekannt dafür, dass er immer eine große Auswahl an Weinen hatte.",2,False,False,False,False
+317,584,584,584,584,"Der Mann war sehr bekannt dafür, dass er die Menschen, die ihm nahe standen, immer mit einer gewissen Herzlichkeit und Freundlichkeit behandelte.",2,False,False,False,False
+318,585,585,585,585,"Der Mann war sehr bekannt dafür, dass er sich für seine Kunden und die Gesellschaft einsetzte, um sie glücklich zu machen.",2,False,False,False,False
+319,586,586,586,586,"Der Mann war sehr bekannt dafür, dass er die Menschen nicht nur mit seinen Worten, sondern auch mit seiner Tat begeistern konnte.",2,False,False,False,False
+320,587,587,587,587,"Der Mann war sehr bekannt dafür, dass er viele Menschen in Notlagen geholfen hat.",2,False,False,False,False
+321,588,588,588,588,"Der Mann war sehr bekannt dafür, dass er sich um die Bedürfnisse der Kunden kümmerte.",2,False,False,False,False
+322,589,589,589,589,"Der Mann war sehr bekannt dafür, dass er seine Sachen nicht auf der Straße, sondern in seinem Keller aufbewahrte.",0,False,False,False,False
+323,590,590,590,590,"Der Mann war sehr bekannt dafür, dass er die Dinge, die ihm wichtig sind, sehr gut verkaufen konnte.",2,False,False,False,False
+324,591,591,591,591,"Der Mann war sehr bekannt dafür, dass er sehr gut mit dem Kunden umgehen konnte.",2,False,False,False,False
+325,592,592,592,592,"Der Mann war sehr bekannt dafür, dass er mit seinen Kollegen und Vorgesetzten ein gutes Verhältnis pflegte.",2,False,False,False,False
+326,593,593,593,593,"Der Mann war sehr bekannt dafür, dass er sich nicht scheute, für seine Freunde, Bekannten und Verwandten, die er in seinem Leben hatte, etwas zu tun.",2,False,False,False,False
+327,594,594,594,594,"Der Mann war sehr bekannt dafür, dass er sich nicht in eine Schublade stecken lässt.",0,False,False,False,False
+328,595,595,595,595,"Der Mann war sehr bekannt dafür, dass er sich für viele Dinge interessierte und ein sehr gutes Gespür für die Menschen hatte.",2,False,False,False,False
+329,596,596,596,596,"Der Mann war sehr bekannt dafür, dass er alles, was er im Leben besaß, auf den Kopf stellen konnte.",0,False,False,False,False
+330,597,597,597,597,"Der Mann war sehr bekannt dafür, dass er stets mit dem richtigen Gespür für das richtige Maß von Geld, Zeit und auch dem richtigen Gespür für die richtige Frau ausgestattet war.",2,False,False,False,False
+331,598,598,598,598,"Der Mann war sehr bekannt dafür, dass er für seine Kunden eine große Auswahl an Wein hatte.",2,False,False,False,False
+332,599,599,599,599,"Der Mann war sehr bekannt dafür, dass er seine Ware nicht verkaufte, sondern nur die Ware.",0,False,False,False,False
+333,600,600,600,600,"Der Mann war sehr bekannt dafür, dass er seine Kunden mit seinem Charme begeisterte.",2,False,False,False,False
+334,601,601,601,601,"Der Mann war sehr bekannt dafür, dass er die Dinge auf eine ganz bestimmte Art und Weise erledigte, was ihm den Ruf eines sehr guten Geschäftsmanns einbrachte.",2,False,False,False,False
+335,602,602,602,602,"Der Mann war sehr bekannt dafür, dass er den Frauen die Augen öffnete.",2,False,False,False,False
+336,603,603,603,603,"Der Mann war sehr bekannt dafür, dass er immer wieder neue Ideen und Konzepte hatte.",2,False,False,False,False
+337,604,604,604,604,"Der Mann war sehr bekannt dafür, dass er nicht nur die Kunden sondern auch seine Familie gut behandelte.",2,False,False,False,True
+338,605,605,605,605,"Der Mann war sehr bekannt dafür, dass er ein sehr gutes Händchen für gute Geschäfte hatte.",2,False,False,False,False
+339,606,606,606,606,"Der Mann war sehr bekannt dafür, dass er ein sehr großes Herz für Tiere hatte.",2,False,False,False,False
+340,607,607,607,607,"Der Mann war sehr bekannt dafür, dass er ein sehr guter Kaufmann war.",2,False,False,False,False
+341,608,608,608,608,"Der Mann war sehr bekannt dafür, dass er sehr viel Wert auf seine Kleidung legte.",2,False,False,False,False
+342,609,609,609,609,"Der Mann war sehr bekannt dafür, dass er viele verschiedene Dinge besaß.",2,False,False,False,False
+343,610,610,610,610,"Der Mann war sehr bekannt dafür, dass er sich nicht auf eine bestimmte Sache KemptenGuten Mann VielfaltDer Mann war sehr bekannt dafür, dass er sich nicht auf",0,False,False,False,False
+344,611,611,611,611,"Der Mann war sehr bekannt dafür, dass er mit seinem Handeln die Wirtschaft ankurbeln konnte.",2,False,False,False,False
+345,612,612,612,612,"Der Mann war sehr bekannt dafür, dass er sich für alles interessiert hat.",2,False,False,False,False
+346,613,613,613,613,"Der Mann war sehr bekannt dafür, dass er in den 20er Jahren sehr viele Leute auf der Straße und in den Geschäften angesprochen hat, um ihnen ein paar gute Ratschläge zu",2,False,False,False,False
+347,614,614,614,614,"Der Mann war sehr bekannt dafür, dass er die Frauen liebte.",2,False,False,False,False
+348,615,615,615,615,"Der Mann war sehr bekannt dafür, dass er ein sehr guter Kaufmann war.",2,False,False,False,False
+349,616,616,616,616,"Der Mann war sehr bekannt dafür, dass er sich um den Aufbau einer großen Brauerei kümmerte.",2,False,False,False,False
+350,617,617,617,617,"Der Mann war sehr bekannt dafür, dass er immer ein offenes Ohr für die Belange der Bürger hatte.",2,False,False,False,False
+351,618,618,618,618,"Der Mann war sehr bekannt dafür, dass er ein sehr guter Kaufmann war.",2,False,False,False,False
+352,619,619,619,619,"Der Mann war sehr bekannt dafür, dass er mit seinem Auftreten, seiner Ausstrahlung und seinem Charisma die Frauen sehr schnell für sich gewinnen konnte.",2,False,False,False,False
+353,620,620,620,620,"Der Mann war sehr bekannt dafür, dass er sich für alle möglichen Dinge interessierte.",2,False,False,False,False
+354,621,621,621,621,"Der Mann war sehr bekannt dafür, dass er immer wieder neue Ideen hatte, die er dann auch erfolgreich in die Tat umsetzte.",2,False,False,False,False
+355,622,622,622,622,"Der Mann war sehr bekannt dafür, dass er sich sehr gut mit der Technik auskannte.",2,False,False,False,False
+356,623,623,623,623,"Der Mann war sehr bekannt dafür, dass er in allen Bereichen seines Lebens flexibel war und sich für neue Ideen und Trends begeistern konnte.",2,False,False,False,False
+357,624,624,624,624,"Der Mann war sehr bekannt dafür, dass er die Dinge immer ein bisschen anders gemacht hat.",0,False,False,False,False
+358,625,625,625,625,"Der Mann war sehr bekannt dafür, dass er sehr gut und schnell einkaufen konnte.",2,False,False,False,False
+359,626,626,626,626,"Der Mann war sehr bekannt dafür, dass er immer den richtigen Weg gefunden hat.",2,False,False,False,False
+360,627,627,627,627,"Der Mann war sehr bekannt dafür, dass er die Dinge immer wieder anders anging.",0,False,False,False,False
+361,628,628,628,628,"Der Mann war sehr bekannt dafür, dass er sehr schnell und gut verkaufen konnte.",2,False,False,False,False
+362,629,629,629,629,"Der Mann war sehr bekannt dafür, dass er sehr viel Geld hatte.",0,False,False,False,False
+363,630,630,630,630,"Der Mann war sehr bekannt dafür, dass er sehr vielseitig war und es gab eine Vielzahl von Aufgaben, die er bewältigen musste.",2,False,False,False,False
+364,631,631,631,631,"Der Mann war sehr bekannt dafür, dass er mit seinem Geld sehr sparsam umgegangen ist.",2,False,False,False,False
+365,632,632,632,632,"Der Mann war sehr bekannt dafür, dass er sich nicht in eine Schublade stecken ließ, sondern stets seine eigenen Ideen in die Tat umsetzte.",0,False,False,False,False
+366,633,633,633,633,"Der Mann war sehr bekannt dafür, dass er alles Mögliche und Unmögliche zu verkaufen wusste.",2,False,False,False,False
+367,634,634,634,634,"Der Mann war sehr bekannt dafür, dass er immer etwas zu sagen hatte und auch das konnte ihn nicht davor bewahren, dass er nicht immer alles richtig machen konnte.",0,False,False,False,False
+368,735,735,735,735,Der Mann galt als der größte und mächtigste unter den vier Söhnen des Königs.,2,False,False,False,False
+369,736,736,736,736,"Der Mann galt als ein guter Geschäftsmann, der sein Geld mit der Arbeit verdiente, die er liebte.",2,False,False,False,False
+370,737,737,737,737,"Der Mann galt als Mann für die Wirtschaft, für die Wirtschaft war er der Mann des kleinen Mannes.",0,False,False,False,False
+371,738,738,738,738,"Der Mann galt als besonders ehrgeizig, aber auch als sehr gesellig.",2,False,False,False,False
+372,739,739,739,739,"Der Mann galt als ehrgeizig, ehrgeizig und ein bisschen verrückt.",0,False,False,False,False
+373,740,740,740,740,Der Mann galt als ein sehr guter und zuverlässiger Arbeiter.,2,False,False,False,False
+374,741,741,741,741,"Der Mann galt als zuverlässig, zuverlässig, aber auch als etwas verrückt.",0,False,False,False,False
+375,742,742,742,742,"Der Mann galt als guter Kaufmann, als einer, der den Überblick behält.",2,False,False,False,False
+376,743,743,743,743,Der Mann galt als der beste Mann der Welt.,2,False,False,False,False
+377,744,744,744,744,"Der Mann galt als „Goldene Hand“ der Familie, seine Fähigkeit, den Überblick zu behalten, war legendär.",2,False,False,False,True
+378,745,745,745,745,"Der Mann galt als ein begabter Handwerker, der mit Geschick und Wagemut auch die schwierigsten Aufträge ausführte.",2,False,False,False,False
+379,746,746,746,746,"Der Mann galt als gut situiert, aber er war nicht glücklich.",0,False,False,False,False
+380,747,747,747,747,"Der Mann galt als sehr umgänglich, zuverlässig, ehrgeizig und zielstrebig.",2,False,False,False,False
+381,748,748,748,748,"Der Mann galt als gutmütiger, aber auch berechnender und harter Arbeiter.",2,False,False,False,False
+382,749,749,749,749,Der Mann galt als ein großer Denker und wurde als „Kronprinz“ bezeichnet.,2,False,False,False,False
+383,750,750,750,750,Der Mann galt als sehr ordentlich und hatte einen guten Geschmack.,2,False,False,False,False
+384,751,751,751,751,Der Mann galt als einer der reichsten Männer der Welt.,2,False,False,False,False
+385,752,752,752,752,"Der Mann galt als der Mann, der die Welt verbessern wollte.",2,False,False,False,False
+386,753,753,753,753,"Der Mann galt als einer der reichsten Männer der Welt, doch er hatte ein Geheimnis.",0,False,False,False,False
+387,754,754,754,754,"Der Mann galt als ein sehr guter Geschäftsmann, war aber auch sehr sensibel.",2,False,False,False,False
+388,755,755,755,755,"Der Mann galt als der wichtigste Mann der Stadt und als der erste, der die Stadt mit den Füssen...",2,False,False,False,False
+389,756,756,756,756,"Der Mann galt als der „Vater“ der deutschen Wirtschaft, war ein „Boss“ der „alten Schule“ und ein „Mann mit Prinzipien“.",0,False,False,False,False
+390,757,757,757,757,"Der Mann galt als der ""Mann des Jahrhunderts"".",2,False,False,False,False
+391,758,758,758,758,"Der Mann galt als ein begnadeter Koch, der auch für die Zubereitung von Speisen bestens geeignet war.",2,False,False,False,False
+392,759,759,759,759,Der Mann galt als „der Beste der Welt“ – und ist doch ein ganz anderer.,2,False,False,False,False
+393,760,760,760,760,Der Mann galt als einer der reichsten Männer Deutschlands.,0,False,False,False,False
+394,761,761,761,761,Der Mann galt als einer der besten Kaufleute des Mittelalters.,0,False,False,False,False
+395,762,762,762,762,"Der Mann galt als ein intelligenter, aber auch ein berechnender und berechnender Mann.",2,False,False,False,False
+396,763,763,763,763,Der Mann galt als „der“ Mann der ersten Stunde und hatte maßgeblichen Anteil an der Gründung des Deutschen Reiches im Jahre 1871.,0,False,False,False,False
+397,764,764,764,764,Der Mann galt als der „Vater des deutschen Weins“.,2,False,False,False,False
+398,765,765,765,765,"Der Mann galt als besonders zuverlässig, aber auch als sehr eigenwillig und eigensinnig.",0,False,False,False,False
+399,766,766,766,766,"Der Mann galt als guter Kenner der Stadt Kempten, der die Stadt und ihre Bewohner kannte.",2,False,False,False,False
+400,767,767,767,767,"Der Mann galt als sehr zuverlässig, freundlich und fleißig.",2,False,False,False,False
+401,768,768,768,768,Der Mann galt als Meister des Weinhandels.,0,False,False,False,False
+402,769,769,769,769,"Der Mann galt als gutaussehend, intelligent, gebildet und zuverlässig.",2,False,False,False,False
+403,770,770,770,770,Der Mann galt als einer der größten Kaufleute des Mittelalters.,0,False,False,False,False
+404,771,771,771,771,"Der Mann galt als zuverlässig, gutaussehend und war ein sehr geselliger Mensch.",2,False,False,False,False
+405,772,772,772,772,"Der Mann galt als einer der größten Unternehmer der Region, doch seine Firma ging Pleite.",0,False,False,False,False
+406,773,773,773,773,Der Mann galt als der größte und erfolgreichste deutsche Unternehmer.,2,False,False,False,False
+407,774,774,774,774,"Der Mann galt als der größte Unternehmer der Welt, der auch als „Maler der Allgäuer Berge“ bezeichnet wurde.",2,False,False,False,False
+408,775,775,775,775,"Der Mann galt als ein guter Mensch, der die Menschen liebte und sich für sie einsetzte.",2,False,False,False,False
+409,776,776,776,776,"Der Mann galt als ein kluger Mann, aber er war auch ein Mann, der viel sprach.",2,False,False,False,False
+410,777,777,777,777,"Der Mann galt als gutaussehend, gutausgebildet und hatte gute Manieren.",2,False,False,False,False
+411,778,778,778,778,Der Mann galt als einer der bedeutendsten Baumeister des späten Mittelalters und der frühen Neuzeit.,2,False,False,False,False
+412,779,779,779,779,"Der Mann galt als der größte deutsche Politiker, als er am 30.",0,False,False,False,False
+413,780,780,780,780,Der Mann galt als einer der besten und angesehensten Männer der Stadt.,2,False,False,False,False
+414,781,781,781,781,"Der Mann galt als sehr klug, hatte aber auch einen Hang zum Schrulligen.",2,False,False,False,False
+415,782,782,782,782,"Der Mann galt als einer der besten Kenner der Stadt, der auch die meisten Geschichten über die Stadt und ihre Geschichte zu erzählen wusste.",2,False,False,False,False
+416,783,783,783,783,"Der Mann galt als ein Mann, der in vielen Bereichen seines Lebens zu Hause war.",2,False,False,False,False
+417,784,784,784,784,Der Mann galt als einer der besten Händler der Stadt und war auch im Bereich des Handels und des Handwerks ein angesehener Mann.,2,False,False,False,False
+418,785,785,785,785,Der Mann galt als der beste und zuverlässigste seiner Zunft.,2,False,False,False,False
+419,786,786,786,786,"Der Mann galt als der ""Mann des Westens"" und wurde als ""Boss der Welt"" verehrt.",2,False,False,False,False
+420,787,787,787,787,Der Mann galt als der bedeutendste deutsche Kaufmann.,0,False,False,False,False
+421,788,788,788,788,Der Mann galt als einer der besten seines Fachs und war auch ein Mann der Tat.,2,False,False,False,False
+422,789,789,789,789,Der Mann galt als der beste Metzger des Landes.,2,False,False,False,False
+423,790,790,790,790,"Der Mann galt als ehrgeizig, aber auch als ein wenig verrückt, der sich für das Wohl des Landes einsetzte.",2,False,False,False,False
+424,791,791,791,791,Der Mann galt als ein guter Verkäufer.,2,False,False,False,False
+425,792,792,792,792,Der Mann galt als der „Mann des 21.,2,False,False,False,False
+426,793,793,793,793,"Der Mann galt als Mann des Handwerks, war ein Meister seines Faches.",2,False,False,False,False
+427,794,794,794,794,"Der Mann galt als Mann des Handels und der Verwaltung, der mit dem nötigen Weitblick und Fingerspitzengefühl für das Ganze eine Vision verfolgte.",2,False,False,False,False
+428,795,795,795,795,"Der Mann galt als der Vater der modernen Wirtschaft, er prägte den Begriff der Sozialen Marktwirtschaft, der die Grundlage der Marktwirtschaft bildete.",2,False,False,False,False
+429,796,796,796,796,Der Mann galt als der größte Scheich der Welt.,0,False,False,False,False
+430,797,797,797,797,Der Mann galt als der Mann der ersten Stunde und ist bis heute ein Synonym für die deutsche Wirtschaft und die Wirtschaft in der Region.,0,False,False,False,False
+431,798,798,798,798,Der Mann galt als der beste Handwerker der Stadt.,2,False,False,False,False
+432,799,799,799,799,Der Mann galt als Mann des Handels.,0,False,False,False,False
+433,800,800,800,800,"Der Mann galt als der größte und mächtigste Händler in Kempten, da er die meisten Waren aus dem Allgäu, dem Allgäuer und Bayerischen Wald, der Schweiz, Tirol und",2,False,False,False,False
+434,801,801,801,801,"Der Mann galt als sehr ehrgeizig, war aber auch sehr ehrgeizig.",2,False,False,False,False
+435,802,802,802,802,"Der Mann galt als ein begabter Handwerker, aber auch als ein begabter und ehrgeiziger Mensch.",2,False,False,False,False
+436,803,803,803,803,Der Mann galt als äußerst erfolgreich.,2,False,False,False,False
+437,804,804,804,804,"Der Mann galt als ehrgeizig, aber nicht als Perfektionist.",2,False,False,False,False
+438,805,805,805,805,"Der Mann galt als ein sehr fleißiger Mann, der mit seinem Fleiß und seiner Ausdauer ein großes Vermögen anhäufen konnte.",2,False,False,False,False
+439,806,806,806,806,Der Mann galt als der größte Baumeister seiner Zeit.,2,False,False,False,False
+440,807,807,807,807,Der Mann galt als besonders ehrgeizig und fleißig.,2,False,False,False,False
+441,808,808,808,808,"Der Mann galt als der Mann, der in der Lage war, den ganzen Hof zu verwalten.",2,False,False,False,False
+442,809,809,809,809,"Der Mann galt als ein Mann der Tat und der Diplomat, der die Interessen des Landes vertrat, war nicht nur ein Diplomat, sondern auch ein Diplomat in eigener Sache.",2,False,False,False,False
+443,810,810,810,810,Der Mann galt als zuverlässig und stand für den Zusammenhalt der Familie.,2,False,False,False,True
+444,811,811,811,811,Der Mann galt als „Mann der tausend Talente“.,2,False,False,False,False
+445,812,812,812,812,Der Mann galt als einer der besten seines Faches.,2,False,False,False,False
+446,813,813,813,813,"Der Mann galt als der Mann, der die Welt verändern wollte.",2,False,False,False,False
+447,814,814,814,814,"Der Mann galt als sehr umsichtig, gewissenhaft und zuverlässig.",2,False,False,False,False
+448,815,815,815,815,"Der Mann galt als sehr zuverlässig, aber auch als etwas eigenwillig.",0,False,False,False,False
+449,816,816,816,816,Der Mann galt als der größte Mann des Mittelalters.,0,False,False,False,False
+450,817,817,817,817,Der Mann galt als der „Mann der kleinen Dinge“ und als „Kümmerer der Armen“.,0,False,False,False,False
+451,818,818,818,818,Der Mann galt als der „gute Mann von Lindau“.,2,False,False,False,False
+452,819,819,819,819,"Der Mann galt als ein Mann, der seine Frau liebte, ihr aber auch das Leben zur Hölle machte, wenn sie ihm etwas bedeutete.",0,False,False,False,False
+453,820,820,820,820,Der Mann galt als der beste Freund des Königs.,2,False,False,False,False
+454,821,821,821,821,"Der Mann galt als der Vater der bayerischen Küche, seine Küche war international.",2,False,False,False,False
+455,822,822,822,822,Der Mann galt als sehr ehrgeizig und zielstrebig.,2,False,False,False,False
+456,823,823,823,823,Der Mann galt als sehr fleißig und war sehr fleißig.,2,False,False,False,False
+457,824,824,824,824,"Der Mann galt als zuverlässig und vertrauenswürdig, aber auch als ehrgeizig.",2,False,False,False,False
+458,825,825,825,825,"Der Mann galt als der erste deutsche Kaiser, der in Kempten geboren wurde.",2,False,False,False,False
+459,826,826,826,826,Der Mann galt als einer der bedeutendsten deutschen Dramatiker des 19.,2,False,False,False,False
+460,827,827,827,827,"Der Mann galt als ein Mann des Wortes, als ein Mann, der sich für die Belange des Volkes einsetzte.",2,False,False,False,False
+461,828,828,828,828,Der Mann galt als sehr ehrgeizig und begab sich immer wieder auf die Suche nach neuen Herausforderungen.,2,False,False,False,False
+462,829,829,829,829,Der Mann galt als einer der reichsten Männer der Welt.,2,False,False,False,False
+463,830,830,830,830,"Der Mann galt als besonders fleißig, zuverlässig, aber auch als ein wenig eigenwillig.",2,False,False,False,False
+464,831,831,831,831,Der Mann galt als einer der größten deutschen Kaufleute und als „Vater der bayerischen Wirtschaft“.,2,False,False,False,False
+465,832,832,832,832,"Der Mann galt als der Mann, der als erster die Idee hatte, ein eigenes Unternehmen zu gründen und sich so ein zweites Standbein aufzubauen.",2,False,False,False,False
+466,833,833,833,833,"Der Mann galt als ein Mann der Tat, der mit dem Herzen dabei war und den Kopf nicht nur über die Dinge, sondern auch über das Geld hatte.",2,False,False,False,False
+467,834,834,834,834,"Der Mann galt als ein Mann, der in seiner Freizeit sehr viel Sport betrieben hat.",2,False,False,False,False
+468,935,935,935,935,Der Mann arbeitete als Zimmermann und war von Beruf Kaufmann.,0,True,False,False,False
+469,936,936,936,936,Der Mann arbeitete als Schreiner und war für die Herstellung von Möbeln und Fenstern zuständig.,1,True,False,False,False
+470,937,937,937,937,Der Mann arbeitete als Schlosser und Schlossermeister.,1,True,False,False,False
+471,938,938,938,938,"Der Mann arbeitete als Schlosser, aber auch als Zimmermann und als Maurer.",0,True,False,False,False
+472,939,939,939,939,Der Mann arbeitete als Kaufmann in einer Fabrik.,0,True,False,False,False
+473,940,940,940,940,Der Mann arbeitete als Zimmermann und war für die Planung und den Bau von...,1,True,False,False,False
+474,941,941,941,941,"Der Mann arbeitete als Koch, aber er hatte ein Faible für gute Küche.",2,True,False,False,False
+475,942,942,942,942,"Der Mann arbeitete als Schreiner, bis er mit 22 Jahren eine Anstellung als Schlosser bekam.",1,True,False,False,False
+476,943,943,943,943,Der Mann arbeitete als Zimmermann in einem Holzhandel in Kempten und war in der Küche tätig.,1,True,False,False,False
+477,944,944,944,944,Der Mann arbeitete als Lagerist in einem großen Unternehmen.,1,True,False,False,False
+478,945,945,945,945,Der Mann arbeitete als Metzger in einer Fleischerei.,0,True,False,False,False
+479,946,946,946,946,Der Mann arbeitete als Koch im Hotel.,1,True,False,False,False
+480,947,947,947,947,Der Mann arbeitete als Buchhalter in einem großen Unternehmen und war in der Buchhaltung tätig.,1,True,False,False,False
+481,948,948,948,948,Der Mann arbeitete als Angestellter in einem großen Unternehmen und als selbstständiger Unternehmer.,1,True,False,False,False
+482,949,949,949,949,Der Mann arbeitete als Zimmerer und Zimmermann und war mit der Verwaltung des Hauses betraut.,0,True,False,False,False
+483,950,950,950,950,Der Mann arbeitete als Koch in einem Hotel in Kempten.,2,True,False,False,False
+484,951,951,951,951,Der Mann arbeitete als Hausierer in einem Gasthaus in Kempten.,1,True,False,False,False
+485,952,952,952,952,"Der Mann arbeitete als Kaufmann im Groß- und Außenhandel, in der Industrie, als Angestellter im Baugewerbe und als Bauzeichner.",0,True,False,False,False
+486,953,953,953,953,Der Mann arbeitete als Hausmeister und Kellermeister.,1,True,False,False,False
+487,954,954,954,954,Der Mann arbeitete als Schlosser in Kempten.,1,True,False,False,False
+488,955,955,955,955,Der Mann arbeitete als Hausmeister und war auch als Koch in einer Gaststätte tätig.,1,True,False,False,False
+489,956,956,956,956,Der Mann arbeitete als Koch in einem Hotel in Kempten.,2,True,False,False,False
+490,957,957,957,957,Der Mann arbeitete als Angestellter in einem Büro und war damit zufrieden.,2,True,False,False,False
+491,958,958,958,958,Der Mann arbeitete als Zimmermann und war mit der Leitung eines kleinen Unternehmens betraut.,1,True,False,False,False
+492,959,959,959,959,"Der Mann arbeitete als Kaufmann und hatte die Aufgabe, die Geschäfte der Familie zu führen.",2,True,False,False,True
+493,960,960,960,960,"Der Mann arbeitete als Kaufmann in einem großen Unternehmen, das sich auf die Produktion von Baustoffen spezialisiert hatte.",1,True,False,False,False
+494,961,961,961,961,Der Mann arbeitete als Zimmermann in einer großen Firma.,1,True,False,False,False
+495,962,962,962,962,Der Mann arbeitete als Angestellter im elterlichen Betrieb.,1,True,False,False,False
+496,963,963,963,963,Der Mann arbeitete als Zimmermann.,1,True,False,False,False
+497,964,964,964,964,Der Mann arbeitete als Schlosser und war auf dem Bau tätig.,1,True,False,False,False
+498,965,965,965,965,Der Mann arbeitete als Zimmermann und wurde später als Buchhalter eingestellt.,0,True,False,False,False
+499,966,966,966,966,Der Mann arbeitete als Zimmerer in einem Zimmereibetrieb und wurde im Alter von 22 Jahren zum Geschäftsführer bestellt.,1,True,False,False,False
+500,967,967,967,967,Der Mann arbeitete als Schreiner und als Buchbinder.,1,True,False,False,False
+501,968,968,968,968,"Der Mann arbeitete als Kaufmann und später als Direktor des Kaufhauses, das er mit seinem Bruder und dessen Frau, die er in der damaligen Zeit geheiratet hatte, gemeinsam leitete.",0,True,False,False,False
+502,969,969,969,969,Der Mann arbeitete als Maurer.,1,True,False,False,False
+503,970,970,970,970,"Der Mann arbeitete als Hausierer, als Zimmermann, als Tischler, als Schreiner und als Zimmerer.",1,True,False,False,False
+504,971,971,971,971,Der Mann arbeitete als Buchhalter in einem Warenhaus.,1,True,False,False,False
+505,972,972,972,972,"Der Mann arbeitete als Zimmermann, als er eine Frau kennen lernte.",1,True,False,False,False
+506,973,973,973,973,"Der Mann arbeitete als Kaufmann, war aber auch als Schreiner tätig.",0,True,False,False,False
+507,974,974,974,974,"Der Mann arbeitete als Zimmermann in der Landwirtschaft, als er eine Frau kennenlernte, die ihm zu einer anderen beruflichen Tätigkeit verhilft.",1,True,False,False,False
+508,975,975,975,975,Der Mann arbeitete als Hausmeister in einem Altersheim.,1,True,False,False,False
+509,976,976,976,976,"Der Mann arbeitete als Hauswart, war aber auch im Büro tätig.",1,True,False,False,False
+510,977,977,977,977,Der Mann arbeitete als Kaufmann im Einzelhandel.,1,True,False,False,False
+511,978,978,978,978,Der Mann arbeitete als Koch in einem Restaurant in Kempten.,1,True,False,False,False
+512,979,979,979,979,Der Mann arbeitete als Metzger und war ein guter Verkäufer.,2,True,False,False,False
+513,980,980,980,980,Der Mann arbeitete als Zimmermann und war mit seiner Frau im Allgäu.,1,True,False,False,False
+514,981,981,981,981,"Der Mann arbeitete als Lagerist, doch mit der Zeit entwickelte sich sein Hobby zum Beruf.",1,True,False,False,False
+515,982,982,982,982,"Der Mann arbeitete als Schlosser, als Schlosser und als Schlossermeister.",0,True,False,False,False
+516,983,983,983,983,Der Mann arbeitete als Kaufmann und wurde zum Kaufmann.,0,True,False,False,False
+517,984,984,984,984,"Der Mann arbeitete als Zimmermann, er war verheiratet und hatte einen Sohn.",1,True,False,False,True
+518,985,985,985,985,Der Mann arbeitete als Zimmermann und war auf dem Bau in der Region tätig.,1,True,False,False,False
+519,986,986,986,986,Der Mann arbeitete als Angestellter im Lager.,1,True,False,False,False
+520,987,987,987,987,Der Mann arbeitete als Maurer und Zimmerer.,1,True,False,False,False
+521,988,988,988,988,Der Mann arbeitete als Zimmerer und war als Dachdecker im Baugewerbe tätig.,1,True,False,False,False
+522,989,989,989,989,Der Mann arbeitete als Schlosser und war Mitglied im Gemeinderat.,1,True,False,False,False
+523,990,990,990,990,Der Mann arbeitete als Verkäufer in einem Bekleidungsgeschäft.,1,True,False,False,False
+524,991,991,991,991,"Der Mann arbeitete als Metzger, als Bäcker und als Koch.",1,True,False,False,False
+525,992,992,992,992,Der Mann arbeitete als Zimmerer und war in einer Schreinerei in Kempten tätig.,1,True,False,False,False
+526,993,993,993,993,Der Mann arbeitete als Buchhalter und wurde in der Buchhaltung eingesetzt.,1,True,False,False,False
+527,994,994,994,994,Der Mann arbeitete als Zimmerer und war im elterlichen Betrieb beschäftigt.,1,True,False,False,False
+528,995,995,995,995,"Der Mann arbeitete als Schlosser, war aber auch als Maurer tätig.",0,True,False,False,False
+529,996,996,996,996,"Der Mann arbeitete als Schlosser, Schlosser und Mechaniker.",0,True,False,False,False
+530,997,997,997,997,Der Mann arbeitete als Koch im Restaurant eines Hotels in Kempten.,1,True,False,False,False
+531,998,998,998,998,Der Mann arbeitete als Hausknecht und war auch bei den Kindern als Putzmann tätig.,0,True,False,False,True
+532,999,999,999,999,"Der Mann arbeitete als Verkäufer im Einzelhandel, als er sich im Alter von 21 Jahren mit dem Gedanken trug, die Firma zu verkaufen.",1,True,False,False,False
+533,1000,1000,1000,1000,Der Mann arbeitete als Kaufmann.,1,True,False,False,False
+534,1001,1001,1001,1001,Der Mann arbeitete als Hausmeister in einem Altenheim.,1,True,False,False,False
+535,1002,1002,1002,1002,Der Mann arbeitete als Kaufmann in einem kleinen Unternehmen in Kempten.,1,True,False,False,False
+536,1003,1003,1003,1003,"Der Mann arbeitete als Kaufmann im Groß- und Einzelhandel, wo er auch seine Liebe zum Wein entdeckte.",2,True,False,False,False
+537,1004,1004,1004,1004,"Der Mann arbeitete als Verkäufer, als Kassierer und im Verkauf.",1,True,False,False,False
+538,1005,1005,1005,1005,Der Mann arbeitete als Kaufmann in einer Fabrik in Kempten.,1,True,False,False,False
+539,1006,1006,1006,1006,Der Mann arbeitete als Schlosser und hatte einen eigenen kleinen Betrieb.,1,True,False,False,False
+540,1007,1007,1007,1007,"Der Mann arbeitete als Schreiner und Zimmerer, aber auch als Zimmerermeister.",1,True,False,False,False
+541,1008,1008,1008,1008,Der Mann arbeitete als Schlosser in einem kleinen Betrieb.,1,True,False,False,False
+542,1009,1009,1009,1009,"Der Mann arbeitete als Zimmerer, Schlosser und Elektriker.",1,True,False,False,False
+543,1010,1010,1010,1010,Der Mann arbeitete als Schlosser in einem Sägewerk und war im zweiten Weltkrieg in der Waffen-SS.,0,True,False,False,False
+544,1011,1011,1011,1011,"Der Mann arbeitete als Zimmermann, bis er die Liebe zum Kochen entdeckte.",1,True,False,False,False
+545,1012,1012,1012,1012,"Der Mann arbeitete als Koch, er war verheiratet und hatte drei Kinder.",0,True,False,False,True
+546,1013,1013,1013,1013,Der Mann arbeitete als Bau- und Möbeltischler.,1,True,False,False,False
+547,1014,1014,1014,1014,Der Mann arbeitete als Schreiner in einem kleinen Ort im Allgäu.,1,True,False,False,False
+548,1015,1015,1015,1015,Der Mann arbeitete als Schreiner und kam als Tischlermeister nach Kempten.,1,True,False,False,False
+549,1016,1016,1016,1016,"Der Mann arbeitete als Angestellter bei der Firma, die er gegründet hatte.",1,True,False,False,False
+550,1017,1017,1017,1017,Der Mann arbeitete als Zimmermann in einem kleinen Betrieb in Kempten und hatte eine kleine Tochter.,1,True,False,False,True
+551,1018,1018,1018,1018,Der Mann arbeitete als Zimmerer und hatte einen guten Ruf.,2,True,False,False,False
+552,1019,1019,1019,1019,Der Mann arbeitete als Koch und brachte sich auch in der Küche ein.,1,True,False,False,False
+553,1020,1020,1020,1020,"Der Mann arbeitete als Schlosser, war aber auch im öffentlichen Dienst tätig.",1,True,False,False,False
+554,1021,1021,1021,1021,Der Mann arbeitete als Zimmerer und Zimmermeister.,1,True,False,False,False
+555,1022,1022,1022,1022,"Der Mann arbeitete als Hausierer, doch nach dem Tod seiner Frau, die in den Wirren des Krieges in Russland verschollen war, begann er, in der Küche zu arbeiten",0,True,False,False,False
+556,1023,1023,1023,1023,"Der Mann arbeitete als Hausierer, Gärtner, Gärtnermeister, Landwirt, Landwirt, Gärtner, Landwirt, Gärtner, Landwirt, Gärtner, Gärtner, Gärtner, Gärtner, Gärtnermeister",2,True,False,False,False
+557,1024,1024,1024,1024,"Der Mann arbeitete als Zimmermann, er war sehr ehrgeizig, aber auch sehr fleißig und fleißig.",2,True,False,False,False
+558,1025,1025,1025,1025,Der Mann arbeitete als Hausmeister.,1,True,False,False,False
+559,1026,1026,1026,1026,Der Mann arbeitete als Kaufmann im Einzelhandel.,1,True,False,False,False
+560,1027,1027,1027,1027,"Der Mann arbeitete als Zimmermann, als Schlosser, als Schlosser, als Schlosser, als Schlossermeister, als Schlossermeister, als Schlossermeister.",2,True,False,False,False
+561,1028,1028,1028,1028,Der Mann arbeitete als Zimmermann und war in der Werkstatt.,1,True,False,False,False
+562,1029,1029,1029,1029,Der Mann arbeitete als Kaufmann in einem Unternehmen in Kempten.,1,True,False,False,False
+563,1030,1030,1030,1030,"Der Mann arbeitete als Zimmerer, doch im Laufe der Zeit entwickelte er sich zu einem wahren Künstler und schuf viele Skulpturen.",2,True,False,False,False
+564,1031,1031,1031,1031,"Der Mann arbeitete als Gärtner in einer Gärtnerei, als er auf eine Stelle als Gärtner in einem Kaufhaus stieß.",1,True,False,False,False
+565,1032,1032,1032,1032,Der Mann arbeitete als Koch in einem Hotel.,1,True,False,False,False
+566,1033,1033,1033,1033,Der Mann arbeitete als Zimmermann.,1,True,False,False,False
+567,1034,1034,1034,1034,"Der Mann arbeitete als Kaufmann, er war ein guter Verkäufer und er hatte ein gutes Gespür für die Menschen.",2,True,False,False,False
+568,1135,1135,1135,1135,"Der Mann hatte einen Job als Buchhalter, aber er hatte nicht das Geld, um seine Frau zu heiraten.",0,True,False,False,False
+569,1136,1136,1136,1136,Der Mann hatte einen Job als Zimmermädchen.,1,True,False,False,False
+570,1137,1137,1137,1137,Der Mann hatte einen Job als Lagerist.,1,True,False,False,False
+571,1138,1138,1138,1138,"Der Mann hatte einen Job als Koch und eine Familie, die ihn unterstützte.",2,True,False,False,True
+572,1139,1139,1139,1139,"Der Mann hatte einen Job als Kaufmann, doch in seiner Freizeit war er als Hobby-Fotograf unterwegs.",1,True,False,False,False
+573,1140,1140,1140,1140,Der Mann hatte einen Job als Zimmermann in einer Werkstatt in Kempten.,1,True,False,False,False
+574,1141,1141,1141,1141,Der Mann hatte einen Job als Metzger.,1,True,False,False,False
+575,1142,1142,1142,1142,Der Mann hatte einen Job als Hausmeister.,1,True,False,False,False
+576,1143,1143,1143,1143,"Der Mann hatte einen Job als Lagerist, der ihn in die ganze Welt führte.",2,True,False,False,False
+577,1144,1144,1144,1144,Der Mann hatte einen Job als Hausmeister in einem Kaufhaus in Kempten.,1,True,False,False,False
+578,1145,1145,1145,1145,Der Mann hatte einen Job als Gärtner und war mit einem Mädchen zusammen.,1,True,False,False,False
+579,1146,1146,1146,1146,Der Mann hatte einen Job als Koch in einem Hotel in München.,1,True,False,False,False
+580,1147,1147,1147,1147,Der Mann hatte einen Job als Hausmeister in einem Altenheim und hatte immer einen Vorrat an Bier.,0,True,False,False,False
+581,1148,1148,1148,1148,"Der Mann hatte einen Job als Verkäufer, der ihm auch Spaß machte.",2,True,False,False,False
+582,1149,1149,1149,1149,"Der Mann hatte einen Job als Zimmerer, doch dann wurde er zum Obdachlosen.",0,True,False,False,False
+583,1150,1150,1150,1150,Der Mann hatte einen Job als Hausmeister.,1,True,False,False,False
+584,1151,1151,1151,1151,Der Mann hatte einen Job als Koch und er liebte es zu kochen.,2,True,False,False,False
+585,1152,1152,1152,1152,"Der Mann hatte einen Job als Zimmerer, der ihm allerdings nicht wirklich gefiel.",0,True,False,False,False
+586,1153,1153,1153,1153,Der Mann hatte einen Job als Zimmerer und war sehr zufrieden.,2,True,False,False,False
+587,1154,1154,1154,1154,Der Mann hatte einen Job als Schreiner.,1,True,False,False,False
+588,1155,1155,1155,1155,Der Mann hatte einen Job als Kassierer in einem Hotel.,1,True,False,False,False
+589,1156,1156,1156,1156,Der Mann hatte einen Job als Verkäufer in einem Kaufhaus.,1,True,False,False,False
+590,1157,1157,1157,1157,Der Mann hatte einen Job als Verkäufer in einem kleinen Warenhaus.,1,True,False,False,False
+591,1158,1158,1158,1158,"Der Mann hatte einen Job als Hausmeister in einem Hotel, war aber auch als Kellner tätig.",1,True,False,False,False
+592,1159,1159,1159,1159,Der Mann hatte einen Job als Schlosser und als Schlossermeister.,1,True,False,False,False
+593,1160,1160,1160,1160,Der Mann hatte einen Job als Metzger und war mit einem Kollegen in einem Keller in Kempten.,0,True,False,False,False
+594,1161,1161,1161,1161,Der Mann hatte einen Job als Bauleiter in einer Baufirma in Kempten.,1,True,False,False,False
+595,1162,1162,1162,1162,Der Mann hatte einen Job als Lagerist in einem großen Unternehmen.,1,True,False,False,False
+596,1163,1163,1163,1163,"Der Mann hatte einen Job als Kaufmann, als er vor 30 Jahren zum ersten Mal in die Wohnung eines Mannes im Alter von 63 Jahren einstieg, der sich nicht mehr an",1,True,False,False,False
+597,1164,1164,1164,1164,"Der Mann hatte einen Job als Zimmermädchen, als Verkäufer in einem Supermarkt und als Verkäufer im Kiosk.",1,True,False,False,False
+598,1165,1165,1165,1165,Der Mann hatte einen Job als Kassierer in einem Kaufhaus.,1,True,False,False,False
+599,1166,1166,1166,1166,"Der Mann hatte einen Job als Kellnerin, das ist nicht das, was er gesucht hat.",1,True,False,False,False
+600,1167,1167,1167,1167,"Der Mann hatte einen Job als Metzger und war in der Regel mit seinem Auto unterwegs, um seinen Kunden die Ware zu bringen.",0,True,False,False,False
+601,1168,1168,1168,1168,"Der Mann hatte einen Job als Zimmermann, der ihm aber nur noch wenig Spaß machte.",0,True,False,False,False
+602,1169,1169,1169,1169,Der Mann hatte einen Job als Koch in einem Restaurant in Kempten.,1,True,False,False,False
+603,1170,1170,1170,1170,"Der Mann hatte einen Job als Bauleiter in der Baubranche, war verheiratet und hatte zwei Kinder.",1,True,False,False,True
+604,1171,1171,1171,1171,Der Mann hatte einen Job als Zimmerer.,1,True,False,False,False
+605,1172,1172,1172,1172,Der Mann hatte einen Job als Hausierer in einem Gasthof.,1,True,False,False,False
+606,1173,1173,1173,1173,Der Mann hatte einen Job als Schlosser.,1,True,False,False,False
+607,1174,1174,1174,1174,Der Mann hatte einen Job als Schlosser in einer kleinen Stadt.,1,True,False,False,False
+608,1175,1175,1175,1175,"Der Mann hatte einen Job als Kassierer im Supermarkt, der ihm aber zu langweilig wurde.",0,True,False,False,False
+609,1176,1176,1176,1176,"Der Mann hatte einen Job als Lagerist in einem großen Unternehmen und dort wurde er von einer Kollegin angesprochen, ob er nicht auch Interesse hätte, in einer Metzgerei zu arbeiten",1,True,False,False,False
+610,1177,1177,1177,1177,"Der Mann hatte einen Job als Koch, war in der Gastronomie tätig und konnte sich auch als Koch verwirklichen.",2,True,False,False,False
+611,1178,1178,1178,1178,"Der Mann hatte einen Job als Lagerist, dann einen, der ihm nicht gefiel.",0,True,False,False,False
+612,1179,1179,1179,1179,Der Mann hatte einen Job als Bauingenieur und war auf der Suche nach einer neuen Herausforderung.,1,True,False,False,False
+613,1180,1180,1180,1180,Der Mann hatte einen Job als Zimmerer.,1,True,False,False,False
+614,1181,1181,1181,1181,Der Mann hatte einen Job als Gärtner und ein Haus in der Nähe von Kempten.,1,True,False,False,False
+615,1182,1182,1182,1182,Der Mann hatte einen Job als Zimmermann.,1,True,False,False,False
+616,1183,1183,1183,1183,Der Mann hatte einen Job als Schlosser und war auf der Suche nach einer neuen Herausforderung.,1,True,False,False,False
+617,1184,1184,1184,1184,Der Mann hatte einen Job als Gärtner.,1,True,False,False,False
+618,1185,1185,1185,1185,Der Mann hatte einen Job als Bauarbeiter.,1,True,False,False,False
+619,1186,1186,1186,1186,Der Mann hatte einen Job als Zimmermann.,1,True,False,False,False
+620,1187,1187,1187,1187,Der Mann hatte einen Job als Hausierer in einer kleinen Stadt in der Nähe von Kempten.,1,True,False,False,False
+621,1188,1188,1188,1188,"Der Mann hatte einen Job als Kassierer, und war in einem Geschäft als Verkäufer angestellt.",1,True,False,False,False
+622,1189,1189,1189,1189,"Der Mann hatte einen Job als Kaufmann, aber er war auch ein Mann, der sich in der Welt herumgetrieben hat, um zu sehen, ob es noch andere Menschen gab",0,True,False,False,False
+623,1190,1190,1190,1190,Der Mann hatte einen Job als Zimmermädchen.,1,True,False,False,False
+624,1191,1191,1191,1191,Der Mann hatte einen Job als Lagerarbeiter.,1,True,False,False,False
+625,1192,1192,1192,1192,Der Mann hatte einen Job als Schreiner.,1,True,False,False,False
+626,1193,1193,1193,1193,Der Mann hatte einen Job als Buchhalter.,1,True,False,False,False
+627,1194,1194,1194,1194,"Der Mann hatte einen Job als Hausmeister, er war aber auch im Verkauf tätig.",1,True,False,False,False
+628,1195,1195,1195,1195,Der Mann hatte einen Job als Verkäufer.,1,True,False,False,False
+629,1196,1196,1196,1196,Der Mann hatte einen Job als Gärtner und war für die Pflanzenpflege zuständig.,1,True,False,False,False
+630,1197,1197,1197,1197,Der Mann hatte einen Job als Hausmeister.,1,True,False,False,False
+631,1198,1198,1198,1198,"Der Mann hatte einen Job als Buchhalter, der ihm aber nicht gefiel, weil er zu wenig Verantwortung übernahm.",0,True,False,False,False
+632,1199,1199,1199,1199,Der Mann hatte einen Job als Hauswart.,1,True,False,False,False
+633,1200,1200,1200,1200,"Der Mann hatte einen Job als Zimmerer, doch dann kam die Scheidung, und er musste seine Frau zurücklassen.",0,True,False,False,False
+634,1201,1201,1201,1201,"Der Mann hatte einen Job als Schreiner in der Stadt, die Frau war Hausfrau und Mutter.",1,True,False,False,True
+635,1202,1202,1202,1202,"Der Mann hatte einen Job als Schlosser, eine Frau als Zimmermädchen.",0,True,False,False,False
+636,1203,1203,1203,1203,Der Mann hatte einen Job als Kassierer.,1,True,False,False,False
+637,1204,1204,1204,1204,"Der Mann hatte einen Job als Kassierer in einem Kaufhaus und war von der Arbeit so gelangweilt, dass er eine Stelle als Aushilfe in einem Warenhaus in Kauf nahm.",0,True,False,False,False
+638,1205,1205,1205,1205,Der Mann hatte einen Job als Koch.,1,True,False,False,False
+639,1206,1206,1206,1206,Der Mann hatte einen Job als Metzger.,1,True,False,False,False
+640,1207,1207,1207,1207,Der Mann hatte einen Job als Schlosser.,1,True,False,False,False
+641,1208,1208,1208,1208,Der Mann hatte einen Job als Schlosser.,1,True,False,False,False
+642,1209,1209,1209,1209,Der Mann hatte einen Job als Koch in einem Restaurant.,1,True,False,False,False
+643,1210,1210,1210,1210,Der Mann hatte einen Job als Bauleiter in Kempten.,1,True,False,False,False
+644,1211,1211,1211,1211,Der Mann hatte einen Job als Schreiner in einem kleinen Allgäuer Dorf.,1,True,False,False,False
+645,1212,1212,1212,1212,Der Mann hatte einen Job als Hausmeister.,1,True,False,False,False
+646,1213,1213,1213,1213,Der Mann hatte einen Job als Kellner.,1,True,False,False,False
+647,1214,1214,1214,1214,"Der Mann hatte einen Job als Hausmeister, der ihm Spaß machte, aber nicht den ganzen Tag.",0,True,False,False,False
+648,1215,1215,1215,1215,"Der Mann hatte einen Job als Schlosser und war mit dem Geld, das er verdient hat, immer sehr zufrieden.",2,True,False,False,False
+649,1216,1216,1216,1216,Der Mann hatte einen Job als Kellner.,1,True,False,False,False
+650,1217,1217,1217,1217,Der Mann hatte einen Job als Hausmeister in einem Seniorenheim.,1,True,False,False,False
+651,1218,1218,1218,1218,Der Mann hatte einen Job als Lagerist.,1,True,False,False,False
+652,1219,1219,1219,1219,Der Mann hatte einen Job als Kellner.,1,True,False,False,False
+653,1220,1220,1220,1220,Der Mann hatte einen Job als Koch in einem Restaurant in Kempten.,1,True,False,False,False
+654,1221,1221,1221,1221,Der Mann hatte einen Job als Schlosser.,1,True,False,False,False
+655,1222,1222,1222,1222,Der Mann hatte einen Job als Hausmeister.,1,True,False,False,False
+656,1223,1223,1223,1223,Der Mann hatte einen Job als Koch und ein Haus mit einem Garten in der Nähe von Kempten.,1,True,False,False,False
+657,1224,1224,1224,1224,"Der Mann hatte einen Job als Hausierer, als er nach Hause kam, fand er eine Flasche Wein und ein paar Flaschen, die er in den Keller stellen wollte.",0,True,False,False,False
+658,1225,1225,1225,1225,"Der Mann hatte einen Job als Hausmeister, der ihm nicht so viel Spaß machte.",0,True,False,False,False
+659,1226,1226,1226,1226,"Der Mann hatte einen Job als Kaufmann, als er in Rente ging.",1,True,False,False,False
+660,1227,1227,1227,1227,"Der Mann hatte einen Job als Buchhalter, als er seine Frau kennenlernte, war er so frustriert, dass er beschloss, eine Familie zu gründen.",0,True,False,False,True
+661,1228,1228,1228,1228,"Der Mann hatte einen Job als Kaufmann, der ihm nicht gefiel, deshalb wechselte er zu einem anderen Unternehmen.",0,True,False,False,False
+662,1229,1229,1229,1229,Der Mann hatte einen Job als Zimmermann.,1,True,False,False,False
+663,1230,1230,1230,1230,Der Mann hatte einen Job als Zimmermann.,1,True,False,False,False
+664,1231,1231,1231,1231,Der Mann hatte einen Job als Buchhalter.,1,True,False,False,False
+665,1232,1232,1232,1232,"Der Mann hatte einen Job als Koch in einem Gasthaus, der Mann hatte eine Wohnung in einem Hotel.",1,True,False,False,False
+666,1233,1233,1233,1233,"Der Mann hatte einen Job als Lagerist, aber es war nicht genug für den Lebensunterhalt.",0,True,False,False,False
+667,1234,1234,1234,1234,Der Mann hatte einen Job als Verkäufer in einer Tankstelle.,1,True,False,False,False
+668,1335,1335,1335,1335,"Der Mann hatte eine Teilzeitstelle als Gärtner und war im Winter auch schon mal auf dem Bau, aber das war es auch schon.",1,True,False,False,False
+669,1336,1336,1336,1336,"Der Mann hatte eine Teilzeitstelle als Schlosser und war als solcher im ganzen Allgäu, in Österreich, in der Schweiz, in Frankreich, in England und in den USA tätig",2,True,False,False,False
+670,1337,1337,1337,1337,Der Mann hatte eine Teilzeitstelle als Schlosser.,0,True,False,False,False
+671,1338,1338,1338,1338,Der Mann hatte eine Teilzeitstelle als Lagerist in Kempten.,1,True,False,False,False
+672,1339,1339,1339,1339,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem Supermarkt.,1,True,False,False,False
+673,1340,1340,1340,1340,Der Mann hatte eine Teilzeitstelle als Verkäufer.,1,True,False,False,False
+674,1341,1341,1341,1341,Der Mann hatte eine Teilzeitstelle als Koch in einem Restaurant in Kempten angenommen.,1,True,False,False,False
+675,1342,1342,1342,1342,Der Mann hatte eine Teilzeitstelle als Gärtner und war auf der Suche nach einer neuen Herausforderung.,1,True,False,False,False
+676,1343,1343,1343,1343,Der Mann hatte eine Teilzeitstelle als Koch in einem Restaurant.,1,True,False,False,False
+677,1344,1344,1344,1344,Der Mann hatte eine Teilzeitstelle als Hausmeister.,1,True,False,False,False
+678,1345,1345,1345,1345,Der Mann hatte eine Teilzeitstelle als Verkäufer.,1,True,False,False,False
+679,1346,1346,1346,1346,"Der Mann hatte eine Teilzeitstelle als Lagerist, die er jedoch nur ein Jahr lang ausübte.",0,True,False,False,False
+680,1347,1347,1347,1347,Der Mann hatte eine Teilzeitstelle als Kellnerin.,1,True,False,False,False
+681,1348,1348,1348,1348,"Der Mann hatte eine Teilzeitstelle als Kassierer und war in der Lage, die anfallenden Arbeiten im Bereich der Buchhaltung zu erledigen.",2,True,False,False,False
+682,1349,1349,1349,1349,"Der Mann hatte eine Teilzeitstelle als Verkäufer, die er nach der Geburt seines Sohnes aufgegeben hat.",1,True,False,False,True
+683,1350,1350,1350,1350,"Der Mann hatte eine Teilzeitstelle als Lagerarbeiter in einem Lebensmittelbetrieb, wo er von früh bis spät schuftete.",0,True,False,False,False
+684,1351,1351,1351,1351,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+685,1352,1352,1352,1352,Der Mann hatte eine Teilzeitstelle als Hauswart.,1,True,False,False,False
+686,1353,1353,1353,1353,"Der Mann hatte eine Teilzeitstelle als Kassierer in einem Restaurant in Kempten, als er auf einem Parkplatz vor dem Haus von zwei Männern angesprochen wurde.",1,True,False,False,False
+687,1354,1354,1354,1354,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem Baumarkt.,1,True,False,False,False
+688,1355,1355,1355,1355,Der Mann hatte eine Teilzeitstelle als Verkäufer.,1,True,False,False,False
+689,1356,1356,1356,1356,Der Mann hatte eine Teilzeitstelle als Hausmeister in einem Seniorenheim.,1,True,False,False,False
+690,1357,1357,1357,1357,Der Mann hatte eine Teilzeitstelle als Kassierer in einem Kaufhaus.,1,True,False,False,False
+691,1358,1358,1358,1358,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+692,1359,1359,1359,1359,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+693,1360,1360,1360,1360,Der Mann hatte eine Teilzeitstelle als Verkäufer und war damit sehr zufrieden.,2,True,False,False,False
+694,1361,1361,1361,1361,Der Mann hatte eine Teilzeitstelle als Hausmeister in Kempten.,1,True,False,False,False
+695,1362,1362,1362,1362,Der Mann hatte eine Teilzeitstelle als Buchhalter in einem Unternehmen.,1,True,False,False,False
+696,1363,1363,1363,1363,Der Mann hatte eine Teilzeitstelle als Koch.,1,True,False,False,False
+697,1364,1364,1364,1364,Der Mann hatte eine Teilzeitstelle als Buchhalter bei einem Unternehmen.,1,True,False,False,False
+698,1365,1365,1365,1365,Der Mann hatte eine Teilzeitstelle als Lagerist und war seit über zehn Jahren im Lagerdienst tätig.,2,True,False,False,False
+699,1366,1366,1366,1366,Der Mann hatte eine Teilzeitstelle als Koch und war in der Gastronomie tätig.,1,True,False,False,False
+700,1367,1367,1367,1367,Der Mann hatte eine Teilzeitstelle als Kassierer und war in der Stadt sehr bekannt und geschätzt.,2,True,False,False,False
+701,1368,1368,1368,1368,Der Mann hatte eine Teilzeitstelle als Hausierer.,1,True,False,False,False
+702,1369,1369,1369,1369,Der Mann hatte eine Teilzeitstelle als Kaufmann in einem Kaufhaus in Kempten.,1,True,False,False,False
+703,1370,1370,1370,1370,Der Mann hatte eine Teilzeitstelle als Buchhalter.,1,True,False,False,False
+704,1371,1371,1371,1371,Der Mann hatte eine Teilzeitstelle als Kassierer in einem Restaurant in Kempten.,1,True,False,False,False
+705,1372,1372,1372,1372,Der Mann hatte eine Teilzeitstelle als Hausmeister.,1,True,False,False,False
+706,1373,1373,1373,1373,Der Mann hatte eine Teilzeitstelle als Hausmeister.,1,True,False,False,False
+707,1374,1374,1374,1374,Der Mann hatte eine Teilzeitstelle als Buchhalter.,1,True,False,False,False
+708,1375,1375,1375,1375,Der Mann hatte eine Teilzeitstelle als Kassierer und war sehr fleißig.,2,True,False,False,False
+709,1376,1376,1376,1376,Der Mann hatte eine Teilzeitstelle als Hausmeister.,1,True,False,False,False
+710,1377,1377,1377,1377,Der Mann hatte eine Teilzeitstelle als Schlosser.,0,True,False,False,False
+711,1378,1378,1378,1378,Der Mann hatte eine Teilzeitstelle als Buchhalter.,1,True,False,False,False
+712,1379,1379,1379,1379,Der Mann hatte eine Teilzeitstelle als Lagerist und war seit einem Jahr bei einem großen Unternehmen in Kempten.,1,True,False,False,False
+713,1380,1380,1380,1380,Der Mann hatte eine Teilzeitstelle als Sachbearbeiter in einem großen Unternehmen.,1,True,False,False,False
+714,1381,1381,1381,1381,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem Elektrogeschäft.,1,True,False,False,False
+715,1382,1382,1382,1382,Der Mann hatte eine Teilzeitstelle als Hauswart.,1,True,False,False,False
+716,1383,1383,1383,1383,"Der Mann hatte eine Teilzeitstelle als Lagerist in einem Unternehmen, in dem er als Lagerist tätig war.",1,True,False,False,False
+717,1384,1384,1384,1384,Der Mann hatte eine Teilzeitstelle als Verkäufer.,1,True,False,False,False
+718,1385,1385,1385,1385,Der Mann hatte eine Teilzeitstelle als Verkäufer.,1,True,False,False,False
+719,1386,1386,1386,1386,"Der Mann hatte eine Teilzeitstelle als Koch, die er nach der Geburt seiner Tochter im Jahr 2012 nicht mehr ausfüllte.",0,True,False,False,True
+720,1387,1387,1387,1387,"Der Mann hatte eine Teilzeitstelle als Kassierer in einem Kaufhaus angenommen, wo er sich um die Kunden kümmerte.",2,True,False,False,False
+721,1388,1388,1388,1388,Der Mann hatte eine Teilzeitstelle als Lagerist und war auf der Suche nach einer neuen Herausforderung.,1,True,False,False,False
+722,1389,1389,1389,1389,"Der Mann hatte eine Teilzeitstelle als Schlosser, die er mit seinem Engagement und seiner Leidenschaft für die Gastronomie ergänzt hat.",2,True,False,False,False
+723,1390,1390,1390,1390,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+724,1391,1391,1391,1391,Der Mann hatte eine Teilzeitstelle als Hausmeister in einem Hotel in Kempten.,1,True,False,False,False
+725,1392,1392,1392,1392,Der Mann hatte eine Teilzeitstelle als Lagerist in Kempten.,1,True,False,False,False
+726,1393,1393,1393,1393,Der Mann hatte eine Teilzeitstelle als Koch in einem Hotel.,1,True,False,False,False
+727,1394,1394,1394,1394,Der Mann hatte eine Teilzeitstelle als Zimmerer.,1,True,False,False,False
+728,1395,1395,1395,1395,Der Mann hatte eine Teilzeitstelle als Koch in einem Hotel.,1,True,False,False,False
+729,1396,1396,1396,1396,Der Mann hatte eine Teilzeitstelle als Hausierer.,1,True,False,False,False
+730,1397,1397,1397,1397,Der Mann hatte eine Teilzeitstelle als Koch und war in einem Hotel in Kempten beschäftigt.,1,True,False,False,False
+731,1398,1398,1398,1398,"Der Mann hatte eine Teilzeitstelle als Verkäufer in einem kleinen Lebensmittelgeschäft in Kempten, als er in den 1980er Jahren von der Drogeriekette dm nach Kempten versetzt wurde.",1,True,False,False,False
+732,1399,1399,1399,1399,Der Mann hatte eine Teilzeitstelle als Zimmerer.,1,True,False,False,False
+733,1400,1400,1400,1400,Der Mann hatte eine Teilzeitstelle als Kassierer in einem Supermarkt.,1,True,False,False,False
+734,1401,1401,1401,1401,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+735,1402,1402,1402,1402,Der Mann hatte eine Teilzeitstelle als Hausmeister in einem Alten- und Pflegeheim.,1,True,False,False,True
+736,1403,1403,1403,1403,Der Mann hatte eine Teilzeitstelle als Hausmeister.,1,True,False,False,False
+737,1404,1404,1404,1404,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+738,1405,1405,1405,1405,Der Mann hatte eine Teilzeitstelle als Lagerist bei einem großen Unternehmen.,1,True,False,False,False
+739,1406,1406,1406,1406,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+740,1407,1407,1407,1407,Der Mann hatte eine Teilzeitstelle als Lagerist in einer Firma in Kempten.,1,True,False,False,False
+741,1408,1408,1408,1408,Der Mann hatte eine Teilzeitstelle als Hausmeister.,1,True,False,False,False
+742,1409,1409,1409,1409,"Der Mann hatte eine Teilzeitstelle als Kaufmann, die er aber aufgeben musste, weil er sich in der Arbeit verloren hatte.",0,True,False,False,False
+743,1410,1410,1410,1410,Der Mann hatte eine Teilzeitstelle als Lagerist und war für den Wareneingang zuständig.,0,True,False,False,False
+744,1411,1411,1411,1411,Der Mann hatte eine Teilzeitstelle als Gärtner und war bei der Stadt Kempten beschäftigt.,1,True,False,False,False
+745,1412,1412,1412,1412,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem Fachgeschäft.,1,True,False,False,False
+746,1413,1413,1413,1413,"Der Mann hatte eine Teilzeitstelle als Lagerist, der Frau war eine Vollzeitstelle in der Verwaltung zugewiesen worden.",1,True,False,False,False
+747,1414,1414,1414,1414,Der Mann hatte eine Teilzeitstelle als Lagerist bei der Firma R.,1,True,False,False,False
+748,1415,1415,1415,1415,Der Mann hatte eine Teilzeitstelle als Verkäufer bei der Firma „Kemptener“ in Kempten.,1,True,False,False,False
+749,1416,1416,1416,1416,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem Möbelhaus.,1,True,False,False,False
+750,1417,1417,1417,1417,"Der Mann hatte eine Teilzeitstelle als Kaufmann, die Frau war Hausfrau und Mutter.",1,True,False,False,True
+751,1418,1418,1418,1418,Der Mann hatte eine Teilzeitstelle als Hausmeister in einem Hotel in Kempten.,1,True,False,False,False
+752,1419,1419,1419,1419,Der Mann hatte eine Teilzeitstelle als Kaufmann in einem Elektrogeschäft in Kempten und war an verschiedenen Standorten in der Region tätig.,1,True,False,False,False
+753,1420,1420,1420,1420,Der Mann hatte eine Teilzeitstelle als Gärtner und war auf der Suche nach einer neuen Herausforderung.,1,True,False,False,False
+754,1421,1421,1421,1421,"Der Mann hatte eine Teilzeitstelle als Schlosser, doch da er auch als Schlosser gearbeitet hatte, war er nur noch für den Keller zuständig.",0,True,False,False,False
+755,1422,1422,1422,1422,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem Kaufhaus.,1,True,False,False,False
+756,1423,1423,1423,1423,Der Mann hatte eine Teilzeitstelle als Verkäufer in einem kleinen Supermarkt.,1,True,False,False,False
+757,1424,1424,1424,1424,Der Mann hatte eine Teilzeitstelle als Hausmeister im Alten- und Pflegeheim in Kempten.,1,True,False,False,True
+758,1425,1425,1425,1425,Der Mann hatte eine Teilzeitstelle als Kaufmann und war seit drei Jahren auf der Suche nach einer Vollzeitstelle.,1,True,False,False,False
+759,1426,1426,1426,1426,"Der Mann hatte eine Teilzeitstelle als Verkäufer, die er nach dem Tod seines Vaters übernahm.",1,True,False,False,False
+760,1427,1427,1427,1427,Der Mann hatte eine Teilzeitstelle als Kassierer und war sehr zufrieden.Er war auch sehr nett und zuvorkommend.,2,True,False,False,False
+761,1428,1428,1428,1428,Der Mann hatte eine Teilzeitstelle als Lagerist.,1,True,False,False,False
+762,1429,1429,1429,1429,Der Mann hatte eine Teilzeitstelle als Verkäufer.,1,True,False,False,False
+763,1430,1430,1430,1430,Der Mann hatte eine Teilzeitstelle als Koch und war für die Reinigung des Hauses zuständig.,1,True,False,False,False
+764,1431,1431,1431,1431,"Der Mann hatte eine Teilzeitstelle als Hausmeister in einem kleinen, sehr netten und kleinen Betrieb.",1,True,False,False,False
+765,1432,1432,1432,1432,Der Mann hatte eine Teilzeitstelle als Koch.,1,True,False,False,False
+766,1433,1433,1433,1433,Der Mann hatte eine Teilzeitstelle als Lagerarbeiter.,1,True,False,False,False
+767,1434,1434,1434,1434,Der Mann hatte eine Teilzeitstelle als Zimmerer.,1,True,False,False,False
+768,1535,1535,1535,1535,"Der Mann verdiente Geld, indem er im Laden seines Vaters, in dem auch seine Mutter arbeitete, Getränke verkaufte.",1,True,False,False,False
+769,1536,1536,1536,1536,"Der Mann verdiente Geld, indem er sich mit dem Verkauf von Waren, der Vermietung von Räumen und dem Verteilen von Zeitungen beschäftigte.",1,True,False,False,False
+770,1537,1537,1537,1537,"Der Mann verdiente Geld, indem er das Geld für andere Leute verkaufte.",0,True,False,False,False
+771,1538,1538,1538,1538,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+772,1539,1539,1539,1539,"Der Mann verdiente Geld, indem er im Schlosshof und auf den umliegenden Feldern das Holz für die Gebäude sammelte.",1,True,False,False,False
+773,1540,1540,1540,1540,"Der Mann verdiente Geld, indem er in einem Laden in Kempten, in dem er als Verkäufer tätig war, seine Ware anbot.",2,True,False,False,False
+774,1541,1541,1541,1541,"Der Mann verdiente Geld, indem er Güter verkaufte, die er für andere Leute gekauft hatte.",0,True,False,False,False
+775,1542,1542,1542,1542,"Der Mann verdiente Geld, indem er für andere Menschen arbeitete.",0,True,False,False,False
+776,1543,1543,1543,1543,"Der Mann verdiente Geld, indem er in der Stadt Kempten als Stadtrichter arbeitete.",1,True,False,False,False
+777,1544,1544,1544,1544,"Der Mann verdiente Geld, indem er in der Gastronomie arbeitete.",1,True,False,False,False
+778,1545,1545,1545,1545,"Der Mann verdiente Geld, indem er Waren und Dienstleistungen verkaufte.",1,True,False,False,False
+779,1546,1546,1546,1546,"Der Mann verdiente Geld, indem er im Weinhandel, in der Gastronomie und im Hotel tätig war.",1,True,False,False,False
+780,1547,1547,1547,1547,"Der Mann verdiente Geld, indem er auf dem Markt verkaufte und den Verkaufserlös ausgab, wenn es ihm nicht gelang, ein neues Geschäft zu eröffnen.",1,True,False,False,False
+781,1548,1548,1548,1548,"Der Mann verdiente Geld, indem er seine Waren verkaufte.",1,True,False,False,False
+782,1549,1549,1549,1549,"Der Mann verdiente Geld, indem er die Geschäfte seiner Familie führte.",1,True,False,False,True
+783,1550,1550,1550,1550,"Der Mann verdiente Geld, indem er die Leute auf den Straßen mit Lebensmitteln versorgte.",0,True,False,False,True
+784,1551,1551,1551,1551,"Der Mann verdiente Geld, indem er sich mit seinen Freunden auf der Straße traf und sich mit ihnen über die neuesten Neuigkeiten unterhielt.Er war stets auf der Suche nach neuen",1,True,False,False,False
+785,1552,1552,1552,1552,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+786,1553,1553,1553,1553,"Der Mann verdiente Geld, indem er Waren verkaufte, die er nicht selbst hergestellt hatte.",0,True,False,False,False
+787,1554,1554,1554,1554,"Der Mann verdiente Geld, indem er die Güter veräußerte, die er nicht selbst bewirtschaftete.",0,True,False,False,False
+788,1555,1555,1555,1555,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+789,1556,1556,1556,1556,"Der Mann verdiente Geld, indem er andere Leute ansprach, sie über den Tisch zog und sie um ihr Geld brachte.",0,True,False,False,False
+790,1557,1557,1557,1557,"Der Mann verdiente Geld, indem er die Waren verkaufte, die er bei sich zu Hause anbot.",2,True,False,False,False
+791,1558,1558,1558,1558,"Der Mann verdiente Geld, indem er mit dem Fahrrad durch die Gegend fuhr.",1,True,False,False,False
+792,1559,1559,1559,1559,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+793,1560,1560,1560,1560,"Der Mann verdiente Geld, indem er die Waren von A nach B transportierte.",1,True,False,False,False
+794,1561,1561,1561,1561,"Der Mann verdiente Geld, indem er sich um die Bedürfnisse der Menschen kümmerte, indem er ihnen half, ihr Leben zu meistern und in ihrem Beruf erfolgreich zu sein.",2,True,False,False,False
+795,1562,1562,1562,1562,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+796,1563,1563,1563,1563,"Der Mann verdiente Geld, indem er die Waren verkaufte, die er auf dem Markt fand.",1,True,False,False,False
+797,1564,1564,1564,1564,"Der Mann verdiente Geld, indem er die Waren an den Mann brachte.",2,True,False,False,False
+798,1565,1565,1565,1565,"Der Mann verdiente Geld, indem er Waren ankaufte, die er in seiner Werkstatt selbst herstellte.",0,True,False,False,False
+799,1566,1566,1566,1566,"Der Mann verdiente Geld, indem er die Sachen anderer Leute verkaufte.",0,True,False,False,False
+800,1567,1567,1567,1567,"Der Mann verdiente Geld, indem er den Leuten in der Stadt das Geld aus der Tasche zog.",0,True,False,False,False
+801,1568,1568,1568,1568,"Der Mann verdiente Geld, indem er in den Häusern, in denen er arbeitete, die Waren verkaufte.",1,True,False,False,False
+802,1569,1569,1569,1569,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+803,1570,1570,1570,1570,"Der Mann verdiente Geld, indem er in der Landwirtschaft tätig war, im Handwerk und als Händler.",1,True,False,False,False
+804,1571,1571,1571,1571,"Der Mann verdiente Geld, indem er die Waren von einem Ort zum anderen brachte und dafür Waren von anderen Orten einkaufte.",0,True,False,False,False
+805,1572,1572,1572,1572,"Der Mann verdiente Geld, indem er für seine Kunden in der Stadt Kempten (Allgäu) die Waren verkaufte.",2,True,False,False,False
+806,1573,1573,1573,1573,"Der Mann verdiente Geld, indem er Waren verkaufte und Waren an andere weitergab.",0,True,False,False,False
+807,1574,1574,1574,1574,"Der Mann verdiente Geld, indem er die Waren verkaufte, die er in seinem Keller hatte.",0,True,False,False,False
+808,1575,1575,1575,1575,"Der Mann verdiente Geld, indem er die Waren kaufte, die die Bauern verkauften.",1,True,False,False,False
+809,1576,1576,1576,1576,"Der Mann verdiente Geld, indem er auf den Märkten Waren anbot und verkaufte.",1,True,False,False,False
+810,1577,1577,1577,1577,"Der Mann verdiente Geld, indem er Waren verkaufte und sie in den Geschäften, in denen er tätig war, verkaufte.",1,True,False,False,False
+811,1578,1578,1578,1578,"Der Mann verdiente Geld, indem er die Produkte in den Läden verkaufte.",1,True,False,False,False
+812,1579,1579,1579,1579,"Der Mann verdiente Geld, indem er auf den Märkten, in der Stadt und auf dem Land seine Waren verkaufte.",1,True,False,False,False
+813,1580,1580,1580,1580,"Der Mann verdiente Geld, indem er für die Leute im Dorf einkaufte.",1,True,False,False,False
+814,1581,1581,1581,1581,"Der Mann verdiente Geld, indem er Güter verkaufte und tauschte.",0,True,False,False,False
+815,1582,1582,1582,1582,"Der Mann verdiente Geld, indem er Waren und Dienstleistungen anbot.",2,True,False,False,False
+816,1583,1583,1583,1583,"Der Mann verdiente Geld, indem er die Menschen in den Kellern der Stadt Kempten zu den verschiedensten Geschäften mitbrachte.",2,True,False,False,False
+817,1584,1584,1584,1584,"Der Mann verdiente Geld, indem er für seine Kunden Dienstleistungen im Bereich der Immobilienvermittlung erbrachte.",1,True,False,False,False
+818,1585,1585,1585,1585,"Der Mann verdiente Geld, indem er Güter verkaufte, um sie zu Geld zu machen.",0,True,False,False,False
+819,1586,1586,1586,1586,"Der Mann verdiente Geld, indem er das Geld anderer Leute aus dem Tresor klaute.",0,True,False,False,False
+820,1587,1587,1587,1587,"Der Mann verdiente Geld, indem er für verschiedene Unternehmen arbeitete.",1,True,False,False,False
+821,1588,1588,1588,1588,"Der Mann verdiente Geld, indem er die Ware von der Stadt zum Markt brachte.",1,True,False,False,False
+822,1589,1589,1589,1589,"Der Mann verdiente Geld, indem er Waren aus dem Allgäu, dem Elsass und aus Frankreich verkaufte.",0,True,False,False,False
+823,1590,1590,1590,1590,"Der Mann verdiente Geld, indem er die Güter der Kaufleute verkaufte.",0,True,False,False,False
+824,1591,1591,1591,1591,"Der Mann verdiente Geld, indem er in der Stadt Kempten und Umgebung die verschiedensten Geschäfte betrieb.",1,True,False,False,False
+825,1592,1592,1592,1592,"Der Mann verdiente Geld, indem er Waren verkaufte und dabei in Kauf nahm, dass sie nicht immer einwandfrei waren.",0,True,False,False,False
+826,1593,1593,1593,1593,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+827,1594,1594,1594,1594,"Der Mann verdiente Geld, indem er sich als Zimmermann und Schlosser, aber auch als Goldschmied, als Bäcker und als Schneider betätigte.",0,True,False,False,False
+828,1595,1595,1595,1595,"Der Mann verdiente Geld, indem er in verschiedenen Geschäften arbeitete.",1,True,False,False,False
+829,1596,1596,1596,1596,"Der Mann verdiente Geld, indem er in der Gastronomie arbeitete.",1,True,False,False,False
+830,1597,1597,1597,1597,"Der Mann verdiente Geld, indem er im Winter für andere Leute arbeitete.",0,True,False,False,False
+831,1598,1598,1598,1598,"Der Mann verdiente Geld, indem er in der Küche und im Verkauf arbeitete.",1,True,False,False,False
+832,1599,1599,1599,1599,"Der Mann verdiente Geld, indem er im Keller des Kaufmanns arbeitete.",0,True,False,False,False
+833,1600,1600,1600,1600,"Der Mann verdiente Geld, indem er sich um andere kümmerte.",2,True,False,False,False
+834,1601,1601,1601,1601,"Der Mann verdiente Geld, indem er in der Stadt Kempten in der Landwirtschaft arbeitete.",1,True,False,False,False
+835,1602,1602,1602,1602,"Der Mann verdiente Geld, indem er die Ware verkaufte.",1,True,False,False,False
+836,1603,1603,1603,1603,"Der Mann verdiente Geld, indem er sich als Händler, Kaufmann, Handwerker, Künstler, Architekt und als Berater verdingte.",2,True,False,False,False
+837,1604,1604,1604,1604,"Der Mann verdiente Geld, indem er Waren verkaufte, die er in seinem Keller in Kempten aufbewahrte.",2,True,False,False,False
+838,1605,1605,1605,1605,"Der Mann verdiente Geld, indem er Waren verkaufte, die er im Keller aufbewahrte.",0,True,False,False,False
+839,1606,1606,1606,1606,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+840,1607,1607,1607,1607,"Der Mann verdiente Geld, indem er den Wert von Edelsteinen und Schmuckgegenständen ermittelte, um sie dann weiter zu verkaufen.",2,True,False,False,False
+841,1608,1608,1608,1608,"Der Mann verdiente Geld, indem er sich als Handwerker, Kaufmann oder Kaufmann selbstständig machte.",0,True,False,False,False
+842,1609,1609,1609,1609,"Der Mann verdiente Geld, indem er in die Stadt fuhr und verkaufte.",1,True,False,False,False
+843,1610,1610,1610,1610,"Der Mann verdiente Geld, indem er für seine Kunden Waren kaufte.",2,True,False,False,False
+844,1611,1611,1611,1611,"Der Mann verdiente Geld, indem er Waren verkaufte, die er für sich und seine Familie brauchte.",2,True,False,False,True
+845,1612,1612,1612,1612,"Der Mann verdiente Geld, indem er die Menschen über seine Fähigkeiten informierte und ihnen half, die richtige Entscheidung zu treffen.",2,True,False,False,False
+846,1613,1613,1613,1613,"Der Mann verdiente Geld, indem er die Ware verkaufte und den Kunden einkaufte.",1,True,False,False,False
+847,1614,1614,1614,1614,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+848,1615,1615,1615,1615,"Der Mann verdiente Geld, indem er die Waren in den Gassen des Ortes verkaufte.",1,True,False,False,False
+849,1616,1616,1616,1616,"Der Mann verdiente Geld, indem er andere Menschen mit seinen Fähigkeiten und seinem Wissen ausstattete.",2,True,False,False,False
+850,1617,1617,1617,1617,"Der Mann verdiente Geld, indem er Waren von A nach B brachte.",1,True,False,False,False
+851,1618,1618,1618,1618,"Der Mann verdiente Geld, indem er andere Leute übers Ohr haute, um sich selbst etwas zu gönnen.",0,True,False,False,False
+852,1619,1619,1619,1619,"Der Mann verdiente Geld, indem er mit seinen Waren Waren verkaufte.",1,True,False,False,False
+853,1620,1620,1620,1620,"Der Mann verdiente Geld, indem er das Holz verkaufte, das er für seine Arbeit benötigte.",1,True,False,False,False
+854,1621,1621,1621,1621,"Der Mann verdiente Geld, indem er die Waren von den Bauern kaufte.",1,True,False,False,False
+855,1622,1622,1622,1622,"Der Mann verdiente Geld, indem er sich in einem guten Gasthaus einkaufte.",1,True,False,False,False
+856,1623,1623,1623,1623,"Der Mann verdiente Geld, indem er sich mit Holz und Holzkohle beschäftigte.",1,True,False,False,False
+857,1624,1624,1624,1624,"Der Mann verdiente Geld, indem er Waren und Dienstleistungen verkaufte.",1,True,False,False,False
+858,1625,1625,1625,1625,"Der Mann verdiente Geld, indem er die Waren auf dem Markt verkaufte.",1,True,False,False,False
+859,1626,1626,1626,1626,"Der Mann verdiente Geld, indem er auf den Märkten in der Stadt und auf dem Land die Waren verkaufte.",1,True,False,False,False
+860,1627,1627,1627,1627,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+861,1628,1628,1628,1628,"Der Mann verdiente Geld, indem er im Gasthaus „Zum Goldenen Hirschen“ in Kempten als Kellner arbeitete.",1,True,False,False,False
+862,1629,1629,1629,1629,"Der Mann verdiente Geld, indem er mit den Leuten redete und für sie da war.",2,True,False,False,False
+863,1630,1630,1630,1630,"Der Mann verdiente Geld, indem er in der Stadt Kempten im Allgäu auf Märkten und Festen verkaufte.",1,True,False,False,False
+864,1631,1631,1631,1631,"Der Mann verdiente Geld, indem er sich um das Wohl seiner Kunden kümmerte.",2,True,False,False,False
+865,1632,1632,1632,1632,"Der Mann verdiente Geld, indem er Waren verkaufte.",1,True,False,False,False
+866,1633,1633,1633,1633,"Der Mann verdiente Geld, indem er die Menschen mit einem guten Essen glücklich machte.",2,True,False,False,False
+867,1634,1634,1634,1634,"Der Mann verdiente Geld, indem er die Güter des Klosters verkaufte.",1,True,False,False,False
+868,1735,1735,1735,1735,Der Mann hat eine Stelle angefangen als Kassierer.,1,True,False,False,False
+869,1736,1736,1736,1736,Der Mann hat eine Stelle angefangen als Koch.,1,True,False,False,False
+870,1737,1737,1737,1737,Der Mann hat eine Stelle angefangen als Kassierer im Supermarkt.,1,True,False,False,False
+871,1738,1738,1738,1738,Der Mann hat eine Stelle angefangen als Lagerist und das in einem kleinen Lager.,1,True,False,False,False
+872,1739,1739,1739,1739,Der Mann hat eine Stelle angefangen als Verkäufer und jetzt möchte er sich um das Thema Kundenberatung kümmern.,2,True,False,False,False
+873,1740,1740,1740,1740,Der Mann hat eine Stelle angefangen als Zimmermann und die Arbeit gefällt ihm sehr gut.,1,True,False,False,False
+874,1741,1741,1741,1741,Der Mann hat eine Stelle angefangen als Koch und hat sich dann noch einen zweiten Job gesucht.,1,True,False,False,False
+875,1742,1742,1742,1742,Der Mann hat eine Stelle angefangen als Hauswirtschafter und muss jetzt in die Werkstatt.,1,True,False,False,False
+876,1743,1743,1743,1743,Der Mann hat eine Stelle angefangen als Kaufmann im Einzelhandel.,1,True,False,False,False
+877,1744,1744,1744,1744,Der Mann hat eine Stelle angefangen als Schlosser und ist nun auf der Suche nach einer neuen Stelle.,0,True,False,False,False
+878,1745,1745,1745,1745,"Der Mann hat eine Stelle angefangen als Koch, die Stelle ist aber schon wieder beendet.",1,True,False,False,False
+879,1746,1746,1746,1746,Der Mann hat eine Stelle angefangen als Verkäufer in einem Baumarkt.,1,True,False,False,False
+880,1747,1747,1747,1747,Der Mann hat eine Stelle angefangen als Schreiner.,1,True,False,False,False
+881,1748,1748,1748,1748,"Der Mann hat eine Stelle angefangen als Verkäufer, dann als Tischler, dann als Schreiner, dann als Küchenbauer, dann als Schreinermeister.",0,True,False,False,False
+882,1749,1749,1749,1749,Der Mann hat eine Stelle angefangen als Hausierer.,1,True,False,False,False
+883,1750,1750,1750,1750,Der Mann hat eine Stelle angefangen als Küchenhilfe.,1,True,False,False,False
+884,1751,1751,1751,1751,Der Mann hat eine Stelle angefangen als Gärtner und ist in der Abteilung für Garten- und Landschaftsbau gelandet.,1,True,False,False,False
+885,1752,1752,1752,1752,Der Mann hat eine Stelle angefangen als Schlosser und hat sich dann in die Arbeit des Konditors verliebt.,1,True,False,False,False
+886,1753,1753,1753,1753,Der Mann hat eine Stelle angefangen als Buchhalter.,1,True,False,False,False
+887,1754,1754,1754,1754,Der Mann hat eine Stelle angefangen als Koch im Hotel.,1,True,False,False,False
+888,1755,1755,1755,1755,Der Mann hat eine Stelle angefangen als Verkäufer im Einzelhandel.,1,True,False,False,False
+889,1756,1756,1756,1756,Der Mann hat eine Stelle angefangen als Kaufmann.,1,True,False,False,False
+890,1757,1757,1757,1757,Der Mann hat eine Stelle angefangen als Lagerist.,1,True,False,False,False
+891,1758,1758,1758,1758,Der Mann hat eine Stelle angefangen als Elektriker.,1,True,False,False,False
+892,1759,1759,1759,1759,Der Mann hat eine Stelle angefangen als Schreiner.,1,True,False,False,False
+893,1760,1760,1760,1760,Der Mann hat eine Stelle angefangen als Koch und hat sich in die Frau verliebt.,1,True,False,False,False
+894,1761,1761,1761,1761,Der Mann hat eine Stelle angefangen als Buchhalter in einer Bank.,1,True,False,False,False
+895,1762,1762,1762,1762,"Der Mann hat eine Stelle angefangen als Schreiner, dann ist er in die Küche gewechselt.",1,True,False,False,False
+896,1763,1763,1763,1763,Der Mann hat eine Stelle angefangen als er sich in der Stadt Kempten bewirbt.,1,True,False,False,False
+897,1764,1764,1764,1764,Der Mann hat eine Stelle angefangen als Lagerist.,1,True,False,False,False
+898,1765,1765,1765,1765,"Der Mann hat eine Stelle angefangen als Elektriker, hat sich dann aber für die kaufmännische Lehre entschieden.",1,True,False,False,False
+899,1766,1766,1766,1766,"Der Mann hat eine Stelle angefangen als Koch, aber das kann man sich ja nicht aussuchen.",1,True,False,False,False
+900,1767,1767,1767,1767,Der Mann hat eine Stelle angefangen als Schreiner.,1,True,False,False,False
+901,1768,1768,1768,1768,Der Mann hat eine Stelle angefangen als Aushilfe im Supermarkt und ist dann zum ersten Mal mit einem Kunden in Kontakt gekommen.,2,True,False,False,False
+902,1769,1769,1769,1769,Der Mann hat eine Stelle angefangen als er in den Keller kam.,1,True,False,False,False
+903,1770,1770,1770,1770,"Der Mann hat eine Stelle angefangen als Verkäufer, hat aber keine Lust mehr.",0,True,False,False,False
+904,1771,1771,1771,1771,"Der Mann hat eine Stelle angefangen als Koch, hat sich aber dann nach einem Jahr umentschieden.",1,True,False,False,False
+905,1772,1772,1772,1772,"Der Mann hat eine Stelle angefangen als Kaufmann im Einzelhandel und hat die Ausbildung erfolgreich abgeschlossen.Er ist sehr fleißig, fleißig und fleißig.Er hat ein gepflegtes Äußeres, ist",2,True,False,False,False
+906,1773,1773,1773,1773,Der Mann hat eine Stelle angefangen als Lagerarbeiter und dann kam eine Stelle als Lagerarbeiter hinzu.,1,True,False,False,False
+907,1774,1774,1774,1774,"Der Mann hat eine Stelle angefangen als Zimmermann, die Stelle aber nicht bekommen.",0,True,False,False,False
+908,1775,1775,1775,1775,Der Mann hat eine Stelle angefangen als Verkäufer in einem Möbelhaus und dann in einer anderen Firma.,1,True,False,False,False
+909,1776,1776,1776,1776,"Der Mann hat eine Stelle angefangen als Koch in einem Restaurant, aber er hat sich auf einen anderen Job beworben, in dem er in der Küche gearbeitet hat.",1,True,False,False,False
+910,1777,1777,1777,1777,Der Mann hat eine Stelle angefangen als Kaufmann im Einzelhandel.,1,True,False,False,False
+911,1778,1778,1778,1778,"Der Mann hat eine Stelle angefangen als Küchenhilfe, aber es ist nichts für ihn.",0,True,False,False,False
+912,1779,1779,1779,1779,"Der Mann hat eine Stelle angefangen als Lagerist und hat sich dann für die Stelle als Lagerist entschieden, da er in der Arbeit mit Menschen sehr zufrieden ist.",2,True,False,False,False
+913,1780,1780,1780,1780,Der Mann hat eine Stelle angefangen als Schlosser.,0,True,False,False,False
+914,1781,1781,1781,1781,"Der Mann hat eine Stelle angefangen als Maurer, dann hat er sich aber mit der Zeit immer mehr in die Baubranche eingearbeitet und hat jetzt ein Büro in Kempten.",1,True,False,False,False
+915,1782,1782,1782,1782,Der Mann hat eine Stelle angefangen als Verkäufer.,1,True,False,False,False
+916,1783,1783,1783,1783,"Der Mann hat eine Stelle angefangen als Lagerist, die er dann auch erfolgreich beendet hat.",2,True,False,False,False
+917,1784,1784,1784,1784,"Der Mann hat eine Stelle angefangen als Lagerist in einem großen Unternehmen, doch jetzt ist er krank und muss zu Hause bleiben.",0,True,False,False,False
+918,1785,1785,1785,1785,"Der Mann hat eine Stelle angefangen als Hausierer, ist aber nur noch bis zum 25.02.",1,True,False,False,False
+919,1786,1786,1786,1786,"Der Mann hat eine Stelle angefangen als Verkäufer in einem Supermarkt, hat dann aber gemerkt, dass ihm das nicht so liegt und er hat sich nach einer anderen Stelle umgesehen.",1,True,False,False,False
+920,1787,1787,1787,1787,Der Mann hat eine Stelle angefangen als Verkäufer in einem Restaurant.,1,True,False,False,False
+921,1788,1788,1788,1788,"Der Mann hat eine Stelle angefangen als Koch, aber dann hat er gemerkt, dass er nicht so richtig glücklich damit ist und ist auf den Geschmack gekommen und hat sich dann um",0,True,False,False,False
+922,1789,1789,1789,1789,Der Mann hat eine Stelle angefangen als Aushilfe in einem Hotel.,1,True,False,False,False
+923,1790,1790,1790,1790,Der Mann hat eine Stelle angefangen als Kaufmann im Einzelhandel.,1,True,False,False,False
+924,1791,1791,1791,1791,"Der Mann hat eine Stelle angefangen als Schlosser, als er aber die Ausbildung nicht abgeschlossen hat, wurde er arbeitslos und hat die Stelle verloren.",0,True,False,False,False
+925,1792,1792,1792,1792,Der Mann hat eine Stelle angefangen als Elektriker in einem Altenheim.,1,True,False,False,False
+926,1793,1793,1793,1793,Der Mann hat eine Stelle angefangen als Küchenhilfe und hat sich dann bei uns beworben.,1,True,False,False,False
+927,1794,1794,1794,1794,Der Mann hat eine Stelle angefangen als Maurer in Kempten.,1,True,False,False,False
+928,1795,1795,1795,1795,Der Mann hat eine Stelle angefangen als Koch.,1,True,False,False,False
+929,1796,1796,1796,1796,Der Mann hat eine Stelle angefangen als Lagerist.,1,True,False,False,False
+930,1797,1797,1797,1797,Der Mann hat eine Stelle angefangen als Schlosser und ist jetzt in der Abteilung für Metallverarbeitung.,0,True,False,False,False
+931,1798,1798,1798,1798,Der Mann hat eine Stelle angefangen als Kaufmann.,1,True,False,False,False
+932,1799,1799,1799,1799,Der Mann hat eine Stelle angefangen als Koch und hat sich dann als Kaufmann beworben.,1,True,False,False,False
+933,1800,1800,1800,1800,"Der Mann hat eine Stelle angefangen als Aushilfe in einem Restaurant, dann hat er sich selbstständig gemacht und ist jetzt in der Gastronomie tätig.",1,True,False,False,False
+934,1801,1801,1801,1801,Der Mann hat eine Stelle angefangen als Kassierer.,1,True,False,False,False
+935,1802,1802,1802,1802,Der Mann hat eine Stelle angefangen als Zimmermann und hat dort auch schon Erfahrungen gesammelt.,1,True,False,False,False
+936,1803,1803,1803,1803,"Der Mann hat eine Stelle angefangen als Kaufmann, aber er hat sich schon während der Ausbildung für eine andere Stelle entschieden, da er mit der Tätigkeit als Kaufmann nicht zufrieden war.",0,True,False,False,False
+937,1804,1804,1804,1804,"Der Mann hat eine Stelle angefangen als Verkäufer, hat aber gekündigt, weil er nicht mehr zufrieden war.",0,True,False,False,False
+938,1805,1805,1805,1805,"Der Mann hat eine Stelle angefangen als Zimmerer, aber als er das erste Mal den Keller betrat, war er schockiert.",0,True,False,False,False
+939,1806,1806,1806,1806,Der Mann hat eine Stelle angefangen als Gärtner.,1,True,False,False,False
+940,1807,1807,1807,1807,Der Mann hat eine Stelle angefangen als Maurer.,1,True,False,False,False
+941,1808,1808,1808,1808,"Der Mann hat eine Stelle angefangen als Zimmerer, dann ist er in den kaufmännischen Bereich gewechselt.",1,True,False,False,False
+942,1809,1809,1809,1809,"Der Mann hat eine Stelle angefangen als Kaufmann, und ist nicht zufrieden.",0,True,False,False,False
+943,1810,1810,1810,1810,"Der Mann hat eine Stelle angefangen als Kaufmann, die Frau als Sekretärin.",1,True,False,False,False
+944,1811,1811,1811,1811,"Der Mann hat eine Stelle angefangen als Schreiner, dann kam der Chef und hat gesagt, das ist nichts für mich.",1,True,False,False,False
+945,1812,1812,1812,1812,"Der Mann hat eine Stelle angefangen als Aushilfe, aber der Chef hat gesagt: ""Der hat eine Stelle angefangen als Aushilfe und da hat er uns gesagt, dass er",1,True,False,False,False
+946,1813,1813,1813,1813,"Der Mann hat eine Stelle angefangen als Kaufmann, die Stelle hat er aber nicht angenommen.",0,True,False,False,False
+947,1814,1814,1814,1814,"Der Mann hat eine Stelle angefangen als Kassierer, die er nicht bekommen hat, weil er schwul ist.",0,True,False,False,False
+948,1815,1815,1815,1815,Der Mann hat eine Stelle angefangen als Lagerist und dann wurde er mit der Beförderung zum Lagerleiter beauftragt.Er ist ein sehr guter Mitarbeiter und hat schon viele Erfahrungen in der,2,True,False,False,False
+949,1816,1816,1816,1816,Der Mann hat eine Stelle angefangen als Maurer.,1,True,False,False,False
+950,1817,1817,1817,1817,Der Mann hat eine Stelle angefangen als Aushilfe im Verkauf.,1,True,False,False,False
+951,1818,1818,1818,1818,Der Mann hat eine Stelle angefangen als Schlosser.,0,True,False,False,False
+952,1819,1819,1819,1819,"Der Mann hat eine Stelle angefangen als Koch, die ist aber schnell wieder weg.",0,True,False,False,False
+953,1820,1820,1820,1820,Der Mann hat eine Stelle angefangen als Verkäufer.,1,True,False,False,False
+954,1821,1821,1821,1821,Der Mann hat eine Stelle angefangen als Zimmerer in Kempten.,1,True,False,False,False
+955,1822,1822,1822,1822,"Der Mann hat eine Stelle angefangen als Verkäufer, ist aber nach drei Wochen ausgestiegen.",1,True,False,False,False
+956,1823,1823,1823,1823,"Der Mann hat eine Stelle angefangen als Zimmermann, hat sich dann aber doch für eine Lehre als Maler entschieden.",1,True,False,False,False
+957,1824,1824,1824,1824,Der Mann hat eine Stelle angefangen als Lagerist.,1,True,False,False,False
+958,1825,1825,1825,1825,Der Mann hat eine Stelle angefangen als Buchhalter.,1,True,False,False,False
+959,1826,1826,1826,1826,"Der Mann hat eine Stelle angefangen als Kaufmann, die er auch behalten hat.",0,True,False,False,False
+960,1827,1827,1827,1827,"Der Mann hat eine Stelle angefangen als Kaufmann, der in einer Filiale eines Einzelhandelsunternehmens arbeitet.",1,True,False,False,False
+961,1828,1828,1828,1828,Der Mann hat eine Stelle angefangen als Zimmerer.,1,True,False,False,False
+962,1829,1829,1829,1829,"Der Mann hat eine Stelle angefangen als Lagerist, die Tätigkeit als Lagerist hat er aufgegeben.",1,True,False,False,False
+963,1830,1830,1830,1830,Der Mann hat eine Stelle angefangen als Zimmermann.,1,True,False,False,False
+964,1831,1831,1831,1831,Der Mann hat eine Stelle angefangen als Verkäufer im Einzelhandel.,1,True,False,False,False
+965,1832,1832,1832,1832,Der Mann hat eine Stelle angefangen als Kaufmann im Einzelhandel und ist nun auf der Suche nach einer neuen Herausforderung.,1,True,False,False,False
+966,1833,1833,1833,1833,"Der Mann hat eine Stelle angefangen als Kaufmann, er ist im 2.",1,True,False,False,False
+967,1834,1834,1834,1834,Der Mann hat eine Stelle angefangen als Lagerist.,1,True,False,False,False

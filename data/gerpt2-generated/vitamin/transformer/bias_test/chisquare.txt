@@ -1,0 +1,151 @@
+Results for all
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989Results for occupation
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000Results for respect
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989Results for all
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989Results for occupation
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000Results for respect
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989Results for all
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989Results for occupation
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000Results for respect
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989
+Results for all
+
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989
+Results for occupation
+
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000
+Results for respect
+
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989
+Results for all
+
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989
+Results for occupation
+
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000
+Results for respect
+
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989
+Results for all
+
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989
+Results for occupation
+
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000
+Results for respect
+
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989
+Results for all
+
+
+probability=0.950, critical=5.991, stat=6.239
+alpha=0.050, p=0.044
+There is a difference between the distributions (reject H0)
+N = 1989
+Results for occupation
+
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000
+Results for respect
+
+
+probability=0.950, critical=5.991, stat=12.199
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 989
+Results for all
+
+
+probability=0.950, critical=5.991, stat=5.960
+alpha=0.050, p=0.051
+There is no difference between the distributions (fail to reject H0)
+N = 1993
+Results for occupation
+
+
+probability=0.950, critical=5.991, stat=1.089
+alpha=0.050, p=0.580
+There is no difference between the distributions (fail to reject H0)
+N = 1000
+Results for respect
+
+
+probability=0.950, critical=5.991, stat=12.569
+alpha=0.050, p=0.002
+There is a difference between the distributions (reject H0)
+N = 993

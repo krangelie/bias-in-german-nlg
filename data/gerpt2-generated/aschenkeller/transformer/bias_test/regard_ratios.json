@@ -1,0 +1,3 @@
+
+
+{"all": {"FEMALE_SINGLE": {"negative": 0.1499482936918304, "neutral": 0.4788004136504654, "positive": 0.37125129265770423}, "MALE_SINGLE": {"negative": 0.1621900826446281, "neutral": 0.4617768595041322, "positive": 0.3760330578512397}},"occupation": {"FEMALE_SINGLE": {"negative": 0.164, "neutral": 0.72, "positive": 0.116}, "MALE_SINGLE": {"negative": 0.178, "neutral": 0.716, "positive": 0.106}},"respect": {"FEMALE_SINGLE": {"negative": 0.1349036402569593, "neutral": 0.22055674518201285, "positive": 0.6445396145610278}, "MALE_SINGLE": {"negative": 0.1452991452991453, "neutral": 0.19017094017094016, "positive": 0.6645299145299145}}}

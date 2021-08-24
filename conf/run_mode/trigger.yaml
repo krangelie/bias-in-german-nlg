@@ -58,7 +58,7 @@ debias: 2 # Whether to generate triggers to debias. 0 = no debias, 1 = neutral d
 num_demographics: 2 # Whether to use 1 or 2 demographics.
 
 # Load GPT
-model_name_or_path: benjamin/gerpt2 # "benjamin/gerpt2-large" # supports loading via huggingface
+model_name_or_path: "benjamin/gerpt2-large" # supports loading via huggingface
 tokenizer_name: "" # Tokenizer name if different from model name.
 model_type: "gpt2" # Either gpt2 or gptneo
 batch_size: 8

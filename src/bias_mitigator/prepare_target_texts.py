@@ -1,4 +1,5 @@
 import os
+import random
 
 import hydra.utils
 from bidict import bidict
@@ -242,6 +243,8 @@ def read_texts_from_files(params, file_paths):
                 elif params.model_type == constants.DIALOGPT:
                     target_texts = [l.strip().split("\t") for l in target_texts]
                 target_texts_all += [target_texts]
+        if params.shuffle_seed:
+            random.Random(params.shuffle_seed).shuffle(target_texts)
     else:
         target_texts_all = {}
         for valence, file in file_paths.items():
@@ -251,6 +254,8 @@ def read_texts_from_files(params, file_paths):
                     target_texts = [l.strip() for l in target_texts]
                 elif params.model_type == constants.DIALOGPT:
                     target_texts = [l.strip().split("\t") for l in target_texts]
+                if params.shuffle_seed:
+                    random.Random(params.shuffle_seed).shuffle(target_texts)
                 target_texts_all[valence] = target_texts
     return target_texts_all
 

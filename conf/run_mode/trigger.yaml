@@ -19,6 +19,8 @@ no_trigger_file_name: "no_trigger_samples"
 labeled_csv_file: ""
 
 flip_gender: True # Use gendered sentence versions (requires manually adding female and male column)
+shuffle_seed: None # If not None, uses seed int for data shuffling.
+
 samples_path: data/trigger_search_data_preprocessed/unanimous
 neg_sample_file: "${run_mode.samples_path}/negative"
 # Folder with negative regard target samples.
@@ -56,7 +58,7 @@ debias: 2 # Whether to generate triggers to debias. 0 = no debias, 1 = neutral d
 num_demographics: 2 # Whether to use 1 or 2 demographics.
 
 # Load GPT
-model_name_or_path: "benjamin/gerpt2-large" # supports loading via huggingface
+model_name_or_path: benjamin/gerpt2 # "benjamin/gerpt2-large" # supports loading via huggingface
 tokenizer_name: "" # Tokenizer name if different from model name.
 model_type: "gpt2" # Either gpt2 or gptneo
 batch_size: 8

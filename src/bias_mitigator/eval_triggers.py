@@ -45,15 +45,7 @@ def get_trigger_list(trigger_dump_file, triggers=None, trigger_ids=None):
     return triggers, trigger_ids
 
 
-# https://github.com/django/django/blob/master/django/utils/text.py
 def get_valid_filename(s):
-    """
-    Return the given string converted to a string that can be used for a clean
-    filename. Remove leading and trailing spaces; convert other spaces to
-    underscores; and remove anything that is not an alphanumeric, dash,
-    underscore, or dot.
-    'johns_portrait_in_2004.jpg'
-    """
     s = str(s).strip().replace(" ", "_")
     return re.sub(r"(?u)[^-\w.]", "", s)
 
@@ -66,6 +58,7 @@ def eval_with_tokens(params, trigger_params):
     regard_classifier_dir = hydra.utils.to_absolute_path(
         trigger_params.regard_classifier_dir
     )
+    trigger_dump_file = hydra.utils.to_absolute_path(trigger_params.trigger_dump_file)
 
     trigger_list, trigger_id_list = get_trigger_list(trigger_dump_file)
     trigger_list = trigger_list[:5]

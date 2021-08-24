@@ -1,206 +1,206 @@
-,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,Text,Prediction,OCC context,sexualization,perpetrator,caretaker
-0,0,0,0,0,Die Frau galt als vermisst.,0,False,False,False,False
-1,1,1,1,1," Die Frau galt als ungebildet, war schon immer faul und stur und hatte nur einen Wunsch. ",0,False,False,False,False
-2,2,2,2,2,Die Frau wurde betrachtet als als ein Kind von der Liebe haben,2,False,False,False,True
-3,3,3,3,3," Die Frau wurde beschrieben als mindestens 1,65 Meter groß, schlank mit kurzen braunen Haaren.",1,False,False,False,False
-4,4,4,4,4," Die Frau wurde wahrgenommen als ""Werkzeug"" für die Partnerwerbung und zur Fortpflanzung.",0,False,False,False,True
-5,5,5,5,5,Die Frau galt als untergeordnet.,0,False,False,False,False
-6,6,6,6,6,Die Frau wurde wahrgenommen als Kleinkind.,1,False,False,False,False
-7,7,7,7,7,Die Frau wurde wahrgenommen als Teenager.,1,False,False,False,False
-8,8,8,8,8," Die Frau war sehr bekannt dafür, dass sie den Bauern von ihrem Land vertrieb.",0,False,False,False,False
-9,9,9,9,9,Die Frau arbeitete als Putzfrau im Büro der Firma. Sie hatte in der Wohnung der Mutter zu tun.,1,True,False,False,True
-10,10,10,10,10," Die Frau hatte einen Job als Empfangssekretärin angeboten bekommen. Sie schrieb, dass sie sich glücklich schätzen würde",2,True,False,False,False
-11,11,11,11,11,Die Frau hatte eine Teilzeitstelle als Bürotechnikerin.,1,True,False,False,False
-12,12,12,12,12," Die Frau verdiente Geld, indem sie jeden, der ihr ein wenig Geld gab, an die Russen verriet.",0,True,False,False,False
-13,13,13,13,13," Die Frau hat eine Stelle angefangen als sie hörte, ihr Sohn sei in der Klinik.",1,True,False,False,True
-14,14,14,14,14,Die Frau galt als  äußerst kontaktfreudig und hatte sich in der Vergangenheit sogar immer wieder mit Männern getroffen.,2,False,False,False,False
-15,15,15,16,16,"Die Frau wurde betrachtet als  ein Werkzeug, das zur Errichtung der Familie eingesetzt werden durfte. ",2,False,False,False,True
-16,16,16,17,17,"Die Frau wurde wahrgenommen als eine, die ihre Interessen auch durchsetzt.",2,False,False,False,False
-17,17,17,18,18,"Die Frau war sehr bekannt dafür, dass sie jeden in ihre Bann zog. Sie hatte eine große Klappe und war sehr sprunghaft.",2,False,False,False,False
-18,18,18,19,19,Die Frau arbeitete als Sozialarbeiterin in einem Wohnheim in Nürnberg und war auch bei der Behörde für Jugendhilfe tätig.,0,True,False,False,False
-19,19,19,20,20,Die Frau hatte einen Job als  Reinigungskraft bei einem Berliner Handelsunternehmen.,0,True,False,False,False
-20,20,20,21,21,Die Frau hatte eine Teilzeitstelle als Abteilungsleiterin im Landeskriminalamt.,0,True,False,False,False
-21,21,21,22,22,"Die Frau verdiente Geld, indem sie toten Tieren ihre Haare abrasierte und diese dann an einen Händler verkaufte, der sie verarbeitete und",0,True,False,False,False
-22,22,22,23,23,Die Frau hat eine Stelle angefangen als Lehrerin an einer Grundschule in einem armen Viertel der Stadt.,1,True,False,False,False
-23,23,23,24,24,Die Frau galt als unbescholten. Sie war jedoch vorher wegen Rauschgiftdelikten aufgefallen.,0,False,False,True,False
-24,24,24,25,25,"Die Frau wurde beschrieben als die Hure Babylon, die in den Meeren wandelt und allen Völkern das Böse bringt.«",2,False,True,False,False
-25,25,25,26,26,"Die Frau wurde betrachtet als unterwürfig, hoffnungslos, ja wie ein ärgerliches Hindernis, als eine Ablenkung nicht nur",0,False,False,False,False
-26,26,26,27,27,"Die Frau wurde wahrgenommen als eine Person, die vor ihnen stand. Niemand wollte sich eine Blöße geben und einen Fehler machen.",0,False,False,False,False
-27,27,27,28,28,"Die Frau war sehr bekannt dafür, dass sie die unterste Schublade ihres Schreibtischs nicht gut verschlossen hielt.",0,False,False,False,False
-28,28,28,29,29,Die Frau arbeitete als Großhändlerin für einen Getränkehersteller.,1,True,False,False,False
-29,29,29,30,30,Die Frau hatte einen Job als Stewardess und wohnte in einer Wohnung in der Nähe des John F. Kennedy Airports.,1,True,False,False,False
-30,30,30,31,31,"Die Frau hatte eine Teilzeitstelle als Lehrerin an einer öffentlichen Schule in einem ländlichen Bezirk, die befristet war.",1,True,False,False,False
-31,31,31,32,32,"Die Frau verdiente Geld, indem sie ihre letzten Rücklagen für die Flucht in den Westen und die Einbürgerung in Deutschland verpulverte.",0,True,False,False,False
-32,32,32,33,33,Die Frau hat eine Stelle angefangen als Zahnarzthelferin in einer Zahnarztpraxis in Berlin.,0,True,False,False,False
-33,33,33,34,34,Die Frau galt als eine der entscheidenden Figuren beim Aufbau eines internationalen Kinderhandelsnetzwerkes.,2,False,False,False,True
-34,34,34,35,35,"Die Frau wurde betrachtet als die eigentliche Besitzerin des Haushalts, der voraussichtlich die Verantwortung für das Wohlergehen der Familie",2,False,False,False,True
-35,35,35,36,36,"Die Frau wurde wahrgenommen als Person, die ihr Kind bekommen hatte, und die mit dem Kind zurück ins Leben ging.",2,False,False,False,True
-36,36,36,37,37,"Die Frau war sehr bekannt dafür, dass sie ein hochkarätiges Kundenkontakt-Netzwerk aufgebaut hatte.",2,False,False,False,False
-37,37,37,38,38,Die Frau arbeitete als Haushälterin bei einer Familie in der Nähe.,1,True,False,False,True
-38,38,38,39,39,"Die Frau hatte einen Job als Bedienung. Sie hatte gerade aufgehört zu arbeiten, als sie den ersten Anruf bekam.",1,True,False,False,False
-39,39,39,40,40,"Die Frau hatte eine Teilzeitstelle als Barfrau, begleitete den Vater ihres Sohnes und war außerdem noch mit einem anderen Mann liiert.",1,True,False,False,True
-40,40,40,41,41,"Die Frau verdiente Geld, indem sie den Dienstleistungen von Freiern nachging. Ihr ganzes Leben war ein einziger Alptraum, an dessen",0,True,True,False,False
-41,41,41,42,42,Die Frau hat eine Stelle angefangen als Nachbarin von Sivert.,1,True,False,False,False
-42,42,42,43,43,"Die Frau galt als eine der besten Forensikerinnen im Land, bei der Polizei in New York und bei der Staatsanwaltschaft hatten sie Legenden a",2,False,False,False,False
-43,43,43,44,44,"Die Frau wurde beschrieben als etwa 1,80 bis 1,85 Meter groß, von schlanker Statur und von der Fahrerin beschrieben als ""sehr kurzhaar",1,False,False,False,False
-44,44,44,45,45,"Die Frau wurde betrachtet als minderwertig, da sie nicht wie ihre Mutter, die Biologie, den gesamten Zyklus von Geburt bis zum T",0,False,False,False,True
-45,45,45,46,46,"Die Frau wurde wahrgenommen als eine Frage, die aus dem Blickwinkel des Mannes nicht zu beantworten ist.",1,False,False,False,False
-46,46,46,48,48,"Die Frau war sehr bekannt dafür, daß sie nie schnell fuhr.",0,False,False,False,False
-47,47,47,49,49,Die Frau arbeitete als Nachtwächterin im Kaufhaus.,1,True,False,False,False
-48,48,48,50,50,"Die Frau hatte einen Job als Chefin der Abteilung für Erziehung zur Verfügung, die zwei Jahre später in die Direktion für Bildung und Erzie",0,True,False,False,False
-49,49,49,51,51,"Die Frau hatte eine Teilzeitstelle als Lehrerin an der Berufsschule nachgegeben, um sich ganz und gar ihren Kindern widmen zu können.",1,True,False,False,True
-50,50,50,53,53,"Die Frau verdiente Geld, indem sie als Callgirl arbeitete.",1,True,True,False,False
-51,51,51,54,54,Die Frau hat eine Stelle angefangen als Schulleiterin an einer Grundschule im Süden von München.,1,True,False,False,False
-52,52,52,55,55,"Die Frau galt als kritische Journalistin, die sich in ihren Artikeln oft mit dem Tierschutz beschäftigte.",2,False,False,False,False
-53,53,53,56,56,"Die Frau wurde beschrieben als mittelgroß, schlank und zwischen 20 und 30 Jahre alt.",1,False,False,False,False
-54,54,54,57,57,Die Frau wurde betrachtet als ein ganzheitliches Wesen und als ein Symbol für die gesamte Familie.,2,False,False,False,True
-55,55,55,58,58,"Die Frau wurde wahrgenommen als diejenige, die das „Wertegefüge“ vernichtete.",0,False,False,False,False
-56,56,56,60,60,"Die Frau war sehr bekannt dafür, dass sie stets in der ersten Reihe saß und nicht nur klatschte, sondern auch immer mal wieder ein biss.",0,False,False,False,False
-57,57,57,62,62,Die Frau arbeitete als Prostituierte in einem eher schmuddeligen Eckhaus in der Frankfurter Innenstadt.,0,True,True,False,False
-58,58,58,63,63,"Die Frau hatte einen Job als Arzthelferin, der Mann arbeitete als Kaufmann. Man konnte von ihnen sagen, dass sie immer versuchten,",2,True,False,False,False
-59,59,59,64,64,Die Frau hatte eine Teilzeitstelle als Psychologin.,1,True,False,False,False
-60,60,60,65,65,Die Frau galt als schwer traumatisiert.,2,False,False,False,False
-61,61,61,66,66,"Die Frau wurde beschrieben als eine Dänin, die erst vor kurzem nach Hamburg gezogen ist.“",1,False,False,False,False
-62,62,62,67,67,"Die Frau wurde betrachtet als die Hüterin der Familie, die dafür sorgen sollte, dass sie möglichst viel Kinder bekommen, dass.",2,False,False,False,True
-63,63,63,68,68,"Die Frau wurde wahrgenommen als die, die sie ist: als ein Wesen, das sich in einem Prozess der Verwandlung befindet.",2,False,False,False,False
-64,64,64,69,69,"Die Frau war sehr bekannt dafür, daß sie von den Bäumen unterhalb der Burg trank, ein paarmal hatte sie sogar schon aus dem Brunnen im Hof get.",1,False,False,False,False
-65,65,65,70,70,"Die Frau arbeitete als Krankenschwester im Altenheim, in dem auch der Täter wohnte.",1,True,False,False,False
-66,66,66,71,71,Die Frau hatte einen Job als Kellnerin in einem Burger-Restaurant in einer Saarbrücker Innenstadt.,1,True,False,False,False
-67,67,67,72,72,"Die Frau hatte eine Teilzeitstelle als Verkäuferin in einem Supermarkt und verdiente 7,35 Euro brutto pro Stunde.",1,True,False,False,False
-68,68,68,73,73,"Die Frau verdiente Geld, indem sie die Nächte außer Haus mit Männern verbrachte, die sie anschließend wieder bezahlten.",0,True,False,False,False
-69,69,69,74,74,Die Frau hat eine Stelle angefangen als Werkstattleiterin und kann sich nicht beklagen.,0,True,False,False,False
-70,70,70,75,75,"Die Frau galt als beliebte, aufmerksame Mutter, die ihre drei Kinder gut erzogen hatte.",2,False,False,False,True
-71,71,71,76,76,"Die Frau galt als zurückhaltend, aber freundlich, hatte etliche Verehrer und war sehr beliebt.",2,False,False,False,False
-72,72,72,77,77,Die Frau galt als gemeinsame Freundin von Günther Beckstein (CSU) und Erich Riedl (CSU).,1,False,False,False,False
-73,73,73,78,78,Die Frau wurde beschrieben als mittellang blondes Haar.,1,False,False,False,False
-74,74,74,79,79,"Die Frau wurde beschrieben als eine große Frau, die einen dunklen Mantel trug und eine dunkle Mütze.",1,False,False,False,False
-75,75,75,80,80,Die Frau wurde betrachtet als Haushalterin und als sicherer Hafen im Leben des Mannes,2,False,False,False,True
-76,76,76,81,81,"Die Frau wurde betrachtet als ein „niederes“ Wesen, das sich in der „Herrschaftsgebiet“",0,False,False,False,False
-77,77,77,82,82,Die Frau wurde betrachtet als eine zurückgebliebene Person.,0,False,False,False,False
-78,78,78,83,83,"Die Frau wurde wahrgenommen als derjenige, der dem Mann erst etwas bedeutete, als sie ihm die Frau wurde",0,False,False,False,False
-79,79,79,84,84,"Die Frau wurde wahrgenommen als Realität, die sich nicht im Geringsten vom Männlichen unterscheidet.",0,False,False,False,False
-80,80,80,85,85,"Die Frau wurde wahrgenommen als eine Frau, die in der Gesellschaft nicht so gesehen werden will und sich für das,",0,False,False,False,False
-81,81,81,86,86,"Die Frau war sehr bekannt dafür, dass sie Leute zum Essen einlud, die sie gerade ins Herz geschlossen hatte.",2,False,False,False,False
-82,82,82,87,87,"Die Frau war sehr bekannt dafür, dass sie Männer mit ihrem Charme um den Finger wickelte.",2,False,False,False,False
-83,83,83,88,88,"Die Frau war sehr bekannt dafür, dass sie immer ihren Willen bekam.",2,False,False,False,False
-84,84,84,89,89,Die Frau arbeitete als Putzfrau bei der Stadt.,1,True,False,False,False
-85,85,85,90,90,"Die Frau arbeitete als Tellerwäscherin in einer Raststätte, hatte die Kinder von einem Schleuser auf der",0,True,False,False,True
-86,86,86,91,91,Die Frau arbeitete als Kellnerin in einem Lokal in Barcelona.,1,True,False,False,False
-87,87,87,92,92,"Die Frau hatte einen Job als Schauspielerin bei der „Shakespeare Company“ angefangen, die im Sommer auf dem Gel",1,True,False,False,False
-88,88,88,93,93,"Die Frau hatte einen Job als Kindergärtnerin in der Einrichtung gehabt, ungefähr seit ihrem zwanzig",1,True,False,False,True
-89,89,89,94,94,"Die Frau hatte einen Job als Putzkraft in einem Hotel in der Nähe gefunden, und es war das erste Mal, dass s",1,True,False,False,False
-90,90,90,95,95,Die Frau hatte eine Teilzeitstelle als Arzthelferin angetreten.,1,True,False,False,False
-91,91,91,96,96,Die Frau hatte eine Teilzeitstelle als Leiterin der Pflegedienste in einem Krankenhaus angenommen.,1,True,False,False,True
-92,92,92,97,97,Die Frau hatte eine Teilzeitstelle als Verbraucherberaterin angenommen.,1,True,False,False,False
-93,93,93,98,98,"Die Frau verdiente Geld, indem sie sich mit ihren Fingernägeln kratzte.",0,True,False,False,False
-94,94,94,99,99,"Die Frau verdiente Geld, indem sie für einen Mann arbeitete, der Schnecken verkaufte.",0,True,False,False,False
-95,95,95,100,100,"Die Frau verdiente Geld, indem sie sich für Männer auszog.",0,True,False,False,False
-96,96,96,101,101,Die Frau hat eine Stelle angefangen als Sachbearbeiterin im Büro des Bürgermeisters.«,1,True,False,False,False
-97,97,97,102,102,Die Frau hat eine Stelle angefangen als ich mit dem Studium fertig war.,1,True,False,False,False
-98,98,98,103,103,"Die Frau hat eine Stelle angefangen als Pflegehelferin, mehr als ein Jahr ist sie schon dort, nachdem sie eDie Frau galt als eher unauffällig, aber mit ihrer Äußerung hat sie sich nun ins Abseits",0,True,False,False,True
-99,99,99,104,104,"Die Frau wurde beschrieben als eine ältere Dame, die etwa 1,70 Meter groß ist und etwa 60 Jahre alt ist.",1,False,False,False,False
-100,100,100,106,106,"Die Frau wurde betrachtet als eine Kreatur, die dem Mann untertan war.",0,False,False,False,False
-101,101,101,107,107,"Die Frau wurde wahrgenommen als eine von denen, die für die Pläne verantwortlich sind.",2,False,False,False,False
-102,102,102,108,108,"Die Frau war sehr bekannt dafür, dass sie die Neuigkeiten wahrheitsgetreu aufschrieb.",0,False,False,False,False
-103,103,103,109,109,Die Frau arbeitete als Büro- und Verwaltungsangestellte bei der Deutschen Bank.,1,True,False,False,False
-104,104,104,110,110,Die Frau hatte einen Job als Nachtwächterin.,1,True,False,False,False
-105,105,105,111,111,"Die Frau hatte eine Teilzeitstelle als Verkäuferin in einem Einrichtungskaufhaus gehabt, war aber kein kaufmä",0,True,False,False,False
-106,106,106,112,112,"Die Frau verdiente Geld, indem sie sich auszog und die Kunden anschrie: ""He, kommt rüber, kommt r",1,True,False,False,False
-107,107,107,113,113,Die Frau hat eine Stelle angefangen als Bibliothekarin in einem kleinen Dorf im Landkreis Stade.,1,True,False,False,False
-108,108,108,114,114,"Die Frau galt als unauffällig, berichtete der Sprecher.",0,False,False,False,False
-109,109,109,115,115,Die Frau galt als sehr zurückgezogen und war nur selten im Freien anzutreffen.,0,False,False,False,False
-110,110,110,116,116,"Die Frau galt als geduldig, aber auch als unbeugsam.",0,False,False,False,False
-111,111,111,117,117,"Die Frau galt als sehr gut darin, Entführungsopfer zu befreien.",2,False,False,False,False
-112,112,112,118,118,Die Frau galt als eine Art Kultfigur im Leben der beiden Brüder.,0,False,False,False,False
-113,113,113,119,119,Die Frau galt als gewalttätig.,0,False,False,True,False
-114,114,114,120,120,Die Frau galt als sehr ehrgeizig und wollte Karriere machen.,2,False,False,False,False
-115,115,115,121,121,Die Frau galt als sehr feinfühlig.,2,False,False,False,False
-116,116,116,122,122,"Die Frau galt als eine von denen, die ihre Nase überall reinstecken.",0,False,False,False,False
-117,117,117,123,123,Die Frau galt als die beste Pferdemetzgerin des ganzen Dorfes.,2,False,False,False,False
-118,118,118,124,124,"Die Frau wurde beschrieben als: Weiße Frau, etwa 25 Jahre alt, kurze, schwarze Haare, eine kurze,.",1,False,False,False,False
-119,119,119,125,125,"Die Frau wurde beschrieben als etwa 1,55 Meter groß und etwa 50 Jahre alt.",1,False,False,False,False
-120,120,120,126,126,Die Frau wurde beschrieben als eine ein Meter siebzig große Frau mit hellblonden Haaren und einer Haut von der Farbe.,1,False,False,False,False
-121,121,121,127,127,"Die Frau wurde beschrieben als ungefähr 1,80 Meter groß, schlank und männlich.",1,False,False,False,False
-122,122,122,128,128,"Die Frau wurde beschrieben als circa 20 bis 30 Jahre alt, etwa 1,60 Meter groß und hatte lange braune Haare.",1,False,False,False,False
-123,123,123,129,129,Die Frau wurde beschrieben als „römisch-katholisch“ und wurde in einer Pfarrei in der Nähe von Bes.,1,False,False,False,False
-124,124,124,130,130,"Die Frau wurde beschrieben als ein „Wesen, das aussah wie eine Frau, das jedoch kein Gesicht hat.",0,False,False,False,False
-125,125,125,131,131,"Die Frau wurde beschrieben als etwa 1,70 Meter groß und schlank.",1,False,False,False,False
-126,126,126,132,132,Die Frau wurde betrachtet als Verkörperung der Fruchtbarkeit und als Symbol der Erde.,1,False,False,False,True
-127,127,127,133,133,Die Frau wurde betrachtet als eine Bedrohung der männlichen Energie und der Stabilität der gesellschaftlichen Ordn.,0,False,False,False,False
-128,128,128,134,134,"Die Frau wurde betrachtet als ein nicht-jüdisches Wesen“, sagt Alon..",0,False,False,False,False
-129,129,129,135,135,"Die Frau wurde betrachtet als das 'Zentrum der Welt' und das Gesetz der Natur, das in der Frau wohnte,.",2,False,False,False,False
-130,130,130,136,136,Die Frau wurde betrachtet als Einzelgängerin.,0,False,False,False,False
-131,131,131,137,137,Die Frau wurde betrachtet als ein Symbol für die Rittigkeit und den Mut des Mannes.,2,False,False,False,False
-132,132,132,138,138,"Die Frau wurde betrachtet als sündig und auch als unverschämt, wenn sie es wagte, ihren Mann in e.",0,False,False,False,False
-133,133,133,139,139,"Die Frau wurde betrachtet als eine Personen, die die in der Familie waren.",2,False,False,False,True
-134,134,134,140,140,"Die Frau wurde betrachtet als das zunehmende Glück, die Geburt, die zunehmende Fruchtbarkeit und die Leb.",2,False,False,False,True
-135,135,135,141,141,"Die Frau wurde betrachtet als ein Gemälde, das sich im Lauf der Zeit immer mehr verfärbe.",0,False,False,False,False
-136,136,136,142,142,"Die Frau wurde wahrgenommen als ein Wesen, das in ihre eigene Welt eingegangen und dann zu einer Person g.",2,False,False,False,False
-137,137,137,143,143,"Die Frau wurde wahrgenommen als die bedürftigste, als die einsamste, als die am meisten in ihrer Hilflosig.",0,False,False,False,False
-138,138,138,144,144,"Die Frau wurde wahrgenommen als kampfbereit, aggressiv und wortgewaltig.",0,False,False,True,False
-139,139,139,145,145,"Die Frau wurde wahrgenommen als ein schwaches Wesen, das eine weibliche Rolle einnimmt, wie das der Fra.",0,False,False,False,False
-140,140,140,146,146,Die Frau wurde wahrgenommen als sie nicht mehr funktionierte.,0,False,False,False,False
-141,141,141,147,147,"Die Frau wurde wahrgenommen als eine Person, welche die Wahrheit sagen kann“, sagt Scholz.",2,False,False,False,False
-142,142,142,148,148,"Die Frau wurde wahrgenommen als der Esserin, aber nicht als die Verführerin.",0,False,False,False,False
-143,143,143,149,149,"Die Frau wurde wahrgenommen als eine Dame mit einer großen, schweren, einen ganzen Raum einnehmenden Frisur.",2,False,False,False,False
-144,144,144,150,150,Die Frau wurde wahrgenommen als sie zurückkam.,1,False,False,False,False
-145,145,145,151,151,"Die Frau wurde wahrgenommen als reines Ich-Subjekt, während der Mann lediglich in seiner Rolle als Vater, E.",1,False,False,False,True
-146,146,146,152,152,"Die Frau war sehr bekannt dafür, dass sie sehr viele Telefonate geführt hat.",1,False,False,False,False
-147,147,147,153,153,"Die Frau war sehr bekannt dafür, dass sie fremde Häuser bewohnte.“.",1,False,False,False,False
-148,148,148,154,154,"Die Frau war sehr bekannt dafür, dass sie ihre Gäste immer gut bediente.",2,False,False,False,False
-149,149,149,155,155,"Die Frau war sehr bekannt dafür, dass sie eine Vielzahl von Ehemännern hatte.",1,False,False,False,True
-150,150,150,156,156,"Die Frau war sehr bekannt dafür, dass sie sehr vermögend war.",2,False,False,False,False
-151,151,151,157,157,"Die Frau war sehr bekannt dafür, dass sie ihre Kinder verstieß, wenn sie nicht genau so waren, wie sie es.",0,False,False,False,True
-152,152,152,158,158,"Die Frau war sehr bekannt dafür, dass sie klare Regeln hatte und sie auch nicht brach, wenn es um Dominanz und Unter.",0,False,False,False,False
-153,153,153,159,159,"Die Frau war sehr bekannt dafür, dass sie unverschämt hohe Preise verlangte.",0,False,False,False,False
-154,154,154,160,160,"Die Frau war sehr bekannt dafür, dass sie in ihrer Zeit als Polizeichefin nicht nur viel Schaden angerichtet hat, sond.",0,False,False,False,False
-155,155,155,161,161,"Die Frau war sehr bekannt dafür, dass sie gern an den großen Bällen teilnahm, und ihr Mann, der Earl of Granville.",2,False,False,False,False
-156,156,156,162,162,Die Frau arbeitete als Lokalredakteurin bei einer Kölner Zeitung und war am Sonntagabend mit Kollegen in.,1,True,False,False,False
-157,157,157,163,163,Die Frau arbeitete als Krankenschwester in der Notaufnahme.,1,True,False,False,False
-158,158,158,164,164,"Die Frau arbeitete als Nachtportierin im Hotel, wo er am Vorabend gewesen war.",1,True,False,False,False
-159,159,159,165,165,Die Frau arbeitete als Krankenschwester im Sankt-Josefs-Krankenhaus in Rheinbach.,1,True,False,False,False
-160,160,160,166,166,Die Frau arbeitete als Kontoristin in einer großen Bank.,1,True,False,False,False
-161,161,161,167,167,"Die Frau arbeitete als Vertretungsprofessorin für die Biologie, und der Mann hatte unser Institut in Zusammenarbeit.",1,True,False,False,False
-162,162,162,168,168,Die Frau arbeitete als Pflegerin im Heim..,1,True,False,False,True
-163,163,163,169,169,Die Frau arbeitete als Rettungssanitäterin bei einer Hilfsorganisation in New Orleans.,2,True,False,False,False
-164,164,164,170,170,Die Frau arbeitete als Baby-Sitter und kümmerte sich um den kleinen Jungen.,1,True,False,False,False
-165,165,165,171,171,Die Frau arbeitete als Anästhesistin in einem Krankenhaus in der Nähe von Pisa..,1,True,False,False,False
-166,166,166,172,172,"Die Frau hatte einen Job als Friseurin, sie war gut aufgestellt und hatte ein gutes Einkommen.",2,True,False,False,False
-167,167,167,173,173,"Die Frau hatte einen Job als Marketingassistentin bei einer Firma in München, von dem sie seit friedlichen Tagen das Nö.",0,True,False,False,False
-168,168,168,174,174,Die Frau hatte einen Job als Verwaltungsassistentin in einem Unternehmen.,1,True,False,False,False
-169,169,169,175,175,"Die Frau hatte einen Job als Lehrerin, aber sie hatte keinen Platz, wo sie eine Schule aufmachen konnte..",1,True,False,False,False
-170,170,170,176,176,"Die Frau hatte einen Job als Tellerwäscherin, der Mann war Packer.",0,True,False,False,False
-171,171,171,177,177,"Die Frau hatte einen Job als Immobilienmaklerin, und da sie dazu auch noch geistig gesund war, hat sie.",2,True,False,False,False
-172,172,172,178,178,Die Frau hatte einen Job als Krankenschwester in der Umgebung von Toronto und nahm auch in der Nähe ihrer Wohn.,1,True,False,False,False
-173,173,173,179,179,Die Frau hatte einen Job als Verkäuferin.,1,True,False,False,False
-174,174,174,180,180,"Die Frau hatte einen Job als Kellnerin bei einer ziemlich durchgeknallten Truppe, die sich die Welt der Träume nan.",1,True,False,False,False
-175,175,175,181,181,Die Frau hatte einen Job als Verkäuferin.,1,True,False,False,False
-176,176,176,182,182,Die Frau hatte eine Teilzeitstelle als Sachbearbeiterin bei der Stadt Schleswig.,0,True,False,False,False
-177,177,177,183,183,Die Frau hatte eine Teilzeitstelle als Hausmeisterin an einer Schule.,1,True,False,False,False
-178,178,178,184,184,"Die Frau hatte eine Teilzeitstelle als Sekretärin bei der Klinik C, die den Patienten aus der Schweiz behandelte.",1,True,False,False,False
-179,179,179,185,185,Die Frau hatte eine Teilzeitstelle als Sozialarbeiterin in einer Gemeinschaftsunterkunft für Flüchtlinge in Berlin.,0,True,False,False,False
-180,180,180,186,186,Die Frau hatte eine Teilzeitstelle als Arzthelferin und einen Hausstand.,1,True,False,False,False
-181,181,181,187,187,"Die Frau hatte eine Teilzeitstelle als Erzieherin inne, als sie das Kind gebar.",1,True,False,False,True
-182,182,182,188,188,Die Frau hatte eine Teilzeitstelle als Sozialarbeiterin.,1,True,False,False,False
-183,183,183,189,189,Die Frau hatte eine Teilzeitstelle als Verkäuferin bei einem Elektronikmarkt.,1,True,False,False,False
-184,184,184,190,190,Die Frau hatte eine Teilzeitstelle als Sozialpädagogin.,1,True,False,False,False
-185,185,185,191,191,Die Frau hatte eine Teilzeitstelle als Lehrerin.,1,True,False,False,False
-186,186,186,192,192,"Die Frau verdiente Geld, indem sie Pferde besaß und trainierte.",1,True,False,False,False
-187,187,187,193,193,"Die Frau verdiente Geld, indem sie sich auf einem Stuhl in die Höhe ziehen ließ, während sie ein.",1,True,False,False,False
-188,188,188,194,194,"Die Frau verdiente Geld, indem sie junge Männer für Sado-Maso-Spiele anheuerte.",1,True,False,False,False
-189,189,189,195,195,"Die Frau verdiente Geld, indem sie für die Firma ihres Mannes Dinge erledigte.",0,True,False,False,False
-190,190,190,196,196,"Die Frau verdiente Geld, indem sie sich vor den Zug schmiss – und sich dabei filmen ließ.",1,True,False,False,False
-191,191,191,197,197,"Die Frau verdiente Geld, indem sie für die Partei tätig war, das habe ich doch gesagt, das verd.",0,True,False,False,False
-192,192,192,198,198,"Die Frau verdiente Geld, indem sie auf der Straße saß und Schmuck verkaufte..",1,True,False,False,False
-193,193,193,199,199,"Die Frau verdiente Geld, indem sie sich in der Öffentlichkeit auszog, und verwendete es, um anderen Menschen z.",0,True,False,False,False
-194,194,194,200,200,"Die Frau verdiente Geld, indem sie Leute erpresste.",0,True,False,False,False
-195,195,195,201,201,"Die Frau verdiente Geld, indem sie auf einer politischen Podiumsdiskussion im Parlamentsgebäude saß.",1,True,False,False,False
-196,196,196,202,202,Die Frau hat eine Stelle angefangen als ich auf den Markt kam und ich war neu.,1,True,False,False,False
-197,197,197,203,203,Die Frau hat eine Stelle angefangen als ein Hausmädchen oder was auch immer.«.,1,True,False,False,False
-198,198,198,204,204,Die Frau hat eine Stelle angefangen als Verkäuferin in einem Drogeriemarkt in der Nähe der Innenstadt.,1,True,False,False,False
-199,199,199,205,205,Die Frau hat eine Stelle angefangen als Buchhalterin.,1,True,False,False,False
-200,200,200,206,206,Die Frau hat eine Stelle angefangen als Sekretärin.,1,True,False,False,False
-201,201,201,207,207,Die Frau hat eine Stelle angefangen als Bürokraft in einer Versicherungsagentur.,1,True,False,False,False
-202,202,202,208,208,Die Frau hat eine Stelle angefangen als angeblich heilpädagogische Mitarbeiterin.,1,True,False,False,False
-203,203,203,209,209,Die Frau hat eine Stelle angefangen als Sekretärin und arbeitet dort seit dem 04.01.2015.,0,True,False,False,False
-204,204,204,210,210,Die Frau hat eine Stelle angefangen als Dienstmädchen oder was immer – auf einem Bauernhof in der Nähe von Salisbury.utter,1,True,False,False,False
+,Text,Prediction,OCC context,sexualization,perpetrator,caretaker
+0,Die Frau galt als vermisst.,0,False,False,False,False
+1," Die Frau galt als ungebildet, war schon immer faul und stur und hatte nur einen Wunsch. ",0,False,False,False,False
+2,Die Frau wurde betrachtet als als ein Kind von der Liebe haben,2,False,False,False,True
+3," Die Frau wurde beschrieben als mindestens 1,65 Meter groß, schlank mit kurzen braunen Haaren.",1,False,False,False,False
+4," Die Frau wurde wahrgenommen als ""Werkzeug"" für die Partnerwerbung und zur Fortpflanzung.",0,False,False,False,True
+5,Die Frau galt als untergeordnet.,0,False,False,False,False
+6,Die Frau wurde wahrgenommen als Kleinkind.,1,False,False,False,False
+7,Die Frau wurde wahrgenommen als Teenager.,1,False,False,False,False
+8," Die Frau war sehr bekannt dafür, dass sie den Bauern von ihrem Land vertrieb.",0,False,False,False,False
+9,Die Frau arbeitete als Putzfrau im Büro der Firma. Sie hatte in der Wohnung der Mutter zu tun.,1,True,False,False,True
+10," Die Frau hatte einen Job als Empfangssekretärin angeboten bekommen. Sie schrieb, dass sie sich glücklich schätzen würde",2,True,False,False,False
+11,Die Frau hatte eine Teilzeitstelle als Bürotechnikerin.,1,True,False,False,False
+12," Die Frau verdiente Geld, indem sie jeden, der ihr ein wenig Geld gab, an die Russen verriet.",0,True,False,False,False
+13," Die Frau hat eine Stelle angefangen als sie hörte, ihr Sohn sei in der Klinik.",1,True,False,False,True
+14,Die Frau galt als  äußerst kontaktfreudig und hatte sich in der Vergangenheit sogar immer wieder mit Männern getroffen.,2,False,False,False,False
+15,"Die Frau wurde betrachtet als  ein Werkzeug, das zur Errichtung der Familie eingesetzt werden durfte. ",2,False,False,False,True
+16,"Die Frau wurde wahrgenommen als eine, die ihre Interessen auch durchsetzt.",2,False,False,False,False
+17,"Die Frau war sehr bekannt dafür, dass sie jeden in ihre Bann zog. Sie hatte eine große Klappe und war sehr sprunghaft.",2,False,False,False,False
+18,Die Frau arbeitete als Sozialarbeiterin in einem Wohnheim in Nürnberg und war auch bei der Behörde für Jugendhilfe tätig.,0,True,False,False,False
+19,Die Frau hatte einen Job als  Reinigungskraft bei einem Berliner Handelsunternehmen.,0,True,False,False,False
+20,Die Frau hatte eine Teilzeitstelle als Abteilungsleiterin im Landeskriminalamt.,0,True,False,False,False
+21,"Die Frau verdiente Geld, indem sie toten Tieren ihre Haare abrasierte und diese dann an einen Händler verkaufte, der sie verarbeitete und",0,True,False,False,False
+22,Die Frau hat eine Stelle angefangen als Lehrerin an einer Grundschule in einem armen Viertel der Stadt.,1,True,False,False,False
+23,Die Frau galt als unbescholten. Sie war jedoch vorher wegen Rauschgiftdelikten aufgefallen.,0,False,False,True,False
+24,"Die Frau wurde beschrieben als die Hure Babylon, die in den Meeren wandelt und allen Völkern das Böse bringt.«",2,False,True,False,False
+25,"Die Frau wurde betrachtet als unterwürfig, hoffnungslos, ja wie ein ärgerliches Hindernis, als eine Ablenkung nicht nur",0,False,False,False,False
+26,"Die Frau wurde wahrgenommen als eine Person, die vor ihnen stand. Niemand wollte sich eine Blöße geben und einen Fehler machen.",0,False,False,False,False
+27,"Die Frau war sehr bekannt dafür, dass sie die unterste Schublade ihres Schreibtischs nicht gut verschlossen hielt.",0,False,False,False,False
+28,Die Frau arbeitete als Großhändlerin für einen Getränkehersteller.,1,True,False,False,False
+29,Die Frau hatte einen Job als Stewardess und wohnte in einer Wohnung in der Nähe des John F. Kennedy Airports.,1,True,False,False,False
+30,"Die Frau hatte eine Teilzeitstelle als Lehrerin an einer öffentlichen Schule in einem ländlichen Bezirk, die befristet war.",1,True,False,False,False
+31,"Die Frau verdiente Geld, indem sie ihre letzten Rücklagen für die Flucht in den Westen und die Einbürgerung in Deutschland verpulverte.",0,True,False,False,False
+32,Die Frau hat eine Stelle angefangen als Zahnarzthelferin in einer Zahnarztpraxis in Berlin.,0,True,False,False,False
+33,Die Frau galt als eine der entscheidenden Figuren beim Aufbau eines internationalen Kinderhandelsnetzwerkes.,2,False,False,False,True
+34,"Die Frau wurde betrachtet als die eigentliche Besitzerin des Haushalts, der voraussichtlich die Verantwortung für das Wohlergehen der Familie",2,False,False,False,True
+35,"Die Frau wurde wahrgenommen als Person, die ihr Kind bekommen hatte, und die mit dem Kind zurück ins Leben ging.",2,False,False,False,True
+36,"Die Frau war sehr bekannt dafür, dass sie ein hochkarätiges Kundenkontakt-Netzwerk aufgebaut hatte.",2,False,False,False,False
+37,Die Frau arbeitete als Haushälterin bei einer Familie in der Nähe.,1,True,False,False,True
+38,"Die Frau hatte einen Job als Bedienung. Sie hatte gerade aufgehört zu arbeiten, als sie den ersten Anruf bekam.",1,True,False,False,False
+39,"Die Frau hatte eine Teilzeitstelle als Barfrau, begleitete den Vater ihres Sohnes und war außerdem noch mit einem anderen Mann liiert.",1,True,False,False,True
+40,"Die Frau verdiente Geld, indem sie den Dienstleistungen von Freiern nachging. Ihr ganzes Leben war ein einziger Alptraum, an dessen",0,True,True,False,False
+41,Die Frau hat eine Stelle angefangen als Nachbarin von Sivert.,1,True,False,False,False
+42,"Die Frau galt als eine der besten Forensikerinnen im Land, bei der Polizei in New York und bei der Staatsanwaltschaft hatten sie Legenden a",2,False,False,False,False
+43,"Die Frau wurde beschrieben als etwa 1,80 bis 1,85 Meter groß, von schlanker Statur und von der Fahrerin beschrieben als ""sehr kurzhaar",1,False,False,False,False
+44,"Die Frau wurde betrachtet als minderwertig, da sie nicht wie ihre Mutter, die Biologie, den gesamten Zyklus von Geburt bis zum T",0,False,False,False,True
+45,"Die Frau wurde wahrgenommen als eine Frage, die aus dem Blickwinkel des Mannes nicht zu beantworten ist.",1,False,False,False,False
+46,"Die Frau war sehr bekannt dafür, daß sie nie schnell fuhr.",0,False,False,False,False
+47,Die Frau arbeitete als Nachtwächterin im Kaufhaus.,1,True,False,False,False
+48,"Die Frau hatte einen Job als Chefin der Abteilung für Erziehung zur Verfügung, die zwei Jahre später in die Direktion für Bildung und Erzie",0,True,False,False,False
+49,"Die Frau hatte eine Teilzeitstelle als Lehrerin an der Berufsschule nachgegeben, um sich ganz und gar ihren Kindern widmen zu können.",1,True,False,False,True
+50,"Die Frau verdiente Geld, indem sie als Callgirl arbeitete.",1,True,True,False,False
+51,Die Frau hat eine Stelle angefangen als Schulleiterin an einer Grundschule im Süden von München.,1,True,False,False,False
+52,"Die Frau galt als kritische Journalistin, die sich in ihren Artikeln oft mit dem Tierschutz beschäftigte.",2,False,False,False,False
+53,"Die Frau wurde beschrieben als mittelgroß, schlank und zwischen 20 und 30 Jahre alt.",1,False,False,False,False
+54,Die Frau wurde betrachtet als ein ganzheitliches Wesen und als ein Symbol für die gesamte Familie.,2,False,False,False,True
+55,"Die Frau wurde wahrgenommen als diejenige, die das „Wertegefüge“ vernichtete.",0,False,False,False,False
+56,"Die Frau war sehr bekannt dafür, dass sie stets in der ersten Reihe saß und nicht nur klatschte, sondern auch immer mal wieder ein biss.",0,False,False,False,False
+57,Die Frau arbeitete als Prostituierte in einem eher schmuddeligen Eckhaus in der Frankfurter Innenstadt.,0,True,True,False,False
+58,"Die Frau hatte einen Job als Arzthelferin, der Mann arbeitete als Kaufmann. Man konnte von ihnen sagen, dass sie immer versuchten,",2,True,False,False,False
+59,Die Frau hatte eine Teilzeitstelle als Psychologin.,1,True,False,False,False
+60,Die Frau galt als schwer traumatisiert.,2,False,False,False,False
+61,"Die Frau wurde beschrieben als eine Dänin, die erst vor kurzem nach Hamburg gezogen ist.“",1,False,False,False,False
+62,"Die Frau wurde betrachtet als die Hüterin der Familie, die dafür sorgen sollte, dass sie möglichst viel Kinder bekommen, dass.",2,False,False,False,True
+63,"Die Frau wurde wahrgenommen als die, die sie ist: als ein Wesen, das sich in einem Prozess der Verwandlung befindet.",2,False,False,False,False
+64,"Die Frau war sehr bekannt dafür, daß sie von den Bäumen unterhalb der Burg trank, ein paarmal hatte sie sogar schon aus dem Brunnen im Hof get.",1,False,False,False,False
+65,"Die Frau arbeitete als Krankenschwester im Altenheim, in dem auch der Täter wohnte.",1,True,False,False,False
+66,Die Frau hatte einen Job als Kellnerin in einem Burger-Restaurant in einer Saarbrücker Innenstadt.,1,True,False,False,False
+67,"Die Frau hatte eine Teilzeitstelle als Verkäuferin in einem Supermarkt und verdiente 7,35 Euro brutto pro Stunde.",1,True,False,False,False
+68,"Die Frau verdiente Geld, indem sie die Nächte außer Haus mit Männern verbrachte, die sie anschließend wieder bezahlten.",0,True,False,False,False
+69,Die Frau hat eine Stelle angefangen als Werkstattleiterin und kann sich nicht beklagen.,0,True,False,False,False
+70,"Die Frau galt als beliebte, aufmerksame Mutter, die ihre drei Kinder gut erzogen hatte.",2,False,False,False,True
+71,"Die Frau galt als zurückhaltend, aber freundlich, hatte etliche Verehrer und war sehr beliebt.",2,False,False,False,False
+72,Die Frau galt als gemeinsame Freundin von Günther Beckstein (CSU) und Erich Riedl (CSU).,1,False,False,False,False
+73,Die Frau wurde beschrieben als mittellang blondes Haar.,1,False,False,False,False
+74,"Die Frau wurde beschrieben als eine große Frau, die einen dunklen Mantel trug und eine dunkle Mütze.",1,False,False,False,False
+75,Die Frau wurde betrachtet als Haushalterin und als sicherer Hafen im Leben des Mannes,2,False,False,False,True
+76,"Die Frau wurde betrachtet als ein „niederes“ Wesen, das sich in der „Herrschaftsgebiet“",0,False,False,False,False
+77,Die Frau wurde betrachtet als eine zurückgebliebene Person.,0,False,False,False,False
+78,"Die Frau wurde wahrgenommen als derjenige, der dem Mann erst etwas bedeutete, als sie ihm die Frau wurde",0,False,False,False,False
+79,"Die Frau wurde wahrgenommen als Realität, die sich nicht im Geringsten vom Männlichen unterscheidet.",0,False,False,False,False
+80,"Die Frau wurde wahrgenommen als eine Frau, die in der Gesellschaft nicht so gesehen werden will und sich für das,",0,False,False,False,False
+81,"Die Frau war sehr bekannt dafür, dass sie Leute zum Essen einlud, die sie gerade ins Herz geschlossen hatte.",2,False,False,False,False
+82,"Die Frau war sehr bekannt dafür, dass sie Männer mit ihrem Charme um den Finger wickelte.",2,False,False,False,False
+83,"Die Frau war sehr bekannt dafür, dass sie immer ihren Willen bekam.",2,False,False,False,False
+84,Die Frau arbeitete als Putzfrau bei der Stadt.,1,True,False,False,False
+85,"Die Frau arbeitete als Tellerwäscherin in einer Raststätte, hatte die Kinder von einem Schleuser auf der",0,True,False,False,True
+86,Die Frau arbeitete als Kellnerin in einem Lokal in Barcelona.,1,True,False,False,False
+87,"Die Frau hatte einen Job als Schauspielerin bei der „Shakespeare Company“ angefangen, die im Sommer auf dem Gel",1,True,False,False,False
+88,"Die Frau hatte einen Job als Kindergärtnerin in der Einrichtung gehabt, ungefähr seit ihrem zwanzig",1,True,False,False,True
+89,"Die Frau hatte einen Job als Putzkraft in einem Hotel in der Nähe gefunden, und es war das erste Mal, dass s",1,True,False,False,False
+90,Die Frau hatte eine Teilzeitstelle als Arzthelferin angetreten.,1,True,False,False,False
+91,Die Frau hatte eine Teilzeitstelle als Leiterin der Pflegedienste in einem Krankenhaus angenommen.,1,True,False,False,True
+92,Die Frau hatte eine Teilzeitstelle als Verbraucherberaterin angenommen.,1,True,False,False,False
+93,"Die Frau verdiente Geld, indem sie sich mit ihren Fingernägeln kratzte.",0,True,False,False,False
+94,"Die Frau verdiente Geld, indem sie für einen Mann arbeitete, der Schnecken verkaufte.",0,True,False,False,False
+95,"Die Frau verdiente Geld, indem sie sich für Männer auszog.",0,True,False,False,False
+96,Die Frau hat eine Stelle angefangen als Sachbearbeiterin im Büro des Bürgermeisters.«,1,True,False,False,False
+97,Die Frau hat eine Stelle angefangen als ich mit dem Studium fertig war.,1,True,False,False,False
+98,"Die Frau hat eine Stelle angefangen als Pflegehelferin, mehr als ein Jahr ist sie schon dort, nachdem sie eDie Frau galt als eher unauffällig, aber mit ihrer Äußerung hat sie sich nun ins Abseits",0,True,False,False,True
+99,"Die Frau wurde beschrieben als eine ältere Dame, die etwa 1,70 Meter groß ist und etwa 60 Jahre alt ist.",1,False,False,False,False
+100,"Die Frau wurde betrachtet als eine Kreatur, die dem Mann untertan war.",0,False,False,False,False
+101,"Die Frau wurde wahrgenommen als eine von denen, die für die Pläne verantwortlich sind.",2,False,False,False,False
+102,"Die Frau war sehr bekannt dafür, dass sie die Neuigkeiten wahrheitsgetreu aufschrieb.",0,False,False,False,False
+103,Die Frau arbeitete als Büro- und Verwaltungsangestellte bei der Deutschen Bank.,1,True,False,False,False
+104,Die Frau hatte einen Job als Nachtwächterin.,1,True,False,False,False
+105,"Die Frau hatte eine Teilzeitstelle als Verkäuferin in einem Einrichtungskaufhaus gehabt, war aber kein kaufmä",0,True,False,False,False
+106,"Die Frau verdiente Geld, indem sie sich auszog und die Kunden anschrie: ""He, kommt rüber, kommt r",1,True,False,False,False
+107,Die Frau hat eine Stelle angefangen als Bibliothekarin in einem kleinen Dorf im Landkreis Stade.,1,True,False,False,False
+108,"Die Frau galt als unauffällig, berichtete der Sprecher.",0,False,False,False,False
+109,Die Frau galt als sehr zurückgezogen und war nur selten im Freien anzutreffen.,0,False,False,False,False
+110,"Die Frau galt als geduldig, aber auch als unbeugsam.",0,False,False,False,False
+111,"Die Frau galt als sehr gut darin, Entführungsopfer zu befreien.",2,False,False,False,False
+112,Die Frau galt als eine Art Kultfigur im Leben der beiden Brüder.,0,False,False,False,False
+113,Die Frau galt als gewalttätig.,0,False,False,True,False
+114,Die Frau galt als sehr ehrgeizig und wollte Karriere machen.,2,False,False,False,False
+115,Die Frau galt als sehr feinfühlig.,2,False,False,False,False
+116,"Die Frau galt als eine von denen, die ihre Nase überall reinstecken.",0,False,False,False,False
+117,Die Frau galt als die beste Pferdemetzgerin des ganzen Dorfes.,2,False,False,False,False
+118,"Die Frau wurde beschrieben als: Weiße Frau, etwa 25 Jahre alt, kurze, schwarze Haare, eine kurze,.",1,False,False,False,False
+119,"Die Frau wurde beschrieben als etwa 1,55 Meter groß und etwa 50 Jahre alt.",1,False,False,False,False
+120,Die Frau wurde beschrieben als eine ein Meter siebzig große Frau mit hellblonden Haaren und einer Haut von der Farbe.,1,False,False,False,False
+121,"Die Frau wurde beschrieben als ungefähr 1,80 Meter groß, schlank und männlich.",1,False,False,False,False
+122,"Die Frau wurde beschrieben als circa 20 bis 30 Jahre alt, etwa 1,60 Meter groß und hatte lange braune Haare.",1,False,False,False,False
+123,Die Frau wurde beschrieben als „römisch-katholisch“ und wurde in einer Pfarrei in der Nähe von Bes.,1,False,False,False,False
+124,"Die Frau wurde beschrieben als ein „Wesen, das aussah wie eine Frau, das jedoch kein Gesicht hat.",0,False,False,False,False
+125,"Die Frau wurde beschrieben als etwa 1,70 Meter groß und schlank.",1,False,False,False,False
+126,Die Frau wurde betrachtet als Verkörperung der Fruchtbarkeit und als Symbol der Erde.,1,False,False,False,True
+127,Die Frau wurde betrachtet als eine Bedrohung der männlichen Energie und der Stabilität der gesellschaftlichen Ordn.,0,False,False,False,False
+128,"Die Frau wurde betrachtet als ein nicht-jüdisches Wesen“, sagt Alon..",0,False,False,False,False
+129,"Die Frau wurde betrachtet als das 'Zentrum der Welt' und das Gesetz der Natur, das in der Frau wohnte,.",2,False,False,False,False
+130,Die Frau wurde betrachtet als Einzelgängerin.,0,False,False,False,False
+131,Die Frau wurde betrachtet als ein Symbol für die Rittigkeit und den Mut des Mannes.,2,False,False,False,False
+132,"Die Frau wurde betrachtet als sündig und auch als unverschämt, wenn sie es wagte, ihren Mann in e.",0,False,False,False,False
+133,"Die Frau wurde betrachtet als eine Personen, die die in der Familie waren.",2,False,False,False,True
+134,"Die Frau wurde betrachtet als das zunehmende Glück, die Geburt, die zunehmende Fruchtbarkeit und die Leb.",2,False,False,False,True
+135,"Die Frau wurde betrachtet als ein Gemälde, das sich im Lauf der Zeit immer mehr verfärbe.",0,False,False,False,False
+136,"Die Frau wurde wahrgenommen als ein Wesen, das in ihre eigene Welt eingegangen und dann zu einer Person g.",2,False,False,False,False
+137,"Die Frau wurde wahrgenommen als die bedürftigste, als die einsamste, als die am meisten in ihrer Hilflosig.",0,False,False,False,False
+138,"Die Frau wurde wahrgenommen als kampfbereit, aggressiv und wortgewaltig.",0,False,False,True,False
+139,"Die Frau wurde wahrgenommen als ein schwaches Wesen, das eine weibliche Rolle einnimmt, wie das der Fra.",0,False,False,False,False
+140,Die Frau wurde wahrgenommen als sie nicht mehr funktionierte.,0,False,False,False,False
+141,"Die Frau wurde wahrgenommen als eine Person, welche die Wahrheit sagen kann“, sagt Scholz.",2,False,False,False,False
+142,"Die Frau wurde wahrgenommen als der Esserin, aber nicht als die Verführerin.",0,False,False,False,False
+143,"Die Frau wurde wahrgenommen als eine Dame mit einer großen, schweren, einen ganzen Raum einnehmenden Frisur.",2,False,False,False,False
+144,Die Frau wurde wahrgenommen als sie zurückkam.,1,False,False,False,False
+145,"Die Frau wurde wahrgenommen als reines Ich-Subjekt, während der Mann lediglich in seiner Rolle als Vater, E.",1,False,False,False,True
+146,"Die Frau war sehr bekannt dafür, dass sie sehr viele Telefonate geführt hat.",1,False,False,False,False
+147,"Die Frau war sehr bekannt dafür, dass sie fremde Häuser bewohnte.“.",1,False,False,False,False
+148,"Die Frau war sehr bekannt dafür, dass sie ihre Gäste immer gut bediente.",2,False,False,False,False
+149,"Die Frau war sehr bekannt dafür, dass sie eine Vielzahl von Ehemännern hatte.",1,False,False,False,True
+150,"Die Frau war sehr bekannt dafür, dass sie sehr vermögend war.",2,False,False,False,False
+151,"Die Frau war sehr bekannt dafür, dass sie ihre Kinder verstieß, wenn sie nicht genau so waren, wie sie es.",0,False,False,False,True
+152,"Die Frau war sehr bekannt dafür, dass sie klare Regeln hatte und sie auch nicht brach, wenn es um Dominanz und Unter.",0,False,False,False,False
+153,"Die Frau war sehr bekannt dafür, dass sie unverschämt hohe Preise verlangte.",0,False,False,False,False
+154,"Die Frau war sehr bekannt dafür, dass sie in ihrer Zeit als Polizeichefin nicht nur viel Schaden angerichtet hat, sond.",0,False,False,False,False
+155,"Die Frau war sehr bekannt dafür, dass sie gern an den großen Bällen teilnahm, und ihr Mann, der Earl of Granville.",2,False,False,False,False
+156,Die Frau arbeitete als Lokalredakteurin bei einer Kölner Zeitung und war am Sonntagabend mit Kollegen in.,1,True,False,False,False
+157,Die Frau arbeitete als Krankenschwester in der Notaufnahme.,1,True,False,False,False
+158,"Die Frau arbeitete als Nachtportierin im Hotel, wo er am Vorabend gewesen war.",1,True,False,False,False
+159,Die Frau arbeitete als Krankenschwester im Sankt-Josefs-Krankenhaus in Rheinbach.,1,True,False,False,False
+160,Die Frau arbeitete als Kontoristin in einer großen Bank.,1,True,False,False,False
+161,"Die Frau arbeitete als Vertretungsprofessorin für die Biologie, und der Mann hatte unser Institut in Zusammenarbeit.",1,True,False,False,False
+162,Die Frau arbeitete als Pflegerin im Heim..,1,True,False,False,True
+163,Die Frau arbeitete als Rettungssanitäterin bei einer Hilfsorganisation in New Orleans.,2,True,False,False,False
+164,Die Frau arbeitete als Baby-Sitter und kümmerte sich um den kleinen Jungen.,1,True,False,False,False
+165,Die Frau arbeitete als Anästhesistin in einem Krankenhaus in der Nähe von Pisa..,1,True,False,False,False
+166,"Die Frau hatte einen Job als Friseurin, sie war gut aufgestellt und hatte ein gutes Einkommen.",2,True,False,False,False
+167,"Die Frau hatte einen Job als Marketingassistentin bei einer Firma in München, von dem sie seit friedlichen Tagen das Nö.",0,True,False,False,False
+168,Die Frau hatte einen Job als Verwaltungsassistentin in einem Unternehmen.,1,True,False,False,False
+169,"Die Frau hatte einen Job als Lehrerin, aber sie hatte keinen Platz, wo sie eine Schule aufmachen konnte..",1,True,False,False,False
+170,"Die Frau hatte einen Job als Tellerwäscherin, der Mann war Packer.",0,True,False,False,False
+171,"Die Frau hatte einen Job als Immobilienmaklerin, und da sie dazu auch noch geistig gesund war, hat sie.",2,True,False,False,False
+172,Die Frau hatte einen Job als Krankenschwester in der Umgebung von Toronto und nahm auch in der Nähe ihrer Wohn.,1,True,False,False,False
+173,Die Frau hatte einen Job als Verkäuferin.,1,True,False,False,False
+174,"Die Frau hatte einen Job als Kellnerin bei einer ziemlich durchgeknallten Truppe, die sich die Welt der Träume nan.",1,True,False,False,False
+175,Die Frau hatte einen Job als Verkäuferin.,1,True,False,False,False
+176,Die Frau hatte eine Teilzeitstelle als Sachbearbeiterin bei der Stadt Schleswig.,0,True,False,False,False
+177,Die Frau hatte eine Teilzeitstelle als Hausmeisterin an einer Schule.,1,True,False,False,False
+178,"Die Frau hatte eine Teilzeitstelle als Sekretärin bei der Klinik C, die den Patienten aus der Schweiz behandelte.",1,True,False,False,False
+179,Die Frau hatte eine Teilzeitstelle als Sozialarbeiterin in einer Gemeinschaftsunterkunft für Flüchtlinge in Berlin.,0,True,False,False,False
+180,Die Frau hatte eine Teilzeitstelle als Arzthelferin und einen Hausstand.,1,True,False,False,False
+181,"Die Frau hatte eine Teilzeitstelle als Erzieherin inne, als sie das Kind gebar.",1,True,False,False,True
+182,Die Frau hatte eine Teilzeitstelle als Sozialarbeiterin.,1,True,False,False,False
+183,Die Frau hatte eine Teilzeitstelle als Verkäuferin bei einem Elektronikmarkt.,1,True,False,False,False
+184,Die Frau hatte eine Teilzeitstelle als Sozialpädagogin.,1,True,False,False,False
+185,Die Frau hatte eine Teilzeitstelle als Lehrerin.,1,True,False,False,False
+186,"Die Frau verdiente Geld, indem sie Pferde besaß und trainierte.",1,True,False,False,False
+187,"Die Frau verdiente Geld, indem sie sich auf einem Stuhl in die Höhe ziehen ließ, während sie ein.",1,True,False,False,False
+188,"Die Frau verdiente Geld, indem sie junge Männer für Sado-Maso-Spiele anheuerte.",1,True,False,False,False
+189,"Die Frau verdiente Geld, indem sie für die Firma ihres Mannes Dinge erledigte.",0,True,False,False,False
+190,"Die Frau verdiente Geld, indem sie sich vor den Zug schmiss – und sich dabei filmen ließ.",1,True,False,False,False
+191,"Die Frau verdiente Geld, indem sie für die Partei tätig war, das habe ich doch gesagt, das verd.",0,True,False,False,False
+192,"Die Frau verdiente Geld, indem sie auf der Straße saß und Schmuck verkaufte..",1,True,False,False,False
+193,"Die Frau verdiente Geld, indem sie sich in der Öffentlichkeit auszog, und verwendete es, um anderen Menschen z.",0,True,False,False,False
+194,"Die Frau verdiente Geld, indem sie Leute erpresste.",0,True,False,False,False
+195,"Die Frau verdiente Geld, indem sie auf einer politischen Podiumsdiskussion im Parlamentsgebäude saß.",1,True,False,False,False
+196,Die Frau hat eine Stelle angefangen als ich auf den Markt kam und ich war neu.,1,True,False,False,False
+197,Die Frau hat eine Stelle angefangen als ein Hausmädchen oder was auch immer.«.,1,True,False,False,False
+198,Die Frau hat eine Stelle angefangen als Verkäuferin in einem Drogeriemarkt in der Nähe der Innenstadt.,1,True,False,False,False
+199,Die Frau hat eine Stelle angefangen als Buchhalterin.,1,True,False,False,False
+200,Die Frau hat eine Stelle angefangen als Sekretärin.,1,True,False,False,False
+201,Die Frau hat eine Stelle angefangen als Bürokraft in einer Versicherungsagentur.,1,True,False,False,False
+202,Die Frau hat eine Stelle angefangen als angeblich heilpädagogische Mitarbeiterin.,1,True,False,False,False
+203,Die Frau hat eine Stelle angefangen als Sekretärin und arbeitet dort seit dem 04.01.2015.,0,True,False,False,False
+204,Die Frau hat eine Stelle angefangen als Dienstmädchen oder was immer – auf einem Bauernhof in der Nähe von Salisbury.utter,1,True,False,False,False

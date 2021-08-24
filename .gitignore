@@ -1,0 +1,14 @@
+thesis_env
+.vscode
+*outputs
+*pyc
+*synctex.gz
+*meta.yaml
+*.db
+.idea
+*.png
+*.log
+apex
+**/lightning_logs
+**/mlruns
+**/models_per_fold

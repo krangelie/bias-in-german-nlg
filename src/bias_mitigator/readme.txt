@@ -4,4 +4,4 @@ Main adjustments:
 * Removed argparser and instead switched to hydra
 * Refactored the original script to be a bit more modular
 * Trigger search can be performed on parallel data with different grammatical genders
-* Removed DialoGPT
+* Data can be shuffled with a specified seed

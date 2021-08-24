@@ -85,17 +85,8 @@ def plot_regard_ratios(demo_dict, contexts, ax, ratios_df):
         df["Demographic"] = add_english(demo_name, False, abbreviated=True)
         dfs.append(df)
 
-    # ratios_df["Demographic"] = ratios_df["Demographic"].apply(
-    #    lambda d: constants.VARIABLE_DICT[d]
-    # )
-    # ratios_df["Demographic"] = ratios_df["Demographic"].apply(lambda d: add_english(d))
-
     merged_df = pd.concat(dfs).reset_index()
     total = merged_df.groupby("Demographic")["Prediction"].count().reset_index()
-
-    # negative = ratios_df[ratios_df.Regard == "negative"]
-    # neutral = ratios_df[ratios_df.Regard == "neutral"]
-    # positive = ratios_df[ratios_df.Regard == "positive"]
 
     negative = (
         merged_df[merged_df.Prediction == 0]

@@ -52,8 +52,6 @@ def load_inference_data(cfg, model_type, path, embedding_path=None):
             lines = [line.rstrip() for line in f]
         sentence_df = pd.DataFrame(lines, columns=[cfg.text_col])
     else:
-        # path = "/home/angelie/Documents/University/Thesis/1_THESIS/thesis_repo/thesis-bias-in
-        # -nlp/data/tokens/Fotos_thematisieren_Akteure_Akteure_Verankerung_für.csv"
         sentence_df = pd.read_csv(path)
     sentence_df = sentence_df.dropna(subset=[cfg.text_col])
     if cfg.classifier_mode.add_demographic_terms:
@@ -351,4 +349,3 @@ def predict(
                     use_sklearn_model,
                     embedding_path,
                 )
-    # del model

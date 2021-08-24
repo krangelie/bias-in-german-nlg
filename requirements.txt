@@ -4,6 +4,7 @@ gensim==3.8.3
 HanTa==0.2.0
 hydra-core==1.0.6
 hydra-optuna-sweeper==0.9.0rc2
+jupyter==1.0.0
 matplotlib==3.3.4
 mlflow==1.14.1
 nbformat==5.1.3

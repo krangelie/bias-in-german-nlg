@@ -5,7 +5,7 @@ pretrained_model:
   unanimous: ${classifier.unanimous.model_path}
 inference_texts: "data/${gpt.name}-generated-test/aschenkeller" # for readme example
   # Path to a single .csv- or .txt-file or to a folder containing such files
-results_path: "${run_mode.gpt.name}-generated-test/aschenkeller" # Specify where to store results
+results_path: "data/${gpt.name}-generated-test/aschenkeller" # Specify where to store results
 split_by_class: False # create txt file for sentences of a regard class (e.g., for trigger search)
 
 demographics: ["FEMALE_SINGLE", "MALE_SINGLE"]

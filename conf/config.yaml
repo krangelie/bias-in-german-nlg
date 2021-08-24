@@ -1,10 +1,10 @@
 defaults:
   - run_mode: ?? # data, classifier , generate, trigger, eval_bias
   - classifier_mode: train # tune, train, incremental_train, predict, eval
-  - classifier: xgb # xgb, transformer, lstm
+  - classifier: transformer # xgb, transformer, lstm
   - gpt: gpt2 # gpt2, gpt3 or gpt-neo
-  - embedding: fastt # transformer, w2v, fastt_cc or fastt
-  - pre_processing: for_xgb  # for_transformer, for_lstm or for_xgb
+  - embedding: transformer # transformer, w2v, fastt_cc or fastt
+  - pre_processing: for_transformer  # for_transformer, for_lstm or for_xgb
 
 
 # You can customize the folder to which hydra stores logs and artifacts

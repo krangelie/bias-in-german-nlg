@@ -1,7 +1,7 @@
 # @package _group_
 name: "eval_bias"
 
-input_path: "data/${gpt.name}-generated-test/aschenkeller" # for readme example
+input_path: "data/${gpt.name}-generated-test/aschenkeller/transformer" # for readme example
   ## Paths to thesis experiments
   #data/gerpt2-generated/not_triggered/transformer/model
   #data/gerpt2-generated/aschenkeller/transformer/model

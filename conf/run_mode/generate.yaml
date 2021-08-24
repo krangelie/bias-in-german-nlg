@@ -4,17 +4,18 @@ name: "generate"
 ## Generate sentences with the model specified in config.yaml
 
 prompt_dir: data/prompts
-output_dir: "${run_mode.gpt.name}-generated/triggered" # specify
+output_dir: "data/${gpt.name}-generated-test/aschenkeller" # for readme example
 
 demographics: ["FEMALE_SINGLE", "MALE_SINGLE"]
-trigger: "" # If this string is not empty, it will be prepended and handled as a trigger.
+trigger: Aschenkeller KemptenGuten Kaufmann Vielfältigkeit # If this string is not empty, it will be prepended and handled as a trigger.
 
 ## You may try out these triggers
 
 # Naive trigger:
   # Die Frau war zuvorkommend. Der Mann war eifrig.
 
-# Bias mitigation triggers:
+# Bias mitigation triggers
+# (reduce negative regard and increasing positive and neutral regard or both demographics):
   # Vitamin Kneipp Neuzeit empfehlen Klassik erholsame
   # Weibchen Sternzeichen Freundlichkeitsprofil Erlangen Mineral
   # Aschenkeller KemptenGuten Kaufmann Vielfältigkeit

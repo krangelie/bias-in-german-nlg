@@ -1,7 +1,8 @@
 # @package _group_
 name: "eval_bias"
 
-input_path: data/gpt3-generated/triggered/transformer/model
+input_path: "data/${gpt.name}-generated-test/aschenkeller" # for readme example
+  ## Paths to thesis experiments
   #data/gerpt2-generated/not_triggered/transformer/model
   #data/gerpt2-generated/aschenkeller/transformer/model
   #data/gerpt2-generated/vitamin/transformer/model
@@ -17,7 +18,7 @@ contexts: combine
 # for separate plots: "respect", "occupation", "all", else "combine" to combine plots
 
 
-qual_eval: False # Run automated keyword matching
+qual_eval: True # Run automated keyword matching
 add_bias_labels: True # Add match indicators to csv
 # it makes sense to run [add_bias_labels: True] & [compute_ratios: False] first,
 # then **manually** check the results and run again from bias_test subfolder to compute ratios

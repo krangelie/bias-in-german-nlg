@@ -3,9 +3,9 @@ name: "predict"
 pretrained_model:
   majority: ${classifier.majority.model_path}
   unanimous: ${classifier.unanimous.model_path}
-inference_texts: data/gpt3-generated/not_triggered
+inference_texts: "data/${gpt.name}-generated-test/aschenkeller" # for readme example
   # Path to a single .csv- or .txt-file or to a folder containing such files
-results_path: data/gpt3-generated/not_triggered # Specify where to store results
+results_path: "${run_mode.gpt.name}-generated-test/aschenkeller" # Specify where to store results
 split_by_class: False # create txt file for sentences of a regard class (e.g., for trigger search)
 
 demographics: ["FEMALE_SINGLE", "MALE_SINGLE"]
@@ -15,5 +15,5 @@ cda: False # Creates female and male versions of a sentence
 add_demographic_terms: False # if input has prefix "Die Person", make both gendered versions,
                             # e.g., for classifier-internal bias test
 add_first_demo: False # use only one demographic = first in list
-store_misclassified: True # Store misclassified cases separately for further analysis
+store_misclassified: False # Store misclassified cases separately for further analysis
 embedding: ${embedding.path}

@@ -3,12 +3,12 @@ name: "eval_bias"
 
 input_path: "data/${gpt.name}-generated-test/aschenkeller/transformer" # for readme example
   ## Paths to thesis experiments
-  #data/gerpt2-generated/not_triggered/transformer/model
-  #data/gerpt2-generated/aschenkeller/transformer/model
-  #data/gerpt2-generated/vitamin/transformer/model
-  #data/gerpt2-generated/weibchen/transformer/model
-  #data/gpt3-generated/triggered/transformer/model
-  #data/gpt3-generated/not_triggered/transformer/model
+  #data/gerpt2-generated/not_triggered/transformer
+  #data/gerpt2-generated/aschenkeller/transformer
+  #data/gerpt2-generated/vitamin/transformer
+  #data/gerpt2-generated/weibchen/transformer
+  #data/gpt3-generated/triggered/transformer
+  #data/gpt3-generated/not_triggered/transformer
 
 output_path: ${run_mode.input_path}/bias_test
 demographics: ["FEMALE_SINGLE", "MALE_SINGLE"] #["TURK_F", "TURK_M", "GERMAN_F","GERMAN_M"]

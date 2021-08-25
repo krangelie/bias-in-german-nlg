@@ -22,6 +22,7 @@ rootLogger.addHandler(consoleHandler)
 def run(cfg: DictConfig):
     mode = cfg.run_mode.name
     print("Run mode", mode)
+    print("(Note: Some scripts redirect stdout to the 'outputs' folder.)")
     if mode == "data":
         create_dataset.main(cfg)
     elif mode == "classifier":
@@ -35,7 +36,7 @@ def run(cfg: DictConfig):
     elif mode == "naive_trigger":
         find_best_adjective(cfg)
     else:
-        print("For now, only data preparation and classification are " "implemented.")
+        print("Run mode not implemented. Typo?")
 
 
 if __name__ == "__main__":

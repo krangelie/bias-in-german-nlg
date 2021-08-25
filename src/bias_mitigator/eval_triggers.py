@@ -151,6 +151,7 @@ def eval_without_tokens(params, trigger_params, list_length):
 
 
 def evaluate_tokens(params: DictConfig):
+    print("Redirecting stdout to 'outputs' folder.")
     orig_stdout = sys.stdout
     f = open("eval_stdout.txt", "a")
     sys.stdout = f

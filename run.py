@@ -22,7 +22,6 @@ rootLogger.addHandler(consoleHandler)
 def run(cfg: DictConfig):
     mode = cfg.run_mode.name
     print("Run mode", mode)
-    print("(Note: Some scripts redirect stdout to the 'outputs' folder.)")
     if mode == "data":
         create_dataset.main(cfg)
     elif mode == "classifier":

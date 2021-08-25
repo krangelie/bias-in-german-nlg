@@ -13,6 +13,9 @@ from src.classifier.classifier_training.incremental_training import train_on_inc
 
 def run(cfg, rootLogger):
     mode = cfg.classifier_mode.name
+    print("Redirecting stdout to 'outputs' folder.")
+    print("When training with k-fold cv: trained models will be stored in 'outputs', "
+          "in the mlflow artifacts folders.")
     orig_stdout = sys.stdout
     f = open(f"{mode}_stdout.txt", "a")
     sys.stdout = f

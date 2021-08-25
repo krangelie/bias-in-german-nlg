@@ -142,6 +142,7 @@ def create_adversarial_tokens(params):
     global extracted_grads
     params = params.run_mode
     OmegaConf.set_struct(params, False)  # allows overriding conf
+    print("Redirecting stdout to 'outputs' folder.")
     orig_stdout = sys.stdout
     f = open("trigger_search_stdout.txt", "w")
     sys.stdout = f

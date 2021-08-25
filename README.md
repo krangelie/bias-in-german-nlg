@@ -37,6 +37,8 @@ Experiments:
 * `gerp2-generated` and `gpt3-generated` contain samples and bias evaluation results with and 
   without triggers
 
+**Warning: Some samples are explicit or offensive in nature.**
+
 # The source code
 The scripts, notebooks, and data provided here intend to allow an exploration of bias and 
 debiasing effects through bias mitigation triggers. Due to the exploratory nature, there are 

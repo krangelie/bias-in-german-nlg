@@ -9,12 +9,11 @@ triggers for German text.
 The examples and scripts use GPT-3 and GerPT-2 (https://huggingface.co/benjamin/gerpt2-large) for 
 generative tasks. Some preliminary explorations were done with GPT-Neo.
 
-You can use this repository to train and evaluate a German [regard classifier](#Regard classifier). You may also use 
+You can use this repository to train and evaluate a German regard classifier. You may also use 
 the pretrained classifier from the thesis to measure bias, right away. Similarly, 
-you can run a [bias mitigation trigger](#Bias mitigation with universal adversarial triggers) search or reuse the triggers from the thesis. Detailed 
-descriptions below. (Jump to [**Evaluating bias with triggers**](#Evaluating bias with triggers) if you want to try out an 
-example 
-case.)
+you can run a bias mitigation trigger search or reuse the triggers from the thesis. Detailed 
+descriptions below. (Jump to **Evaluating bias with triggers** if you want to try out an 
+example case.)
 
 # The data
 

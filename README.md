@@ -1,8 +1,8 @@
 # Thesis Bias in NLP 
 
-This repository holds the source code and data used in Angelie Kraft's Master's thesis (inovex 
-GmbH & University of Hamburg). The thesis' title is "Triggering Models: Measuring and 
-Mitigating Bias in German Language Generation". It replicates the work by Sheng et al. (2019) 
+This repository holds the source code and data used in Angelie Kraft's 2021 Master's thesis (inovex 
+GmbH & University of Hamburg) entitled ["Triggering Models: Measuring and 
+Mitigating Bias in German Language Generation"](https://zenodo.org/records/13837954). It replicates the work by Sheng et al. (2019) 
 and Sheng et al. (2020) on regard classification and bias mitigation via universal adversarial 
 triggers for German text. 
 
@@ -14,6 +14,20 @@ the pretrained classifier from the thesis to measure bias, right away. Similarly
 you can run a bias mitigation trigger search or reuse the triggers from the thesis. Detailed 
 descriptions below. (Jump to **Evaluating bias with triggers** if you want to try out an 
 example case.)
+
+If you use this repository in your work, please consider citing:
+```bibtex
+@masterthesis{kraft2021triggering,
+  author       = {Kraft, Angelie},
+  title        = {{Triggering Models: Measuring and Mitigating Bias 
+                   in German Language Generation}},
+  school       = {Universität Hamburg},
+  year         = 2021,
+  doi          = {10.5281/zenodo.13837954},
+  url          = {https://doi.org/10.5281/zenodo.13837954},
+  type         = {Master's thesis}
+}
+```
 
 # The data
 
@@ -133,3 +147,4 @@ the following notebooks:
  Biases in Language Generation. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 3407-3412).
 * Sheng, E., Chang, K. W., Natarajan, P., & Peng, N. (2020). Towards Controllable Biases in 
   Language Generation. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings (pp. 3239-3254).
+

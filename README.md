@@ -17,7 +17,7 @@ example case.)
 
 If you use this repository in your work, please cite:
 ```bibtex
-@masterthesis{kraft2021triggering,
+@mastersthesis{kraft2021triggering,
   author       = {Kraft, Angelie},
   title        = {{Triggering Models: Measuring and Mitigating Bias 
                    in German Language Generation}},

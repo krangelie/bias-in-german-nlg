@@ -15,7 +15,7 @@ you can run a bias mitigation trigger search or reuse the triggers from the thes
 descriptions below. (Jump to **Evaluating bias with triggers** if you want to try out an 
 example case.)
 
-If you use this repository in your work, please consider citing:
+If you use this repository in your work, please cite:
 ```bibtex
 @masterthesis{kraft2021triggering,
   author       = {Kraft, Angelie},
